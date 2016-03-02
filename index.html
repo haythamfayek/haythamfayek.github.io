@@ -1,276 +1,34 @@
+---
+layout: default
+---
 
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Haytham Fayek</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<meta name="author" content="Haytham Fayek">
-		<meta name="description" content="Personal Webpage of Haytham Fayek">
-		<meta name="keywords" content="haytham, haytham fayek, haytham m. fayek, researcher, artificial intelligence, ai, deep learning, machine learning, neural networks, type-2 fuzzy logic, fuzzy logic, technologist, rmit, utp, egypt, egyptian, alexandria, australia, melbourne">
-        <!-- Fav Icon -->
-        <link rel="icon" type="image/png" href="images/HF_logo_fav1.png">
-		<!-- Analytics -->
-		<script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-          ga('create', 'UA-63097921-1', 'auto');
-          ga('send', 'pageview');
-        </script>
-        <!-- End Analytics -->
-	</head>
-	<body>
+<div class="home">
 
-		<!-- Header -->
-		<section id="header">
-			<header>
-				<span class="image avatar"><img src="images/Haytham.jpg" alt="" /></span>
-				<h1 id="logo"><a href="#">Haytham Fayek</a></h1>
-				<!--<p>PhD Student, Engineer, Technophile</p>-->
-			</header>
-			<nav id="nav">
-				<ul>
-					<li><a href="#one" class="active">About</a></li>
-					<li><a href="#two">Publications</a></li>
-					<li><a href="#three">Awards</a></li>
-					<li><a href="#four">Presentations</a></li>
-					<li><a href="#five">Ancillaries</a></li>
-					<li><a href="#six">Contact</a></li>
-				</ul>
-			</nav>
-			<footer>
-				<ul class="icons">
-					<li><a href="https://twitter.com/haythamfayek" title="Twitter" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-	                <li><a href="https://www.linkedin.com/in/haythamfayek/" title="LinkedIn" target="_blank" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-	                <li><a href="https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1" title="Google Scholar" target="_blank" class="icon fa-google"><span class="label">Google Scholar</span></a></li>
-	                <li><a href="https://github.com/haythamfayek" title="GitHub" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
-	                <!-- <li><a href="https://www.researchgate.net/profile/Haytham_Fayek" title="Research Gate" target="_blank" class="icon fa-book"><span class="label">Research Gate</span></a></li> -->
-					<script type="text/javascript">
-						//<![CDATA[
-						<!--
-						var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
-						"=33){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
-						".substr(0,ol);}f(\")901,\\\"YQ[v|c57uef6yij=3!#`r!%*'410\\\\vd030\\\\.%\\\\" +
-						"\\\\]V230\\\\jt\\\\ACO@I010\\\\HERS\\\"\\\\\\\"\\\\8Dsd}|kzdm+ed 320\\\\420" +
-						"\\\\230\\\\630\\\\W/L430\\\\630\\\\n\\\\500\\\\400\\\\EA=228w<0*0) *!3<\\\"" +
-						"\\\\)771\\\\U100\\\\VCYZPB710\\\\w420\\\\A@QI?|''~y/3'cglslqvP010\\\\420\\\\"+
-						"530\\\\330\\\\100\\\\120\\\\730\\\\n\\\\\\\"(f};o nruter};))++y(^)i(tAedoCr" +
-						"ahc.x(edoCrahCmorf.gnirtS=+o;721=%y;++y)901<i(fi{)++i;l<i;0=i(rof;htgnel.x=" +
-						"l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                       ;
-						while(x=eval(x));
-						//-->
-						//]]>
-					</script>
-				</ul>
-			</footer>
-		</section>
+    <!--<img src="assets/haytham.jpg" alt="Haytham Fayek" class="main-image">-->
+    <h1 class="main-heading">{{ site.title }}</h1>
+    <p> {{ site.description }}</p>
 
-		<!-- Wrapper -->
-		<div id="wrapper">
+    <p>
+        {% for my_page in site.pages %}
+        {% if my_page.title %}
+            <a class="page-link main-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        {% endif %}
+        {% endfor %}
+    <p>
 
-			<!-- Main -->
-			<div id="main">
+    <ul class="social-media-list">
+        {% if site.twitter_username %}
+            <li>
+              {% include icon-twitter.html username=site.twitter_username %}
+            </li>
+        {% endif %}
 
-				<!-- One -->
-				<section id="one">
-					<div class="container">
-						<header class="major">
-							<h3>Hi there!</h3>
-						</header>
-						<p>I am a VCPS PhD student at the School of Electrical and Computer Engineering, RMIT University. My research interests are Artificial Intelligence, Machine Learning and Intelligent Systems; with an emphasis on Deep Learning and Neural Networks and their applications in Speech Processing and Affective Computing. I have previously worked with Fuzzy Logic, Bio-Inspired Optimization, Computer Vision, Control Theory, Robotic Control and Renewable Energy.</p>
-						<p>Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from the Petronas University of Technology and worked as an Electrical / Electronics Engineer for three years. I am a member of the Institute of Electrical and Electronic Engineers (IEEE) and the Association for Computing Machinery (ACM).</p>
-					</div>
-				</section>
+        {% if site.github_username %}
+            <li>
+                {% include icon-github.html username=site.github_username %}
+            </li>
+        {% endif %}
 
-				<!-- Two -->
-				<section id="two">
-					<div class="container">
-						<h3>Publications</h3>
-                    	<h4 class="link"><a href="https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a></h4>
-		                <h4>2015</h4>
-						<ol>
-							<li><strong>H.M. Fayek</strong>, M. Lech, L. Cavedon, <i>Towards Real-time Speech Emotion Recognition using Deep Neural Networks</i>, Signal Processing and Communication Systems (ICSPCS), 2015 9th International Conference on, Cairns, QLD, Australia. <a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7391796&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7391796" target="_blank">[url]</a> <a href="res/bib/icspcs.bib" target="_blank">[bib]</a></li>
-						</ol>
-						<h4>2014</h4>
-		                <ol>
-		                    <li><strong>H.M. Fayek</strong>, I. Elamvazuthi, N. Perumal, B. Venkatesh, <i>A Controller based on Optimal Type II Fuzzy Logic: Systematic Design, Optimization and Real-time Implementation</i>, ISA Transactions, 53 (5), 1583-1591, September 2014. <a href="http://www.sciencedirect.com/science/article/pii/S0019057814001219" target="_blank">[url]</a> <a href="res/bib/isa.bib" target="_blank">[bib]</a></li>
-							<li>P.N.Q. Nhon, I. Elamvazuthi, <strong>H.M. Fayek</strong>, S. Parasuraman, M.K.A. Ahmad Khan, <i>Intelligent Control: Auto Tuning PID Controller with Interval Type 2 Fuzzy Logic for DC Servomotor</i>, Procedia Computer Science, 42, 183-190, 2014. <a href="http://www.sciencedirect.com/science/article/pii/S1877050914014884#" target="_blank">[url]</a> <a href="res/bib/pcs.bib" target="_blank">[bib]</a></li>
-							<li><strong>H.M. Fayek</strong>, I. Elamvazuthi, N. Perumal, B. Venkatesh, <i>The Impact of DFIG and FSIG Wind Farms on the Small Signal Stability of a Power System</i>, Intelligent and Advanced Systems (ICIAS), 2014 5th International Conference on, Kuala Lumpur, Malaysia. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6869505&refinements%3D4229336421%26filter%3DAND%28p_IS_Number%3A6869438%29" target="_blank">[url]</a> <a href="res/presentations/1569876817.pdf" target="_blank">[slides]</a> <a href="res/bib/icias.bib" target="_blank">[bib]</a></li>
-		                </ol>
-		                <h4>2013</h4>
-		                <ol>
-		                    <li><strong>Haytham M. Fayek</strong>, I. Elamvazuthi, <i>Real-Time Implementation of a Type-2 Fuzzy Logic Controller to Control a DC Servomotor with Different Defuzzification Methods</i>, Methods and Models in Automation and Robotics (MMAR), 2013 18th International Conference on, 86-91, Miedzyzdroje, Poland. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6669886" target="_blank">[url]</a> <a href="res/bib/mmar.bib" target="_blank">[bib]</a> <strong>(Runner up Best Young Author)</strong></li>
-		                </ol>
-						<h4>2012</h4>
-						<ol>
-							<li><strong>Haytham M. Fayek</strong>, I. Elamvazuthi, <i>Type-2 Fuzzy Logic PI (T2FLPI) Based DC Servomotor Control</i>, Journal of Applied Sciences Research, 8 (5), 2564-2574, 2012. <a href="http://www.aensiweb.com/old/jasr/jasr/2012/2564-2574.pdf" target="_blank">[pdf]</a> <a href="res/bib/jasr.bib" target="_blank">[bib]</a></li>
-						</ol>
-		                <h4>Patent</h4>
-		                <ol>
-		                    <li>I. Elamvazuthi, <strong>Haytham M. Fayek</strong>, Patent number, PI2012700978. <i>Method for Controlling a High Speed DC Servomotor that Controls a Robotic Arm for the PCB industry (FT2RC).</i> Patent Status: Pending.</li>
-		                </ol>
-						<h4>Theses</h4>
-						<ol>
-							<li><strong>Haytham M. Fayek</strong>, <i>Systematic Design Of Optimal Type II Fuzzy Logic Controllers With Applications To Wind Power</i>, MSc Thesis, Department of Electrical and Electronics Engineering, Petronas University, 2014.</li>
-							<li><strong>Haytham M. Fayek</strong>, <i>Fuzzy Logic Based Motor Control</i>, BEng Thesis, Department of Electrical and Electronics Engineering, Petronas University, 2012.</li>
-						</ol>
-					</div>
-				</section>
+    </ul>
 
-				<!-- Three -->
-				<section id="three">
-					<div class="container">
-						<h3>Awards</h3>
-		                <ul>
-		                    <li><strong>Gold Medal</strong>, 24th International Invention, Innovation &amp; Technology Exhibition (ITEX ’13) for Fuzzy Logic Type II Controller For Tuning DC Servomotor, 2013.</li>
-		                    <li><strong>Runner up Best Young Author</strong>, 18th International IEEE Conference on Methods &amp; Models in Automation &amp; Robotics (MMAR), Miedzyzdroje, Poland, 2013.</li>
-		                    <li><strong>Gold Medal</strong>, Vice Chancellor’s Best Final Year Project, Petronas University Convocation Ceremony, 2012.</li>
-		                    <li><strong>Silver Medal</strong>, Vice Chancellor’s Best Student, Petronas University Convocation Ceremony, 2012.</li>
-		                    <li><strong>Silver Medal</strong>, Science and Engineering Design Exhibition for Autonomous Robot Navigation using Real-time Aerial Images, 2011.</li>
-		                    <li><strong>Best Presenter</strong>, Science and Engineering Design Exhibition, 2011.</li>
-		                    <li><strong>Silver Medal</strong>, Engineering Design Exhibition for Muscle Stimulator for Physical Therapy, 2010.</li>
-		                    <li><strong>Petronas &amp; MOPE BEng Scholarship</strong>, five-year full scholarship from Petronas &amp; the Ministry of Petroleum of Egypt, 2007-2012.</li>
-		                </ul>
-					</div>
-				</section>
-
-				<!-- Four -->
-				<section id="four">
-					<div class="container">
-						<h3>Presentations</h3>
-		                <h4>Conference Presentations</h4>
-		                <ol>
-							<li><i>Towards Real-time Speech Emotion Recognition using Deep Neural Networks</i>, 9th International Conference on Signal Processing and Communication Systems (ICSPCS), Cairns, QLD, Australia, December 2015</li> <!-- <a href="res/presentations/rser.pdf" target="_blank">[slides]</a> -->
-		                    <li><i>The Impact of DFIG and FSIG Wind Farms on the Small Signal Stability of a Power System</i>, 5th International Conference on Intelligent and Advanced Systems (ICIAS), Kuala Lumpur, Malaysia, June 2014. <a href="res/presentations/1569876817.pdf" target="_blank">[slides]</a></li>
-		                    <li><i>Real-Time Implementation of a Type-2 Fuzzy Logic Controller to Control a DC Servomotor with Different Defuzzification Methods</i>, 18th International Conference on Methods &amp; Models in Automation &amp; Robotics, Miedzyzdroje, Poland, August 2013.</li>
-		                </ol>
-		                <h4>Invited Seminar Presentations</h4>
-		                <ol>
-		                    <li><i>The Types of Power Quality Problems and their effects on Electrical &amp; Electronic Systems</i>, Fire Protection Association of Malaysia (FPAM), Kuala Lumpur, Malaysia, March 2014. <a href="http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc" target="_blank">[prezi]</a></li>
-		                    <li><i>The Types of Power Quality Problems and their effects on Electrical &amp; Electronic Systems</i>, Berjaya Sompo Insurance, Kuala Lumpur, Malaysia, June 2013.</li>
-		                    <li><i>The Deleterious Effects of Lightning Strikes on Electrical &amp; Electronic Systems</i>, Tokio Marine Insurance, Kuala Lumpur, Malaysia, May 2013.</li>
-		                    <li><i>The Deleterious Effects of Lightning Strikes on Electrical &amp; Electronic Systems</i>, Etiqa Insurance, Kuala Lumpur, Malaysia, April 2013.</li>
-		                </ol>
-					</div>
-				</section>
-
-				<!-- Five -->
-				<section id="five">
-					<div class="container">
-						<h3>Ancillaries</h3>
-		                <h4>Reviewer</h4>
-		                <p> Reviewed papers for <i>IJEPES</i>, <i>IJOCTA</i>, <i>IJFS</i>.</p>
-		                <h4>Conference Technical Program Committee</h4>
-						<p> TPC Member &amp; Reviewer for <i>CENCON'15'14</i>, <i>ICCVIA'15</i>, <i>ICMITE'15</i>, <i>PECON'14</i>, <i>ICCAAM'14</i>, <i>ITAIC'14</i>.</p>
-		                <h4>Volunteering</h4>
-		                    <ul>
-		                        <li><strong>Coach</strong>, Mega Startup Weekend, Malaysia, 2014</li>
-		                        <li><strong>Lead Facilitator</strong>, D-Code Innovation Bootcamp, Malaysia, 2013</li>
-		                        <li><strong>Facilitator</strong>, D-Code Bootcamp, Malaysia, 2013</li>
-		                    </ul>
-					</div>
-				</section>
-
-				<!-- Six -->
-				<section id="six">
-					<div class="container">
-						<h3>Get In Touch</h3>
-						<p>Please feel free to contact me by email on
-							<script type="text/javascript">
-								//<![CDATA[
-								<!--
-								var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<108)y++" +
-								";y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\013\\"+
-								"032\\037\\020\\001\\036\\026\\025]f*|/s|m|0{8y%8>2ON\\031^\\006FI@WF\\\\\\0" +
-								"32T\\007SR{5,/$/d6~1<7*\\0313:\\005#\\020N\\004E]]YSICIS\\007\\nsz~\\177\\\""+
-								"6u4}8({\\\"f~~U@M\\017L\\002VRLUZE\\021R\\000Slr~/yuyq\\\"a`g4?zo+z6>6*\\03" +
-								"0.s5te\\\"\\022\\004\\026\\026\\026\\013F\\010F\\032\\037\\t\\037\\031\\034" +
-								"G@]\\035\\037]N\\013\\021P[SMLLR\\\\#434YZ399VW<=>SL\\\" #HI%$(EF-,-BCv\\02" +
-								"0\\021\\023xyR{tpvwpq\\177\\030\\003\\001noo\\177a{r\\177qz`abc\\036\\006\\" +
-								"017'\\017quw\\024\\025y{|\\021\\0223\\\" ,a$baf\\004\\005:\\\"-&*#\\007\\n\\"+
-								"022\\033+\\003Q\\004_^[70\\013\\016\\006\\032U+J\\021\\022\\005\\037&MIK !>" +
-								"YS514YZ3:9VW>?>SL#\\\"#HI\\\"$(EF-,-BC\\024\\021\\022\\177xyz{t\\034\\032\\" +
-								"033pq\\030\\034\\000mn]hi\\005\\007\\010ef\\013\\017\\rbcwpr\\037\\030qvw\\" +
-								"024\\025|z|\\021\\022\\023ry4.o:v9*,.>. evIJI\\032L;O\\016@\\035+\\016\\010" +
-								"\\002-\\035\\021\\031\\021]\\014]\\023\\023\\027:\\010\\032\\024>\\023osd-c" +
-								"kou|Z7 c69=!,7jo<=<q\\\"v'u&.\\\"I\\tPLB\\036NSOGOG\\002U\\023C\\034m\\020o" +
-								"\\026\\010Y\\033Q\\031HZJF\\027Fl9j%d+).<*$>*og\",108)"                      ;
-								while(x=eval(x));
-								//-->
-								//]]>
-							</script>
-						 or using the contact form below.</p>
-						<script type="text/javascript">
-	                        //<![CDATA[
-	                        <!--
-	                        var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i>(109+y)" +
-	                        ")y*=2;y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\"+
-	                        "013\\033\\001\\023\\005\\033\\034\\032U\\020_\\000P\\001\\r\\035\\017^i-m>&" +
-	                        "'*hd4r%`h`hdy>\\177)zz,oqswy5f1CICQgJBBi]\\002G\\003\\034\\035\\006\\021\\0" +
-	                        "14\\006\\004\\035NBEABB\\020\\001E\\005Sk|.x9&'3+!b.e6326> {=h:zib3eame6MLK" +
-	                        "\\030\\013N[\\037F\\n\\002\\n\\036,\\032G\\031XI\\016\\006\\020\\002\\002\\" +
-	                        "n\\027Z\\024R\\016\\013bqr|6\\016\\023/-kx9#neaz|g\\020o(#0\\\")5!;\\n\\013" +
-	                        "`bj'fhhpK@H?F9:ZYOD^\\\\]23\\\\\\035_[\\032/-833 < !\\\"\\\\U6>.b\\\"226RB\\"+
-	                        "017L0^ZWMo5326RB}^utxonNQ/U{ztM]\\\\ ZR_\\010M0^Z9,\\016\\\"\\\\45>BbN02ZR)" +
-	                        "\\014N\\\\^3=.b\\\"N36>BbN32ZR)\\016N\\\\^6>.b\\\"XBN>.\\001R?$#p$b\\\\\\\\" +
-	                        "^)+-\\031S$^$&xCEo\\\"h|kJ\\033r\\177='7\\025Uy*X'w\\026\\nAgba]L\\037ha(v6" +
-	                        "[\\032oAtov}\\023op` yP\\027rvU35QE7073;GE+)\\177'-\\010Bi*`ge\\027U+k=b\\\""+
-	                        "WE0?o&lQ\\030;jrip[\\022.z;b2b\\\\\\\\ ;a2W^rcpu7GRx*`.pQ\\027tah{x\\034W\"" +
-	                        ",109)"                                                                       ;
-	                        while(x=eval(x));
-	                        //-->
-	                        //]]>
-	                    </script>
-							<div class="row uniform">
-								<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
-								<div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
-							</div>
-							<div class="row uniform">
-								<div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
-							</div>
-							<div class="row uniform">
-								<div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
-							</div>
-							<div class="row uniform">
-								<div class="12u">
-									<ul class="actions">
-										<li><input type="submit" class="special" value="Send Message" /></li>
-										<li><input type="reset" value="Reset Form" /></li>
-									</ul>
-								</div>
-							</div>
-							<input type="hidden" name="_next" value="http://haythamfayek.com/thanks.html" />
-							<input type="text" name="_gotcha" style="display:none" />
-						</form>
-					</div>
-				</section>
-			</div>
-
-			<!-- Footer -->
-			<section id="footer">
-				<div class="container">
-					<ul class="copyright">
-						<li>&copy; 2013-<script language="JavaScript" type="text/javascript">document.write((new Date()).getFullYear());</script> Haytham Fayek. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-				</div>
-			</section>
-
-		</div>
-
-		<!-- Scripts -->
-		<script src="assets/js/jquery.min.js"></script>
-		<script src="assets/js/jquery.scrollzer.min.js"></script>
-		<script src="assets/js/jquery.scrolly.min.js"></script>
-		<script src="assets/js/skel.min.js"></script>
-		<script src="assets/js/util.js"></script>
-		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-		<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+</div>
