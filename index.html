@@ -8,10 +8,13 @@ layout: default
     <h1 class="main-heading">{{ site.title }}</h1>
     <p> {{ site.description }}</p>
 
-    <p>
+    <p class="main-page-titles">
         {% for my_page in site.pages %}
         {% if my_page.title %}
             <a class="page-link main-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% if my_page.title != "Blog" %}
+                <p class="main-slash">/</p>
+            {% endif %}
         {% endif %}
         {% endfor %}
     <p>
