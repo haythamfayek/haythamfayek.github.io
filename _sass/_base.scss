@@ -209,3 +209,35 @@ pre {
 strong {
     font-weight: 400;
 }
+
+.half-size-center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+    margin-top: 25px;
+}
+
+figure.highlight{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+img + em {
+    display: block;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
