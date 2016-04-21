@@ -13,6 +13,25 @@ comments: true
         {{ content }}
     </div>
 
+    <!-- mathjax -->
+    {% if page.mathjax %}
+        <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+
+    <!-- Share simplesharingbuttons -->
+    <ul class="share-buttons">
+        <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fhaythamfayek.com&text=:%20http%3A%2F%2Fhaythamfayek.com&via=haythamfayek" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="/assets/social-images/flat_web_icon_set/black/Twitter.png"></a></li>
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fhaythamfayek.com&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="/assets/social-images/flat_web_icon_set/black/Facebook.png"></a></li>
+        <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fhaythamfayek.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="/assets/social-images/flat_web_icon_set/black/Google+.png"></a></li>
+        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fhaythamfayek.com&title=&summary=&source=http%3A%2F%2Fhaythamfayek.com" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img src="/assets/social-images/flat_web_icon_set/black/LinkedIn.png"></a></li>
+        <!--
+        <li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fhaythamfayek.com&description=" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><img src="/assets/social-images/flat_web_icon_set/black/Pinterest.png"></a></li>
+        <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fhaythamfayek.com&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img src="/assets/social-images/flat_web_icon_set/black/Reddit.png"></a></li>
+        <li><a href="https://pinboard.in/popup_login/?url=http%3A%2F%2Fhaythamfayek.com&title=&description=" target="_blank" title="Save to Pinboard" onclick="window.open('https://pinboard.in/popup_login/?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img src="/assets/social-images/flat_web_icon_set/black/Pinboard.png"></a></li>
+        -->
+    </ul>
+
+    <!-- disqus -->
     {{ % if page.comments % }}
         {% include disqus.html %}
     {{ % endif % }}
