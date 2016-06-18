@@ -11,7 +11,7 @@ I am interested in Deep Learning and Neural Networks and their applications in S
 
 [comment]: <> Previously, I worked with Fuzzy Logic, Bio-Inspired Optimization, Computer Vision, Control Theory, Robotic Control and Renewable Energy.
 
-Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from Petronas University of Technology and worked as an Electrical / Electronics Engineer for three years.
+Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from Petronas University of Technology and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
 
 I am on [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/) & [Github](https://github.com/haythamfayek).
 
@@ -41,6 +41,8 @@ Please feel free to email me at
 </script>
 (redirects to my actual email).
 
+My CV is available upon request.
+
 <br/>
 
 ---
@@ -54,6 +56,8 @@ Please feel free to email me at
 
 
 ### Papers
+
+1. H.M. Fayek, M. Lech, L. Cavedon, On the Correlation and Transferability of Features between Automatic Speech Recognition and Speech Emotion Recognition, 2016 Interspeech, San Fransisco, California, USA. (To Appear)
 
 1. H.M. Fayek, M. Lech, L. Cavedon, Modeling Subjectiveness in Emotion Recognition with Deep Neural Networks: Ensembles vs Soft Labels, Neural Networks (IJCNN), 2016 International Joint Conference on, Vancouver, BC, Canada. (To Appear)
 
@@ -88,7 +92,7 @@ Please feel free to email me at
 
 <br/>
 
-## Awards
+## Awards & Scholarships
 
 - RMIT Vice Chancellor's PhD Scholarship, three-year PhD full scholarship, 2015-2018.
 
@@ -119,7 +123,7 @@ Please feel free to email me at
 
 ### Conferences
 
-3. Towards Real-time Speech Emotion Recognition using Deep Neural Networks, 9th International Conference on Signal Processing and Communication Systems (ICSPCS), Cairns, QLD, Australia, December 2015
+3. Towards Real-time Speech Emotion Recognition using Deep Neural Networks, 9th International Conference on Signal Processing and Communication Systems (ICSPCS), Cairns, QLD, Australia, December 2015.
 
 2. The Impact of DFIG and FSIG Wind Farms on the Small Signal Stability of a Power System, 5th International Conference on Intelligent and Advanced Systems (ICIAS), Kuala Lumpur, Malaysia, June 2014. [[slides](../assets/presentations/Fayek_icias.pdf)]
 
@@ -144,11 +148,6 @@ Please feel free to email me at
 <br/>
 
 ## Ancillaries
-
-### Reviewer
-
-Reviewed papers for IJEPES, IJOCTA, IJFS.
-
 
 ### Volunteering
 
