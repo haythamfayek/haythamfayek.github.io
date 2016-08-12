@@ -5,6 +5,7 @@ excerpt: "Understanding and computing filter banks and MFCCs and a discussion on
 date: 2016-04-21
 disqus_identifier: 20160417
 mathjax: true
+comments: true
 header-includes:
    - \usepackage{amsmath}
 ---

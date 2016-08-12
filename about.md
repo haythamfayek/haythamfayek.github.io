@@ -7,10 +7,10 @@ order: 1
 
 ## About
 
-I am a VCPS PhD student at the School of Engineering, RMIT University.
-I am interested in Deep Learning and Neural Networks and their applications in Speech Processing and Affective Computing.
+I am a VCPS PhD student at the School of Engineering, [RMIT University](https://www.rmit.edu.au).
+My research is focused on Deep Learning and Neural Networks and their applications in Speech Processing and Affective Computing. I am also a Teaching Assistant for Digital Signal Processing.
 
-Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from Petronas University of Technology and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
+Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from [Petronas University of Technology](https://www.utp.edu.my/) and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
 
 I am on [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1), [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/) & [Github](https://github.com/haythamfayek).
 
@@ -50,23 +50,32 @@ My CV is available upon request.
 
 ## Awards & Scholarships
 
-- RMIT Vice Chancellor's PhD Scholarship, three-year PhD full scholarship, 2015-2018.
+- **RMIT Vice Chancellor's PhD Scholarship.**  
+Three-year full scholarship, 2015-2018.
 
-- Gold Medal, 24th International Invention, Innovation & Technology Exhibition (ITEX ’13), Kuala Lumpur, Malaysia, 2013.
+- **Gold Medal.**  
+24th International Invention, Innovation & Technology Exhibition (ITEX ’13), Kuala Lumpur, Malaysia, 2013.
 
-- Runner-up Best Young Author, 18th International IEEE Conference on Methods & Models in Automation & Robotics (MMAR), Miedzyzdroje, Poland, 2013.
+- **Runner-up Best Young Author.**  
+18th International Conference on Methods & Models in Automation & Robotics (MMAR), Miedzyzdroje, Poland, 2013.
 
-- First Place, Vice Chancellor’s Best Final Year Project, Petronas University Convocation Ceremony, 2012.
+- **First Place.**  
+Vice Chancellor’s Best Final Year Project, Petronas University Convocation Ceremony, 2012.
 
-- Silver Medal, Vice Chancellor’s Best Student, Petronas University Convocation Ceremony, 2012.
+- **Silver Medal.**  
+Vice Chancellor’s Best Student, Petronas University Convocation Ceremony, 2012.
 
-- Silver Medal, Science and Engineering Design Exhibition, Petronas University, 2011.
+- **Silver Medal.**  
+Science and Engineering Design Exhibition, Petronas University, 2011.
 
-- Best Presenter, Science and Engineering Design Exhibition, Petronas University, 2011.
+- **Best Presenter.**  
+Science and Engineering Design Exhibition, Petronas University, 2011.
 
-- Silver Medal, Engineering Design Exhibition, Petronas University, 2010.
+- **Silver Medal.**  
+Engineering Design Exhibition, Petronas University, 2010.
 
-- Petronas & MOPE BEng Scholarship, five-year full scholarship, 2007-2012.
+- **Petronas & MOPE BEng Scholarship.**  
+Five-year full scholarship, 2007-2012.
 
 <br/>
 
@@ -74,12 +83,12 @@ My CV is available upon request.
 
 <br/>
 
-## Ancillaries
+## Miscellaneous
 
-### Volunteering
+- I am always open to volunteering to facilitate / coach in coding and science bootcamps and hackathons. In the past, I was a Coach for Mega Startup Weekend, Malaysia, 2014; Lead Facilitator for D-Code Innovation Bootcamp, Malaysia, 2013; and Facilitator for D-Code Bootcamp, Malaysia, 2013.
 
-- Coach, Mega Startup Weekend, Malaysia, 2014
+- I have an (Introversion, iNtuition, Thinking, Judgment) INTJ personality (“The Architect”) according the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
 
-- Lead Facilitator, D-Code Innovation Bootcamp, Malaysia, 2013
+- I love Coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
 
-- Facilitator, D-Code Bootcamp, Malaysia, 2013
+- I used to be an avid football player. I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
