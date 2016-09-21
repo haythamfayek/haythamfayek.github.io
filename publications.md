@@ -15,13 +15,16 @@ order: 2
 
 - H. M. Fayek.  
 **A deep learning framework for hybrid linguistic-paralinguistic speech systems.**  
-In 2nd INTERSPEECH Doctoral Consortium, Berkeley, USA, September 2016.  
+In 2nd Interspeech Doctoral Consortium, Berkeley, USA, September 2016.  
 (To Appear)
 
 - H. M. Fayek, M. Lech, and L. Cavedon.  
 **On the correlation and transferability of features between automatic speech recognition and speech emotion recognition.**  
-In INTERSPEECH, San Francisco, USA, September 2016.  
-(To Appear)
+In Interspeech, pages 3618-3622, San Francisco, USA, September 2016.  
+[[pdf](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0868.PDF)]
+[[url](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0868.html)]
+[[slides](../assets/presentations/Fayek_is16.pdf)]
+[[bib](../assets/bibtex/Fayek_is16.bib)]
 
 - H. M. Fayek, M. Lech, and L. Cavedon.  
 **Modeling subjectiveness in emotion recognition with deep neural networks: Ensembles vs soft labels.**  
@@ -64,7 +67,7 @@ Journal of Applied Sciences Research, 8(5):2564–2574, 2012.
 
 - I. Elamvazuthi and H. M. Fayek.  
 **Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC).**  
-Patent Filing No. PI2012700978, Nov 2012. Patent Status: Pending.
+Patent Filing No. PI2012700978, Nov 2012.  
 
 
 ### Theses
@@ -89,12 +92,19 @@ BEng Thesis, Department of Electrical and Electronics Engineering, Petronas Univ
 
 ### Conference Talks
 
+- **On the Correlation and Transferability of Features between Automatic Speech Recognition and Speech Emotion Recognition.**  
+17th Annual Conference of the International Speech Communication Association (Interspeech), San Francisco, USA, September 2016.  
+[[slides](../assets/presentations/Fayek_is16.pdf)]
+
+- **A Deep Learning Framework for Hybrid Linguistic-Paralinguistic Speech Systems.**  
+2nd Interspeech Doctoral Consortium, Berkeley, USA, September 2016.  
+
 - **Towards Real-time Speech Emotion Recognition using Deep Neural Networks.**  
 9th International Conference on Signal Processing and Communication Systems (ICSPCS), Cairns, Australia, December 2015.
 
 - **The Impact of DFIG and FSIG Wind Farms on the Small Signal Stability of a Power System.**  
 5th International Conference on Intelligent and Advanced Systems (ICIAS), Kuala Lumpur, Malaysia, June 2014.  
-[[slides](../assets/presentations/Fayek_icias16.pdf)]
+[[slides](../assets/presentations/Fayek_icias14.pdf)]
 
 - **Real-Time Implementation of a Type-2 Fuzzy Logic Controller to Control a DC Servomotor with Different Defuzzification Methods.**  
 18th International Conference on Methods & Models in Automation & Robotics (MMAR), Miedzyzdroje, Poland, August 2013.

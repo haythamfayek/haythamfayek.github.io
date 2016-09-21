@@ -7,8 +7,10 @@ order: 1
 
 ## About
 
+<p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>
+
 I am a VCPS PhD student at the School of Engineering, [RMIT University](https://www.rmit.edu.au).
-My research is focused on Deep Learning and Neural Networks and their applications in Speech Processing and Affective Computing. I am also a Teaching Assistant for Digital Signal Processing.
+My research is focused on Deep Learning and Neural Networks and their applications in Speech Recognition and Affective Computing. I am also a Teaching Assistant for Digital Signal Processing.
 
 Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from [Petronas University of Technology](https://www.utp.edu.my/) and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
 
@@ -50,7 +52,13 @@ My CV is available upon request.
 
 ## Awards & Scholarships
 
-- **RMIT Vice Chancellor's PhD Scholarship.**  
+- **RMIT HDR Travel Grant.**  
+Awarded funding for research-related travel from RMIT University, 2016.
+
+- **NVIDIA Hardware Grant.**  
+Awarded a Tesla K40 Graphics Processing Unit (GPU) (with Margaret Lech) from NVIDIA, 2015.
+
+- **RMIT Vice Chancellor's PhD Scholarship (VCPS).**  
 Three-year full scholarship, 2015-2018.
 
 - **Gold Medal.**  
