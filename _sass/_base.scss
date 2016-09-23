@@ -265,3 +265,12 @@ ul.share-buttons li{
         margin-bottom: 30px;
     }
 }
+
+@media screen and (min-width: 736px) {
+    .profilepic {
+        float:right;
+        max-height:30%;
+        border-radius:100%;
+        margin:30px
+    }
+}
