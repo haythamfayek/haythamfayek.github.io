@@ -253,7 +253,7 @@ ul.share-buttons li{
     margin:30px
 }
 
-@media (max-width: 735px) {
+@media screen and (max-width: 735px) {
     .profilepic {
         float:none;
         max-width:80%;
