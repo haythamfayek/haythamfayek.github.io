@@ -250,27 +250,18 @@ ul.share-buttons li{
     float:right;
     max-width:30%;
     border-radius:100%;
-    margin:30px
+    margin-left:30px
 }
 
 @media only screen and (max-width: 735px) {
     .profilepic {
         float:none;
-        max-width:80%;
+        max-width:75%;
         border-radius:100%;
         display: block;
         margin-left: auto;
         margin-right: auto;
         margin-top: 10px;
         margin-bottom: 30px;
-    }
-}
-
-@media only screen and (min-width: 736px) {
-    .profilepic {
-        float:right;
-        max-width:30%;
-        border-radius:100%;
-        margin:30px
     }
 }
