@@ -8,7 +8,7 @@ order: 2
 ## Publications
 
 
-#### [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) / [ORCID](https://orcid.org/0000-0002-1840-7605)
+#### [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1)
 
 
 ### Papers
@@ -29,7 +29,9 @@ In Interspeech, pages 3618-3622, San Francisco, USA, September 2016.
 - H. M. Fayek, M. Lech, and L. Cavedon.  
 **Modeling subjectiveness in emotion recognition with deep neural networks: Ensembles vs soft labels.**  
 In Neural Networks (IJCNN), 2016 International Joint Conference on, Vancouver, Canada, July 2016.  
-[[poster](../assets/presentations/Fayek_ijcnn16.pdf)] (To Appear)
+[[url](http://ieeexplore.ieee.org/abstract/document/7727250/)]
+[[poster](../assets/presentations/Fayek_ijcnn16.pdf)]
+[[bib](../assets/bibtex/Fayek_ijcnn16.bib)]
 
 - H. M. Fayek, M. Lech, and L. Cavedon.  
 **Towards real-time speech emotion recognition using deep neural networks.**  
@@ -49,7 +51,7 @@ Procedia Computer Science, 42:183 – 190, 2014. Medical and Rehabilitation Robo
 - H. M. Fayek, I. Elamvazuthi, N. Perumal, and B. Venkatesh.  
 **The impact of DFIG and FSIG wind farms on the small signal stability of a power system.**  
 In Intelligent and Advanced Systems (ICIAS), 2014 5th International Conference on, pages 1–6, Kuala Lumpur, Malaysia, June 2014.  
-[[url](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6869505&refinements%3D4229336421%26filter%3DAND%28p_IS_Number%3A6869438%29)] [[slides](../assets/presentations/Fayek_icias16.pdf)] [[bib](../assets/bibtex/Fayek_icias14.bib)]
+[[url](http://ieeexplore.ieee.org/document/6869505/)] [[slides](../assets/presentations/Fayek_icias16.pdf)] [[bib](../assets/bibtex/Fayek_icias14.bib)]
 
 - H. M. Fayek and I. Elamvazuthi.  
 **Real-time implementation of a type-2 fuzzy logic controller to control a DC servomotor with different defuzzification methods.**  

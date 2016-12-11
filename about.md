@@ -9,12 +9,12 @@ order: 1
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>
 
-I am a VCPS PhD student at the School of Engineering, [RMIT University](https://www.rmit.edu.au).
+I am a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au).
 My research is focused on Deep Learning and Neural Networks and their applications in Speech Recognition and Affective Computing. I am also a Teaching Assistant for Digital Signal Processing.
 
 Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from [Petronas University of Technology](https://www.utp.edu.my/) and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
 
-I am on [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1), [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/) & [Github](https://github.com/haythamfayek).
+I am on [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1), [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/), [Github](https://github.com/haythamfayek) & [ORCID](https://orcid.org/0000-0002-1840-7605).
 
 Please feel free to email me at
 <script type="text/javascript">
@@ -93,10 +93,10 @@ Five-year full scholarship, 2007-2012.
 
 ## Miscellaneous
 
-- I am always open to volunteering to facilitate / coach in coding and science bootcamps and hackathons. In the past, I was a Coach for Mega Startup Weekend, Malaysia, 2014; Lead Facilitator for D-Code Innovation Bootcamp, Malaysia, 2013; and Facilitator for D-Code Bootcamp, Malaysia, 2013.
+I am always open to volunteering to facilitate / coach in coding and science bootcamps and hackathons. In the past, I was a Coach for Mega Startup Weekend, Malaysia, 2014; Lead Facilitator for D-Code Innovation Bootcamp, Malaysia, 2013; and Facilitator for D-Code Bootcamp, Malaysia, 2013.
 
-- I have an (Introversion, iNtuition, Thinking, Judgment) INTJ personality (“The Architect”) according the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
+I have an (Introversion, iNtuition, Thinking, Judgment) INTJ personality (“The Architect”) according the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
 
-- I love Coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
+I love Coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
 
-- I used to be an avid football player. I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
+I used to be an avid football player. I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
