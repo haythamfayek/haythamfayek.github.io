@@ -57,22 +57,15 @@ $on-laptop:        800px;
 ;
 
 /* HF */
-
 strong {
     font-weight: 400;
-}
-
-.half-size-center {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
 
 img {
     margin-top: 25px;
 }
 
-figure.highlight{
+figure.highlight {
     margin-top: 25px;
     margin-bottom: 25px;
 }
@@ -83,28 +76,80 @@ img + em {
     margin-bottom: 25px;
 }
 
-ul.share-buttons{
+ul.share-buttons {
     list-style: none;
     padding: 0;
     margin-top: 30px;
     margin-bottom: 50px;
-    margin-left: 0px;
+    margin-left: 0;
 }
 
-ul.share-buttons li{
+ul.share-buttons li {
     display: inline;
 }
 
-ul.share-buttons li p{
+ul.share-buttons li p {
     display: inline;
     margin-right: 20px;
     vertical-align: middle;
 }
 
-ul.share-buttons li a img{
+ul.share-buttons li a img {
     vertical-align: middle;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    line-height: 1.4;
+    margin-left: 0;
+    padding-left: 1.2em;
+}
+
+/* Home */
+.home {
+    margin: auto;
+}
+
+.main-heading {
+    font-size: 40px;
+    margin-left: -3px; // No Idea
+    // margin-top: 20%;
+}
+
+.main-image {
+    margin-top: 10%;
+    margin-bottom: 2%;
+    width: 15%;
+    min-width: 120px;
+    max-width: 200px;
+    border-radius: 100%;
+}
+
+.main-page-titles {
+    display: inline;
+}
+
+.main-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    display: inline;
+}
+
+.main-slash {
+    display: inline;
+}
+
+.social-media-list li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Pages */
+.half-size-center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .centering {
@@ -112,21 +157,17 @@ ul.share-buttons li a img{
 }
 
 .profilepic {
-    float:right;
-    max-width:30%;
-    border-radius:100%;
-    margin-left:30px
+    float: right;
+    max-width: 25%;
+    border-radius: 100%;
+    margin-left: 30px;
 }
-
 @media only screen and (max-width: 735px) {
     .profilepic {
-        float:none;
-        max-width:75%;
-        border-radius:100%;
+        float: none;
+        max-width: 75%;
+        border-radius: 100%;
         display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 10px;
-        margin-bottom: 30px;
+        margin: 10px auto 30px;
     }
 }

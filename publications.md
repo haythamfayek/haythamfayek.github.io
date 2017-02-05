@@ -15,8 +15,10 @@ order: 2
 
 - H. M. Fayek.  
 **A deep learning framework for hybrid linguistic-paralinguistic speech systems.**  
-In 2nd Interspeech Doctoral Consortium, Berkeley, USA, September 2016.  
-(To Appear)
+In 2nd Doctoral Consortium at Interspeech, Berkeley, USA, September 2016.  
+[[pdf](http://www.isca-students.org/sites/default/files/2ndDC_paper_2.pdf)]
+[[url](http://www.isca-students.org/?q=node/4809)]
+[[bib](../assets/bibtex/Fayek_isdc16.bib)]
 
 - H. M. Fayek, M. Lech, and L. Cavedon.  
 **On the correlation and transferability of features between automatic speech recognition and speech emotion recognition.**  
