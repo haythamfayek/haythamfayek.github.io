@@ -1,21 +1,19 @@
 ---
-layout: no-title-page
+layout: page
 title: About
 permalink: /about/
 order: 1
 ---
 
-## About
-
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>
 
 I am a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au).
-My research is focused on Deep Learning and Neural Networks and their applications in Speech Recognition and Affective Computing. I am also a Teaching Assistant for Digital Signal Processing.
+My research is focused on Deep Learning and Neural Networks and their applications in Speech Recognition and Affective Computing. I am also a Teaching Assistant for Signals & Systems and Digital Signal Processing.
 
-Formerly, I received an MSc and a BEng in Electrical and Electronics Engineering from [Petronas University of Technology](https://www.utp.edu.my/) and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
+I was a Research Intern at Facebook '16 / '17 (Oculus VR Research & Facebook AI Research) in Washington.
+I formerly received an MSc and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University of Technology](https://www.utp.edu.my/) and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
 
-I am on [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1), [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/), [Github](https://github.com/haythamfayek) & [ORCID](https://orcid.org/0000-0002-1840-7605).
-
+I am on [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/), [Github](https://github.com/haythamfayek), [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) & [ORCID](https://orcid.org/0000-0002-1840-7605).
 Please feel free to email me at
 <script type="text/javascript">
 	//<![CDATA[
@@ -41,7 +39,6 @@ Please feel free to email me at
 	//]]>
 </script>
 (redirects to my actual email).
-
 My CV is available upon request.
 
 <br/>
@@ -62,10 +59,10 @@ Awarded a Tesla K40 Graphics Processing Unit (GPU) (with Margaret Lech) from NVI
 Three-year full scholarship, 2015-2018.
 
 - **Gold Medal.**  
-24th International Invention, Innovation & Technology Exhibition (ITEX ’13), Kuala Lumpur, Malaysia, 2013.
+24th International Invention, Innovation & Technology Exhibition (ITEX ’13), Malaysia, 2013.
 
 - **Runner-up Best Young Author.**  
-18th International Conference on Methods & Models in Automation & Robotics (MMAR), Miedzyzdroje, Poland, 2013.
+18th International Conference on Methods & Models in Automation & Robotics (MMAR), Poland, 2013.
 
 - **First Place.**  
 Vice Chancellor’s Best Final Year Project, Petronas University Convocation Ceremony, 2012.
@@ -73,14 +70,11 @@ Vice Chancellor’s Best Final Year Project, Petronas University Convocation Cer
 - **Silver Medal.**  
 Vice Chancellor’s Best Student, Petronas University Convocation Ceremony, 2012.
 
-- **Silver Medal.**  
-Science and Engineering Design Exhibition, Petronas University, 2011.
-
 - **Best Presenter.**  
 Science and Engineering Design Exhibition, Petronas University, 2011.
 
 - **Silver Medal.**  
-Engineering Design Exhibition, Petronas University, 2010.
+Science and Engineering Design Exhibition, Petronas University, 2011.
 
 - **Petronas & MOPE BEng Scholarship.**  
 Five-year full scholarship, 2007-2012.
@@ -95,8 +89,8 @@ Five-year full scholarship, 2007-2012.
 
 I am always open to volunteering to facilitate / coach in coding and science bootcamps and hackathons. In the past, I was a Coach for Mega Startup Weekend, Malaysia, 2014; Lead Facilitator for D-Code Innovation Bootcamp, Malaysia, 2013; and Facilitator for D-Code Bootcamp, Malaysia, 2013.
 
-I have an (Introversion, iNtuition, Thinking, Judgment) INTJ personality (“The Architect”) according the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
+I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') according the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
 
-I love Coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
+I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
 
 I used to be an avid football player. I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
