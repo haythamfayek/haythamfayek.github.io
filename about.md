@@ -7,10 +7,11 @@ order: 1
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>
 
-I am a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au).
-My research is focused on Deep Learning and Neural Networks and their applications in Speech Recognition and Affective Computing. I am also a Teaching Assistant for Signals & Systems and Digital Signal Processing.
+I am a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au) advised by [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/) and [Henry Wu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/w/wu-professor-hong-ren).
+My research is focused on Deep Learning and Neural Networks and their applications in Speech Recognition.
+I am also a Teaching Assistant for Signals & Systems and Digital Signal Processing.
 
-I was a Research Intern at Facebook '16 / '17 (Oculus VR Research & Facebook AI Research) in Washington.
+I was a Research Intern at Facebook '16 / '17 (Oculus VR Research & Facebook AI Research (FAIR)) in Seattle.
 I formerly received an MSc and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University of Technology](https://www.utp.edu.my/) and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
 
 I am on [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/), [Github](https://github.com/haythamfayek), [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) & [ORCID](https://orcid.org/0000-0002-1840-7605).
