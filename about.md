@@ -95,4 +95,4 @@ I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') acc
 I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
 
 I used to be an avid football player. I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
-I am Manchester United fan.
+I am a Manchester United fan.
