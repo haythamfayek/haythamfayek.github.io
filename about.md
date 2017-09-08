@@ -50,34 +50,34 @@ My CV is available upon request.
 
 ## Awards & Scholarships
 
-- **RMIT HDR Travel Grant.**  
+**RMIT HDR Travel Grant.**  
 Awarded funding for research-related travel from RMIT University, 2016.
 
-- **NVIDIA Hardware Grant.**  
-Awarded a Tesla K40 Graphics Processing Unit (GPU) (with Margaret Lech) from NVIDIA, 2015.
+**NVIDIA Hardware Grant.**  
+Awarded a Tesla K40 Graphics Processing Unit (GPU) (with M. Lech & L. Cavedon) from NVIDIA, 2015.
 
-- **RMIT Vice Chancellor's PhD Scholarship (VCPS).**  
+**RMIT Vice Chancellor's PhD Scholarship (VCPS).**  
 Three-year full scholarship, 2015-2018.
 
-- **Gold Medal.**  
+**Gold Medal.**  
 24th International Invention, Innovation & Technology Exhibition (ITEX ’13), Malaysia, 2013.
 
-- **Runner-up Best Young Author.**  
+**Runner-up Best Young Author.**  
 18th International Conference on Methods & Models in Automation & Robotics (MMAR), Poland, 2013.
 
-- **First Place.**  
+**First Place.**  
 Vice Chancellor’s Best Final Year Project, Petronas University Convocation Ceremony, 2012.
 
-- **Silver Medal.**  
+**Silver Medal.**  
 Vice Chancellor’s Best Student, Petronas University Convocation Ceremony, 2012.
 
-- **Best Presenter.**  
+**Best Presenter.**  
 Science and Engineering Design Exhibition, Petronas University, 2011.
 
-- **Silver Medal.**  
+**Silver Medal.**  
 Science and Engineering Design Exhibition, Petronas University, 2011.
 
-- **Petronas & MOPE BEng Scholarship.**  
+**Petronas & MOPE BEng Scholarship.**  
 Five-year full scholarship, 2007-2012.
 
 <br/>
@@ -95,3 +95,4 @@ I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') acc
 I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
 
 I used to be an avid football player. I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
+I am Manchester United fan.
