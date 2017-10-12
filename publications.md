@@ -15,7 +15,8 @@ order: 2
 - Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
 **On Data-Driven Approaches to Head-Related Transfer Function Personalization.**  
 Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
-(To Appear)
+[url](http://www.aes.org/e-lib/browse.cfm?elib=19287)
+[bib](../assets/bibtex/Fayek_aes17.bib)
 
 - Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
 **Evaluating deep learning architectures for Speech Emotion Recognition.**  
