@@ -90,7 +90,7 @@ In Methods and Models in Automation and Robotics (MMAR), 2013 18th International
 
 - Haytham M. Fayek, and Irraivan Elamvazuthi.  
 **Type-2 fuzzy logic PI (T2FLPI) based DC servomotor control.**  
-Journal of Applied Sciences Research, vol. 8(5), pp.2564–2574, 2012.
+Journal of Applied Sciences Research, vol. 8(5), pp.2564–2574, 2012.  
 [pdf](http://www.aensiweb.com/old/jasr/jasr/2012/2564-2574.pdf)
 [bib](../assets/bibtex/Fayek_jasr12.bib)
 
@@ -98,7 +98,7 @@ Journal of Applied Sciences Research, vol. 8(5), pp.2564–2574, 2012.
 
 - Irraivan Elamvazuthi, and Haytham M. Fayek.  
 **Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC).**  
-Patent Filing No. PI2012700978, Nov 2012.  
+Patent Filing No. PI2012700978, Nov 2012.
 
 
 ### Theses
