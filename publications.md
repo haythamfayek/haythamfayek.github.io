@@ -89,7 +89,7 @@ In Methods and Models in Automation and Robotics (MMAR), 2013 18th International
 #### 2012
 
 - Haytham M. Fayek, and Irraivan Elamvazuthi.  
-**Type-2 fuzzy logic PI (T2FLPI) based DC servomotor control.**
+**Type-2 fuzzy logic PI (T2FLPI) based DC servomotor control.**  
 Journal of Applied Sciences Research, vol. 8(5), pp.2564–2574, 2012.
 [pdf](http://www.aensiweb.com/old/jasr/jasr/2012/2564-2574.pdf)
 [bib](../assets/bibtex/Fayek_jasr12.bib)
