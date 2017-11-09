@@ -18,6 +18,14 @@ order: 2
 
 #### 2017
 
+- Haytham M. Fayek.  
+**MatDL: A Lightweight Deep Learning Library in MATLAB.**  
+Journal of Open Source Software, vol. 2, no. 19, pp. 413, Nov 2017.  
+[[ pdf ]](http://www.theoj.org/joss-papers/joss.00413/10.21105.joss.00413.pdf)
+[[ code ]](https://github.com/haythamfayek/MatDL)
+[[ url ]](https://doi.org/10.21105/joss.00413)
+[[ bib ]](../assets/bibtex/Fayek_joss17.bib)
+
 - Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
 **On Data-Driven Approaches to Head-Related Transfer Function Personalization.**  
 Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
