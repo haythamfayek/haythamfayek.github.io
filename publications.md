@@ -2,10 +2,9 @@
 layout: page
 title: Publications
 permalink: /publications/
-order: 2
 ---
 
-### [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) | [ORCID](https://orcid.org/0000-0002-1840-7605)
+### [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) | [ORCID](https://orcid.org/0000-0002-1840-7605) | [BIB](../assets/bibtex/Fayek.bib)
 
 <br/>
 
@@ -19,21 +18,21 @@ order: 2
 #### 2017
 
 - Haytham M. Fayek.  
-**MatDL: A Lightweight Deep Learning Library in MATLAB.**  
-Journal of Open Source Software, vol. 2, no. 19, pp. 413, Nov 2017.  
+**MatDL: A lightweight deep learning library in MATLAB.**  
+The Journal of Open Source Software, vol. 2, no. 19, pp. 413, Nov 2017.  
 [[ pdf ]](http://www.theoj.org/joss-papers/joss.00413/10.21105.joss.00413.pdf)
 [[ code ]](https://github.com/haythamfayek/MatDL)
 [[ url ]](https://doi.org/10.21105/joss.00413)
 [[ bib ]](../assets/bibtex/Fayek_joss17.bib)
 
-- Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
-**On Data-Driven Approaches to Head-Related Transfer Function Personalization.**  
-Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
+- Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, and Ravish Mehra.  
+**On data-driven approaches to head-related transfer function personalization.**  
+In Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
 [[ url ]](http://www.aes.org/e-lib/browse.cfm?elib=19287)
 [[ bib ]](../assets/bibtex/Fayek_aes17.bib)
 
 - Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
-**Evaluating deep learning architectures for Speech Emotion Recognition.**  
+**Evaluating deep learning architectures for speech emotion recognition.**  
 Neural Networks, vol. 92, pp. 60-68, Aug 2017.  
 [[ url ]](http://doi.org/10.1016/j.neunet.2017.02.013)
 [[ bib ]](../assets/bibtex/Fayek_nn17.bib)
@@ -129,9 +128,9 @@ Patent Filing No. PI2012700978, Nov 2012.
 ### Theses
 
 - Haytham M. Fayek.  
-**Systematic Design Of Optimal Type II Fuzzy Logic Controllers With Applications To Wind Power.**  
+**Systematic design Of optimal type II fuzzy logic controllers with applications to wind power.**  
 MSc Thesis, Department of Electrical and Electronics Engineering, Petronas University, 2014.
 
 - Haytham M. Fayek.  
-**Fuzzy Logic Based Motor Control.**  
+**Fuzzy logic based motor control.**  
 BEng Thesis, Department of Electrical and Electronics Engineering, Petronas University, 2012.

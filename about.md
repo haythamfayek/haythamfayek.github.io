@@ -2,20 +2,22 @@
 layout: page
 title: About
 permalink: /about/
-order: 1
 ---
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>
 
-I am a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au) advised by [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/) and [Henry Wu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/w/wu-professor-hong-ren).
-My research is focused on Deep Learning and Neural Networks and their applications in Speech Recognition.
-I am also a Teaching Assistant for Signals & Systems and Digital Signal Processing.
+I am a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au), Melbourne, advised by [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/) and [Henry Wu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/w/wu-professor-hong-ren) in my final year.
+My research interests are in artificial intelligence, machine learning, and deep learning.
 
-I was a Research Intern at Facebook '16 / '17 (Oculus VR Research & Facebook AI Research (FAIR)) in Seattle.
-I formerly received an MSc and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University of Technology](https://www.utp.edu.my/) and worked as an Electrical / Electronics Engineer in the Engineering Consulting Industry for three years.
+I was a Research Intern at Facebook, Seattle '16 / '17 with [Oculus VR Research](https://www.oculus.com/research/) & [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
+I was also a Teaching Assistant for Signals & Systems and Digital Signal Processing at RMIT.
 
-I am on [Twitter](https://twitter.com/HaythamFayek), [LinkedIn](https://www.linkedin.com/in/haythamfayek/), [Github](https://github.com/haythamfayek), [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) & [ORCID](https://orcid.org/0000-0002-1840-7605).
-Please feel free to email me at
+Prior, I received an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University](https://www.utp.edu.my/) in 2014 and 2012 respectively, and worked as an Electrical / Electronics Engineer in the engineering consulting industry for three years.
+
+[Resume](../assets/Fayek_resume.pdf).
+I am on [Twitter](https://twitter.com/HaythamFayek) | [LinkedIn](https://www.linkedin.com/in/haythamfayek/) | [Github](https://github.com/haythamfayek) | [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) | [ORCID](https://orcid.org/0000-0002-1840-7605).
+
+I can be reached at
 <script type="text/javascript">
 	//<![CDATA[
 	<!--
@@ -40,7 +42,8 @@ Please feel free to email me at
 	//]]>
 </script>
 (redirects to my actual email).
-My CV is available upon request.
+
+
 
 <br/>
 
@@ -88,11 +91,14 @@ Five-year full scholarship, 2007-2012.
 
 ## Miscellaneous
 
-I am always open to volunteering to facilitate / coach in coding and science bootcamps and hackathons. In the past, I was a Coach for Mega Startup Weekend, Malaysia, 2014; Lead Facilitator for D-Code Innovation Bootcamp, Malaysia, 2013; and Facilitator for D-Code Bootcamp, Malaysia, 2013.
+[My brief profile on RMIT](https://www.rmit.edu.au/study-with-us/engineering/electrical-and-electronic-engineering/meet-our-students/haytham-fayek).
 
-I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') according the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
+I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') according to the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
 
-I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom slow-brewed but not boiled :).
+I love traveling! Travel photos coming soon.
 
-I used to be an avid football player. I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
+I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom a la Turkish slow-brewed but not boiled :).
+
+I used to be an avid football / soccer player. 
+I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
 I am a Manchester United fan.

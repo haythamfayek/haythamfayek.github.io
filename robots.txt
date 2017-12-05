@@ -4,3 +4,4 @@
 User-agent: *
 Sitemap: http://haythamfayek.com/sitemap.xml
 Disallow: /assets/presentations/
+Disallow: /assets/Fayek_resume.pdf

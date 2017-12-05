@@ -2,12 +2,11 @@
 layout: page
 title: Presentations
 permalink: /presentations/
-order: 3
 ---
 
 ### Conference Talks
 
-- **On Data-Driven Approaches to Head-Related Transfer Function Personalization.**  
+- **On data-driven approaches to head-related transfer function personalization.**  
 Audio Engineering Society Convention 143.  
 New York, USA, Oct 2017.
 
@@ -54,11 +53,11 @@ Vancouver, Canada, Jul 2016.
 
 ### Invited Talks
 
-- **Will Deep Learning Lead to AI?**  
+- **Will deep learning lead to AI?**  
 Swinburne University.  
 Melbourne, Australia, Sep 2017
 
-- **Will Deep Learning Lead to AI?**  
+- **Will deep learning lead to AI?**  
 Machine Learning & AI Melbourne Meetup.  
 Melbourne, Australia, Aug 2017  
 [[ slides ]](../assets/presentations/Fayek_deeplearningai17.pdf)

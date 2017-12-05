@@ -1,9 +1,16 @@
 # Site settings
 title: Haytham Fayek
+author: Haytham Fayek
 email: h@haythamfayek.com
-description: Eng PhD Student at RMIT Univeristy. Deep Learning Researcher.
+description: Machine Learning & Deep Learning Researcher. Eng PhD Student at RMIT Univeristy.
+logo: /assets/HF-Fav.png
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://haythamfayek.com" # the base hostname & protocol for your site
+
+twitter:
+  username: haythamfayek
+
 twitter_username: haythamfayek
 linkedin_username: haythamfayek
 github_username:  haythamfayek
@@ -11,12 +18,28 @@ github_username:  haythamfayek
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
-exclude:
-  - Gemfile
-  - Gemfile.lock
+
+header_pages:
+  - about.md
+  - publications.md
+  - presentations.md
+  - blog.md
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
 google_analytics: UA-63097921-1
 disqus:
   shortname: haythamfayek
