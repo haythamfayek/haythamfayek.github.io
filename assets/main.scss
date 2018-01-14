@@ -19,7 +19,7 @@ strong {
     text-align: center;
 }
 
-/* Home */
+/* Combo Home About */
 
 .profilepicmain {
     float: right;
@@ -40,15 +40,13 @@ strong {
 
 .projectleft{
     float: left;
-    width: 30%;
+    width: 27%;
 }
 
 .projectright{
     float: left;
-    width: 70%;
+    width: 73%;
 }
-
-/* About */
 
 .profilepic {
     float: right;
@@ -60,12 +58,12 @@ strong {
     filter: grayscale(25%);
 }
 
-/* Combo Main About */
+/* Combo Home About Mobile */
 
 @media only screen and (max-width: 735px) {
     .profilepicmain {
         float: none;
-        max-width: 50%;
+        max-width: 60%;
         border-radius: 100%;
         display: block;
         margin: 10px auto 30px;
@@ -73,7 +71,7 @@ strong {
 
     .profilepic {
         float: none;
-        max-width: 50%;
+        max-width: 60%;
         border-radius: 100%;
         display: block;
         margin: 10px auto 30px;

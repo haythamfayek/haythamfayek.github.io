@@ -42,8 +42,8 @@ My research interests are in Artificial Intelligence and Machine Learning.
 
 <div class="projectleft"><img src="/assets/projects/HRTF.png" alt="Haytham" class="projectpic"/></div>
 <div class="projectright" markdown="1">
-Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
 **On Data-Driven Approaches to Head-Related Transfer Function Personalization.**  
+Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
 Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
 
 *We study the head-related transfer function personalization problem, establish strong baselines, and demonstrate the weaknesses of prior methods compared to the established baselines.*  
@@ -61,8 +61,8 @@ Head-Related Transfer Function (HRTF) personalization is key to improving spatia
 
 <div class="projectleft"><img src="/assets/projects/SER.jpg" alt="Haytham" class="projectpic"/></div>
 <div class="projectright" markdown="1">
-Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
 **Evaluating deep learning architectures for Speech Emotion Recognition.**  
+Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
 Neural Networks, vol. 92, pp. 60-68, Aug 2017.  
 
 *A real-time frame-based formulation to speech emotion recognition that relies on minimal speech processing and end-to-end deep learning. We use the proposed system to study various deep learning architectures and report state-of-the-art results on a popular dataset.*
@@ -80,10 +80,10 @@ Speech Emotion Recognition (SER) can be regarded as a static or dynamic classifi
 
 <div class="projectleft"><img src="/assets/projects/TL.png" alt="Haytham" class="projectpic"/></div>
 <div class="projectright" markdown="1">
-Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
 **On the correlation and transferability of features between automatic speech recognition and speech emotion recognition.**  
-
+Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
 Interspeech, San Francisco, USA, Sep 2016, pp. 3618-3622.  
+
 *We investigate the inter-task information propagation and layer-wise features relevance in deep networks.*
 
 <a onclick="toggleShow('Toggled3')">Abstract&#x21D5;</a>
@@ -94,6 +94,25 @@ Interspeech, San Francisco, USA, Sep 2016, pp. 3618-3622.
 </div>
 <div id="Toggled3" style="display: none;">
 The correlation between Automatic Speech Recognition (ASR) and Speech Emotion Recognition (SER) is poorly understood. Studying such correlation may pave the way for integrating both tasks into a single system or may provide insights that can aid in advancing both systems such as improving ASR in dealing with emotional speech or embedding linguistic input into SER. In this paper, we quantify the relation between ASR and SER by studying the relevance of features learned between both tasks in deep convolutional neural networks using transfer learning. Experiments are conducted using the TIMIT and IEMOCAP databases. Results reveal an intriguing correlation between both tasks, where features learned in some layers particularly towards initial layers of the network for either task were found to be applicable to the other task with varying degree.
+</div>
+<div style="clear:both"></div>
+
+<br/>
+
+<div class="projectleft"><img src="/assets/projects/robot.jpg" alt="Haytham" class="projectpic"/></div>
+<div class="projectright" markdown="1">
+**A controller based on optimal type-2 fuzzy logic: Systematic design, optimization and real-time implementation.**  
+Haytham M. Fayek, Irraivan Elamvazuthi, N. Perumal, and Bala Venkatesh.  
+ISA Transactions, vol. 53(5), pp. 1583-1591, Sep 2014.  
+
+*We devolp a robust controller using Type-2 Fuzzy Logic optimally designed via Particle Swarm Optimization (PSO) and Genetic Algorithm (GA) and demonstrate its efficacy on a robotic arm.*
+
+<a onclick="toggleShow('Toggled4')">Abstract&#x21D5;</a>
+[[ url ]](http://doi.org/10.1016/j.isatra.2014.06.001)
+[[ bib ]](../assets/bibtex/Fayek_isa14.bib)
+</div>
+<div id="Toggled4" style="display: none;">
+A computationally-efficient systematic procedure to design an Optimal Type-2 Fuzzy Logic Controller (OT2FLC) is proposed. The main scheme is to optimize the gains of the controller using Particle Swarm Optimization (PSO), then optimize only two parameters per type-2 membership function using Genetic Algorithm (GA). The proposed OT2FLC was implemented in real-time to control the position of a DC servomotor, which is part of a robotic arm. The performance judgments were carried out based on the Integral Absolute Error (IAE), as well as the computational cost. Various type-2 defuzzification methods were investigated in real-time. A comparative analysis with an Optimal Type-1 Fuzzy Logic Controller (OT1FLC) and a PI controller, demonstrated OT2FLC׳s superiority; which is evident in handling uncertainty and imprecision induced in the system by means of noise and disturbances.
 </div>
 <div style="clear:both"></div>
 
