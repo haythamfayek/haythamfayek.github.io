@@ -105,7 +105,7 @@ The correlation between Automatic Speech Recognition (ASR) and Speech Emotion Re
 Haytham M. Fayek, Irraivan Elamvazuthi, N. Perumal, and Bala Venkatesh.  
 ISA Transactions, vol. 53(5), pp. 1583-1591, Sep 2014.  
 
-*We devolp a robust controller using Type-2 Fuzzy Logic optimally designed via Particle Swarm Optimization (PSO) and Genetic Algorithm (GA) and demonstrate its efficacy on a robotic arm.*
+*We develop a robust controller using Type-2 Fuzzy Logic optimally designed via Particle Swarm Optimization (PSO) and Genetic Algorithm (GA) and demonstrate its efficacy on a robotic arm.*
 
 <a onclick="toggleShow('Toggled4')">Abstract&#x21D5;</a>
 [[ url ]](http://doi.org/10.1016/j.isatra.2014.06.001)
