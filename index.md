@@ -18,6 +18,7 @@ Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.
 
 ## Updates
 
+**Feb 2018**: Teaching Assistant at RMIT for Postgraduate COSC1295 Advanced Programming and Undergraduate EEET2169 Image Processing.
 **Dec 2017**: At NIPS'17, Long Beach.  
 **Nov 2017**: New paper: [MatDL: A lightweight deep learning library in MATLAB](https://doi.org/10.21105/joss.00413) in JOSS.  
 **Nov 2017**: At World Youth Forum (WYF'17), Sharm El Sheikh.  
