@@ -8,7 +8,7 @@ title: Haytham Fayek
 Artificial Intelligence, Machine Learning, & Deep Learning Researcher.  
 Vice-Chancellor PhD Candidate, [RMIT University](https://www.rmit.edu.au).  
 Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.  
-[About](about)  |  [Resume](assets/Fayek_resume.pdf) |  [Twitter](https://twitter.com/HaythamFayek)  |  [LinkedIn](https://www.linkedin.com/in/haythamfayek/)  |  [Github](https://github.com/haythamfayek).
+[About](about)  |  [Resume](assets/Fayek_resume.pdf) |  [Twitter](https://twitter.com/HaythamFayek)  |  [LinkedIn](https://www.linkedin.com/in/haythamfayek/)  |  [Github](https://github.com/haythamfayek) | [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1).
 
 <br/>
 
@@ -20,11 +20,12 @@ Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.
 
 **Feb 2018**: Teaching Assistant at RMIT for Postgraduate COSC1295 Advanced Programming and Undergraduate EEET2169 Image Processing.  
 **Dec 2017**: At NIPS'17, Long Beach.  
-**Nov 2017**: New paper: [MatDL: A lightweight deep learning library in MATLAB](https://doi.org/10.21105/joss.00413) in JOSS.  
+**Nov 2017**: New paper: [MatDL: A lightweight deep learning library in MATLAB](https://doi.org/10.21105/joss.00413), in JOSS.  
 **Nov 2017**: At World Youth Forum (WYF'17), Sharm El Sheikh.  
-**Oct 2017**: Paper presentation at AES'17, New York on [HRTF Personalization](http://www.aes.org/e-lib/browse.cfm?elib=19287).  
-**Sep 2017**: Talk at Swinburne University, Melbourne on Will Deep Learning Lead to AI?.  
-**Aug 2017**: Talk at the [ML / AI Melbourne Meetup](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/) on [Will Deep Learning Lead to AI?](../assets/presentations/Fayek_deeplearningai17.pdf).  
+**Oct 2017**: Paper presentation at AES'17, New York, on [HRTF Personalization](http://www.aes.org/e-lib/browse.cfm?elib=19287).  
+**Sep 2017**: New paper: [On data-driven approaches to head-related transfer function personalization](http://www.aes.org/e-lib/browse.cfm?elib=19287), at AES'17.  
+**Sep 2017**: Talk at Swinburne University, Melbourne, on Will Deep Learning Lead to AI?.  
+**Aug 2017**: Talk at the [ML / AI Melbourne Meetup](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/), on [Will Deep Learning Lead to AI?](../assets/presentations/Fayek_deeplearningai17.pdf).  
 **Aug 2017**: At ICML'17, Sydney and IJCAI'17, Melbourne.  
 
 <br/>

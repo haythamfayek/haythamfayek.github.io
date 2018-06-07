@@ -53,12 +53,16 @@ Vancouver, Canada, Jul 2016.
 
 ### Invited Talks
 
+- **Linguistic and paralinguistic speech recognition.**  
+Voicera.  
+Menlo Park, USA, Dec 2017
+
 - **Will deep learning lead to AI?**  
 Swinburne University.  
 Melbourne, Australia, Sep 2017
 
 - **Will deep learning lead to AI?**  
-Machine Learning & AI Melbourne Meetup.  
+Melbourne Machine Learning & AI Meetup.  
 Melbourne, Australia, Aug 2017  
 [[ slides ]](../assets/presentations/Fayek_deeplearningai17.pdf)
 [[ url ]](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/)
@@ -67,3 +71,23 @@ Melbourne, Australia, Aug 2017
 Fire Protection Association of Malaysia (FPAM).  
 Kuala Lumpur, Malaysia, Mar 2014.  
 [[ prezi ]](http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc)
+
+<br/>
+
+---
+
+<br/>
+
+### Guest Lectures
+
+- **Digital image watermarking.**  
+EEET2169 Image Processing and Post-Graduate EEE1255 Image Systems Engineering.  
+RMIT University, Australia, April 2018
+
+- **Sampling and reconstruction.**  
+EEET2113 Signals and Systems 2.   
+RMIT University, Australia, March 2016
+
+- **Signals in noise.**  
+EEET2113 Digital Signal Processing 1.   
+RMIT University, Australia, April 2015
