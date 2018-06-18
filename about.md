@@ -10,7 +10,7 @@ I am a final-year Vice-Chancellor PhD Student at the School of Engineering, [RMI
 My research interests are in artificial intelligence, machine learning, and deep learning.
 
 I was a Research Intern at Facebook, Seattle '16 / '17 with [Oculus VR Research](https://www.oculus.com/research/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
-I was a Guest Lecturer and Teaching Assistant for Post-graduate Advanced Programming, and Under-graduate Image Processing, Signals & Systems and Digital Signal Processing at RMIT.
+I was a Teaching Assistant for postgraduate Advanced Programming, and undergraduate Image Processing, Signals & Systems II, and Digital Signal Processing I at RMIT.
 
 Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University](https://www.utp.edu.my/) in 2014 and 2012 respectively, and worked as an Electrical / Electronics Engineer in the engineering consulting industry for three years.
 
@@ -93,7 +93,7 @@ Five-year full scholarship, 2007-2012.
 
 I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') according to the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
 
-I love traveling! Travel photos coming soon.
+I love travelling! Travel photos coming soon.
 
 I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom a la Turkish slow-brewed but not boiled :).
 
