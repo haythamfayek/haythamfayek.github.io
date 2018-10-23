@@ -6,7 +6,8 @@ title: Haytham Fayek
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
 Artificial Intelligence, Machine Learning, & Deep Learning Researcher.  
-Vice-Chancellor PhD Candidate, [RMIT University](https://www.rmit.edu.au).  
+Post-doctoral Research Scientist, [Facebook Research](https://research.fb.com).  
+Alumnus [RMIT University](https://www.rmit.edu.au).  
 Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.  
 [About](about)  |  [Resume](assets/Fayek_resume.pdf) |  [Twitter](https://twitter.com/HaythamFayek)  |  [LinkedIn](https://www.linkedin.com/in/haythamfayek/)  |  [Github](https://github.com/haythamfayek) | [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1).
 
@@ -18,7 +19,8 @@ Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.
 
 ## Updates
 
-**Jun 2018**: Panel at ACMI X, Melbourne, on [Talking Computers: How Voice Technology is Changing the Human Machine Interaction](https://academyxi.com/events/talking-computers-voice-technology-changing-human-machine-interaction/).  
+**Aug 2018**: Post-doctoral Research Scientist, [Facebook Research](https://research.fb.com), Seattle.   
+**Jun 2018**: Panel at ACMI X, Melbourne, on [Talking Computers: How Voice Technology is Changing the Human Machine Interaction](https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/).  
 **Feb 2018**: Teaching Assistant at RMIT for postgraduate COSC1295 Advanced Programming and undergraduate EEET2169 Image Processing.  
 **Dec 2017**: At NIPS'17, Long Beach.  
 **Nov 2017**: New paper: [MatDL: A lightweight deep learning library in MATLAB](https://doi.org/10.21105/joss.00413), in JOSS.  
@@ -49,7 +51,7 @@ My research interests are in Artificial Intelligence and Machine Learning.
 Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
 Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
 
-*We study the head-related transfer function personalization problem, establish strong baselines, and demonstrate the weaknesses of prior methods compared to the established baselines.*  
+*We study the head-related transfer function personalization problem, establish strong baselines, and demonstrate the weaknesses of prior methods compared with the established baselines.*  
 
 <a onclick="toggleShow('Toggled1')">Abstract&#x21D5;</a>
 [[ url ]](http://www.aes.org/e-lib/browse.cfm?elib=19287)

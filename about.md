@@ -6,16 +6,13 @@ permalink: /about/
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>
 
-I am a final-year Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au), Melbourne, advised by [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/) and [Henry Wu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/w/wu-professor-hong-ren).
-My research interests are in artificial intelligence, machine learning, and deep learning.
+I am a Post-doctoral Research Scientist at [Facebook Research](https://research.fb.com), Seattle. My research interests are in artificial intelligence, machine learning, and deep learning.
 
-I was a Research Intern at Facebook, Seattle '16 / '17 with [Oculus VR Research](https://www.oculus.com/research/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
+Prior, I was a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au), Melbourne, advised by [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/) and [Henry Wu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/w/wu-professor-hong-ren).
+I was a Research Intern at Facebook, Seattle '16 / '17 with [Facebook Reality Labs (Oculus VR Research)](https://research.fb.com/category/augmented-reality-virtual-reality/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
 I was a Teaching Assistant for postgraduate Advanced Programming, and undergraduate Image Processing, Signals & Systems II, and Digital Signal Processing I at RMIT.
 
 Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University](https://www.utp.edu.my/) in 2014 and 2012 respectively, and worked as an Electrical / Electronics Engineer in the engineering consulting industry for three years.
-
-More in [Resume](../assets/Fayek_resume.pdf).
-I am on [Twitter](https://twitter.com/HaythamFayek) | [LinkedIn](https://www.linkedin.com/in/haythamfayek/) | [Github](https://github.com/haythamfayek) | [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) | [ORCID](https://orcid.org/0000-0002-1840-7605).
 
 I can be reached at
 <script type="text/javascript">
@@ -42,6 +39,9 @@ I can be reached at
 	//]]>
 </script>
 (redirects to my actual email).
+
+
+[Resume](../assets/Fayek_resume.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) &#124; [ORCID](https://orcid.org/0000-0002-1840-7605) &#124; [Twitter](https://twitter.com/HaythamFayek) &#124; [LinkedIn](https://www.linkedin.com/in/haythamfayek/) &#124; [Github](https://github.com/haythamfayek).
 
 <br/>
 

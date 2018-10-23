@@ -6,7 +6,7 @@ description: Machine Learning & Deep Learning Researcher. Eng PhD Student at RMI
 logo: /assets/HF-Fav.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://haythamfayek.com" # the base hostname & protocol for your site
+url: "https://haythamfayek.com" # the base hostname & protocol for your site
 
 twitter:
   username: haythamfayek
