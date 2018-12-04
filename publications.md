@@ -15,6 +15,14 @@ permalink: /publications/
 
 ### Papers
 
+#### 2018
+
+- Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu  
+**On the Transferability of Representations in Neural Networks Between Datasets and Tasks.**  
+Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS 2018), Montréal, Canada, Dec 2018.  
+[[ arXiv ]](https://arxiv.org/abs/1811.12273)
+[[ bib ]](../assets/bibtex/Fayek_neurips_cl18.bib)
+
 #### 2017
 
 - Haytham M. Fayek.  

@@ -19,14 +19,14 @@ Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.
 
 ## Updates
 
-**Aug 2018**: Post-doctoral Research Scientist, [Facebook Research](https://research.fb.com), Seattle.   
-**Jun 2018**: Panel at ACMI X, Melbourne, on [Talking Computers: How Voice Technology is Changing the Human Machine Interaction](https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/).  
+**Dec 2018**: At NeurIPS'18, Montréal, to present [On the Transferability of Representations in Neural Networks Between Datasets and Tasks](https://arxiv.org/abs/1811.12273) at the Continual Learning Workshop.    
+**Aug 2018**: Post-doctoral Research Scientist, [Facebook Research](https://research.fb.com), Seattle.  
+**Jun 2018**: Panel discussion at ACMI X, Melbourne, on [Talking Computers: How Voice Technology is Changing the Human Machine Interaction](https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/).  
 **Feb 2018**: Teaching Assistant at RMIT for postgraduate COSC1295 Advanced Programming and undergraduate EEET2169 Image Processing.  
 **Dec 2017**: At NIPS'17, Long Beach.  
-**Nov 2017**: New paper: [MatDL: A lightweight deep learning library in MATLAB](https://doi.org/10.21105/joss.00413), in JOSS.  
+**Nov 2017**: Paper: [MatDL: A lightweight deep learning library in MATLAB](https://doi.org/10.21105/joss.00413), in JOSS.  
 **Nov 2017**: At World Youth Forum (WYF'17), Sharm El Sheikh.  
-**Oct 2017**: Paper presentation at AES'17, New York, on [HRTF Personalization](http://www.aes.org/e-lib/browse.cfm?elib=19287).  
-**Sep 2017**: New paper: [On data-driven approaches to head-related transfer function personalization](http://www.aes.org/e-lib/browse.cfm?elib=19287), at AES'17.  
+**Oct 2017**: At AES'17, New York, to present [On data-driven approaches to head-related transfer function personalization](http://www.aes.org/e-lib/browse.cfm?elib=19287).  
 **Sep 2017**: Talk at Swinburne University, Melbourne, on Will Deep Learning Lead to AI?  
 **Aug 2017**: Talk at the [ML / AI Melbourne Meetup](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/), on [Will Deep Learning Lead to AI?](../assets/presentations/Fayek_deeplearningai17.pdf).  
 **Aug 2017**: At ICML'17, Sydney and IJCAI'17, Melbourne.  

@@ -40,6 +40,10 @@ Miedzyzdroje, Poland, Aug 2013.
 
 ### Conference Posters
 
+- **On the Transferability of Representations in Neural Networks Between Datasets and Tasks.**  
+Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS 2018).  
+Montréal, Canada, Dec 2018.  
+
 - **Modeling Subjectiveness in Emotion Recognition with Deep Neural Networks: Ensembles vs Soft Labels.**  
 29th International Joint Conference on Neural Networks (IJCNN).  
 Vancouver, Canada, Jul 2016.  
