@@ -1,0 +1,162 @@
+<br/>
+
+---
+
+<br/>
+
+## Research
+
+My research interests are in Artificial Intelligence and Machine Learning.  
+[Publications](publications)  |  [Presentations](presentations)  |  [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1)  |  [ORCID](https://orcid.org/0000-0002-1840-7605)  
+
+#### Selected Research:
+<br/>
+
+<div class="projectleft"><img src="/assets/projects/HRTF.png" alt="Haytham" class="projectpic"/></div>
+<div class="projectright" markdown="1">
+**On Data-Driven Approaches to Head-Related Transfer Function Personalization.**  
+Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
+Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
+
+*We study the head-related transfer function personalization problem, establish strong baselines, and demonstrate the weaknesses of prior methods compared with the established baselines.*  
+
+<a onclick="toggleShow('Toggled1')"><strong>Abstract &#x21D5;</strong></a>
+[**url**](http://www.aes.org/e-lib/browse.cfm?elib=19287)
+[**bib**](../assets/bibtex/Fayek_aes17.bib)
+</div>
+<div id="Toggled1" style="display: none;">
+Head-Related Transfer Function (HRTF) personalization is key to improving spatial audio perception and localization in virtual auditory displays. We investigate the task of personalizing HRTFs from anthropometric measurements, which can be decomposed into two sub tasks: Interaural Time Delay (ITD) prediction and HRTF magnitude spectrum prediction. We explore both problems using state-of-the-art Machine Learning (ML) techniques. Firstly, we show that ITD prediction can be significantly improved by smoothing the ITD using a spherical harmonics representation. Secondly, our results indicate that prior unsupervised dimensionality reduction-based approaches may be unsuitable for HRTF personalization. Lastly, we show that neural network models trained on the full HRTF representation improve HRTF prediction compared to prior methods.
+</div>
+<div style="clear:both"></div>
+
+<br/>
+
+<div class="projectleft"><img src="/assets/projects/SER.jpg" alt="Haytham" class="projectpic"/></div>
+<div class="projectright" markdown="1">
+**Evaluating deep learning architectures for Speech Emotion Recognition.**  
+Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
+Neural Networks, vol. 92, pp. 60-68, Aug 2017.  
+
+*A real-time frame-based formulation to speech emotion recognition that relies on minimal speech processing and end-to-end deep learning. We use the proposed system to study various deep learning architectures and report state-of-the-art results on a popular dataset.*
+
+<a onclick="toggleShow('Toggled2')"><strong>Abstract &#x21D5;</strong></a>
+[**url**](http://doi.org/10.1016/j.neunet.2017.02.013)
+[**bib**](../assets/bibtex/Fayek_nn17.bib)
+</div>
+<div id="Toggled2" style="display: none;">
+Speech Emotion Recognition (SER) can be regarded as a static or dynamic classification problem, which makes SER an excellent test bed for investigating and comparing various deep learning architectures. We describe a frame-based formulation to SER that relies on minimal speech processing and end-to-end deep learning to model intra-utterance dynamics. We use the proposed SER system to empirically explore feed-forward and recurrent neural network architectures and their variants. Experiments conducted illuminate the advantages and limitations of these architectures in paralinguistic speech recognition and emotion recognition in particular. As a result of our exploration, we report state-of-the-art results on the IEMOCAP database for speaker-independent SER and present quantitative and qualitative assessments of the models’ performances.
+</div>
+<div style="clear:both"></div>
+
+<br/>
+
+<div class="projectleft"><img src="/assets/projects/TL.png" alt="Haytham" class="projectpic"/></div>
+<div class="projectright" markdown="1">
+**On the correlation and transferability of features between automatic speech recognition and speech emotion recognition.**  
+Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
+Interspeech, San Francisco, USA, Sep 2016, pp. 3618-3622.  
+
+*We investigate the inter-task information propagation and layer-wise features relevance in deep networks.*
+
+<a onclick="toggleShow('Toggled3')"><strong>Abstract &#x21D5;</strong></a>
+[**pdf**](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0868.PDF)
+[**url**](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0868.html)
+[**slides**](../assets/presentations/Fayek_is16.pdf)
+[**bib**](../assets/bibtex/Fayek_is16.bib)
+</div>
+<div id="Toggled3" style="display: none;">
+The correlation between Automatic Speech Recognition (ASR) and Speech Emotion Recognition (SER) is poorly understood. Studying such correlation may pave the way for integrating both tasks into a single system or may provide insights that can aid in advancing both systems such as improving ASR in dealing with emotional speech or embedding linguistic input into SER. In this paper, we quantify the relation between ASR and SER by studying the relevance of features learned between both tasks in deep convolutional neural networks using transfer learning. Experiments are conducted using the TIMIT and IEMOCAP databases. Results reveal an intriguing correlation between both tasks, where features learned in some layers particularly towards initial layers of the network for either task were found to be applicable to the other task with varying degree.
+</div>
+<div style="clear:both"></div>
+
+<br/>
+
+<div class="projectleft"><img src="/assets/projects/robot.jpg" alt="Haytham" class="projectpic"/></div>
+<div class="projectright" markdown="1">
+**A controller based on optimal type-2 fuzzy logic: Systematic design, optimization and real-time implementation.**  
+Haytham M. Fayek, Irraivan Elamvazuthi, N. Perumal, and Bala Venkatesh.  
+ISA Transactions, vol. 53(5), pp. 1583-1591, Sep 2014.  
+
+*We develop a robust controller using Type-2 Fuzzy Logic optimally designed via Particle Swarm Optimization (PSO) and Genetic Algorithm (GA) and demonstrate its efficacy on a robotic arm.*
+
+<a onclick="toggleShow('Toggled4')"><strong>Abstract &#x21D5;</strong></a>
+[**url**](http://doi.org/10.1016/j.isatra.2014.06.001)
+[**bib**](../assets/bibtex/Fayek_isa14.bib)
+</div>
+<div id="Toggled4" style="display: none;">
+A computationally-efficient systematic procedure to design an Optimal Type-2 Fuzzy Logic Controller (OT2FLC) is proposed. The main scheme is to optimize the gains of the controller using Particle Swarm Optimization (PSO), then optimize only two parameters per type-2 membership function using Genetic Algorithm (GA). The proposed OT2FLC was implemented in real-time to control the position of a DC servomotor, which is part of a robotic arm. The performance judgments were carried out based on the Integral Absolute Error (IAE), as well as the computational cost. Various type-2 defuzzification methods were investigated in real-time. A comparative analysis with an Optimal Type-1 Fuzzy Logic Controller (OT1FLC) and a PI controller, demonstrated OT2FLC׳s superiority; which is evident in handling uncertainty and imprecision induced in the system by means of noise and disturbances.
+</div>
+<div style="clear:both"></div>
+
+<script type="text/javascript">
+function toggleShow(y) {
+    var x = document.getElementById(y);
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+
+
+<br/>
+
+---
+
+<br/>
+
+## Awards & Scholarships
+
+**RMIT HDR Travel Grant.**  
+Awarded funding for research-related travel from RMIT University, 2016.
+
+**NVIDIA Hardware Grant.**  
+Awarded a Tesla K40 Graphics Processing Unit (GPU) (with M. Lech & L. Cavedon) from NVIDIA, 2015.
+
+**RMIT Vice Chancellor's PhD Scholarship (VCPS).**  
+Three-year full scholarship, 2015-2018.
+
+**Gold Medal.**  
+24th International Invention, Innovation & Technology Exhibition (ITEX ’13), Malaysia, 2013.
+
+**Runner-up Best Young Author.**  
+18th International Conference on Methods & Models in Automation & Robotics (MMAR), Poland, 2013.
+
+**First Place.**  
+Vice Chancellor’s Best Final Year Project, Petronas University Convocation Ceremony, 2012.
+
+**Silver Medal.**  
+Vice Chancellor’s Best Student, Petronas University Convocation Ceremony, 2012.
+
+**Best Presenter.**  
+Science and Engineering Design Exhibition, Petronas University, 2011.
+
+**Silver Medal.**  
+Science and Engineering Design Exhibition, Petronas University, 2011.
+
+**Petronas & MOPE BEng Scholarship.**  
+Five-year full scholarship, 2007-2012.
+
+<br/>
+
+---
+
+<br/>
+
+## Miscellaneous
+
+[My brief profile on RMIT](https://www.rmit.edu.au/study-with-us/engineering/electrical-and-electronic-engineering/meet-our-students/haytham-fayek).
+
+I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') according to the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
+
+I love travelling! Travel photos coming soon.
+
+I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom a la Turkish slow-brewed but not boiled :).
+
+I used to be an avid football / soccer player. 
+I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
+I am a Manchester United fan.
+
+<p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>

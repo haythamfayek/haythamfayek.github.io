@@ -6,10 +6,37 @@ title: Haytham Fayek
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
 Artificial Intelligence, Machine Learning, & Deep Learning Researcher.  
-Post-doctoral Research Scientist, [Facebook Research](https://research.fb.com).  
-Alumnus [RMIT University](https://www.rmit.edu.au).  
-Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.  
-[About](about)  |  [Resume](assets/Fayek_resume.pdf) |  [Twitter](https://twitter.com/HaythamFayek)  |  [LinkedIn](https://www.linkedin.com/in/haythamfayek/)  |  [Github](https://github.com/haythamfayek) | [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1).
+Postdoctoral Research Scientist, [Facebook Research](https://research.fb.com).  
+Alumnus [RMIT University](https://www.rmit.edu.au), Oculus / Facebook, AGI, & WorleyParsons.  
+[Github](https://github.com/haythamfayek) |
+[Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
+[ORCID](https://orcid.org/0000-0002-1840-7605) |
+[LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
+[Resume](assets/Fayek_resume.pdf) |
+[Twitter](https://twitter.com/HaythamFayek).  
+<script type="text/javascript">
+	//<![CDATA[
+	// <!--
+	var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<108)y++" +
+	";y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\013\\"+
+	"032\\037\\020\\001\\036\\026\\025]f*|/s|m|0{8y%8>2ON\\031^\\006FI@WF\\\\\\0" +
+	"32T\\007SR{5,/$/d6~1<7*\\0313:\\005#\\020N\\004E]]YSICIS\\007\\nsz~\\177\\\""+
+	"6u4}8({\\\"f~~U@M\\017L\\002VRLUZE\\021R\\000Slr~/yuyq\\\"a`g4?zo+z6>6*\\03" +
+	"0.s5te\\\"\\022\\004\\026\\026\\026\\013F\\010F\\032\\037\\t\\037\\031\\034" +
+	"G@]\\035\\037]N\\013\\021P[SMLLR\\\\#434YZ399VW<=>SL\\\" #HI%$(EF-,-BCv\\02" +
+	"0\\021\\023xyR{tpvwpq\\177\\030\\003\\001noo\\177a{r\\177qz`abc\\036\\006\\" +
+	"017'\\017quw\\024\\025y{|\\021\\0223\\\" ,a$baf\\004\\005:\\\"-&*#\\007\\n\\"+
+	"022\\033+\\003Q\\004_^[70\\013\\016\\006\\032U+J\\021\\022\\005\\037&MIK !>" +
+	"YS514YZ3:9VW>?>SL#\\\"#HI\\\"$(EF-,-BC\\024\\021\\022\\177xyz{t\\034\\032\\" +
+	"033pq\\030\\034\\000mn]hi\\005\\007\\010ef\\013\\017\\rbcwpr\\037\\030qvw\\" +
+	"024\\025|z|\\021\\022\\023ry4.o:v9*,.>. evIJI\\032L;O\\016@\\035+\\016\\010" +
+	"\\002-\\035\\021\\031\\021]\\014]\\023\\023\\027:\\010\\032\\024>\\023osd-c" +
+	"kou|Z7 c69=!,7jo<=<q\\\"v'u&.\\\"I\\tPLB\\036NSOGOG\\002U\\023C\\034m\\020o" +
+	"\\026\\010Y\\033Q\\031HZJF\\027Fl9j%d+).<*$>*og\",108)"                      ;
+	while(x=eval(x));
+	//-->
+	//]]>
+</script>
 
 <br/>
 
@@ -19,8 +46,9 @@ Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.
 
 ## Updates
 
-**Dec 2018**: At NeurIPS'18, Montréal, to present [On the Transferability of Representations in Neural Networks Between Datasets and Tasks](https://arxiv.org/abs/1811.12273) at the Continual Learning Workshop.    
-**Aug 2018**: Post-doctoral Research Scientist, [Facebook Research](https://research.fb.com), Seattle.  
+**Feb 2019**: PhD Thesis: [Continual Deep Learning via Progressive Learning](http://researchbank.rmit.edu.au/view/rmit:162646)!  
+**Dec 2018**: At NeurIPS'18, Montréal, to present [On the transferability of representations in neural networks between datasets and tasks](https://arxiv.org/abs/1811.12273) at the Continual Learning Workshop.    
+**Aug 2018**: Postdoctoral Research Scientist, [Facebook Research](https://research.fb.com), Seattle.  
 **Jun 2018**: Panel discussion at ACMI X, Melbourne, on [Talking Computers: How Voice Technology is Changing the Human Machine Interaction](https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/).  
 **Feb 2018**: Teaching Assistant at RMIT for postgraduate COSC1295 Advanced Programming and undergraduate EEET2169 Image Processing.  
 **Dec 2017**: At NIPS'17, Long Beach.  
@@ -30,104 +58,3 @@ Ex-Intern Oculus / Facebook, & WorleyParsons. Ex-Engineer AGI.
 **Sep 2017**: Talk at Swinburne University, Melbourne, on Will Deep Learning Lead to AI?  
 **Aug 2017**: Talk at the [ML / AI Melbourne Meetup](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/), on [Will Deep Learning Lead to AI?](../assets/presentations/Fayek_deeplearningai17.pdf).  
 **Aug 2017**: At ICML'17, Sydney and IJCAI'17, Melbourne.  
-
-<br/>
-
----
-
-<br/>
-
-## Research
-
-My research interests are in Artificial Intelligence and Machine Learning.  
-[Publications](publications)  |  [Presentations](presentations)  |  [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1)  |  [ORCID](https://orcid.org/0000-0002-1840-7605)  
-
-#### Selected Research:
-<br/>
-
-<div class="projectleft"><img src="/assets/projects/HRTF.png" alt="Haytham" class="projectpic"/></div>
-<div class="projectright" markdown="1">
-**On Data-Driven Approaches to Head-Related Transfer Function Personalization.**  
-Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, Ravish Mehra.  
-Audio Engineering Society Convention 143, New York, USA, Oct 2017.  
-
-*We study the head-related transfer function personalization problem, establish strong baselines, and demonstrate the weaknesses of prior methods compared with the established baselines.*  
-
-<a onclick="toggleShow('Toggled1')">Abstract&#x21D5;</a>
-[[ url ]](http://www.aes.org/e-lib/browse.cfm?elib=19287)
-[[ bib ]](../assets/bibtex/Fayek_aes17.bib)
-</div>
-<div id="Toggled1" style="display: none;">
-Head-Related Transfer Function (HRTF) personalization is key to improving spatial audio perception and localization in virtual auditory displays. We investigate the task of personalizing HRTFs from anthropometric measurements, which can be decomposed into two sub tasks: Interaural Time Delay (ITD) prediction and HRTF magnitude spectrum prediction. We explore both problems using state-of-the-art Machine Learning (ML) techniques. Firstly, we show that ITD prediction can be significantly improved by smoothing the ITD using a spherical harmonics representation. Secondly, our results indicate that prior unsupervised dimensionality reduction-based approaches may be unsuitable for HRTF personalization. Lastly, we show that neural network models trained on the full HRTF representation improve HRTF prediction compared to prior methods.
-</div>
-<div style="clear:both"></div>
-
-<br/>
-
-<div class="projectleft"><img src="/assets/projects/SER.jpg" alt="Haytham" class="projectpic"/></div>
-<div class="projectright" markdown="1">
-**Evaluating deep learning architectures for Speech Emotion Recognition.**  
-Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
-Neural Networks, vol. 92, pp. 60-68, Aug 2017.  
-
-*A real-time frame-based formulation to speech emotion recognition that relies on minimal speech processing and end-to-end deep learning. We use the proposed system to study various deep learning architectures and report state-of-the-art results on a popular dataset.*
-
-<a onclick="toggleShow('Toggled2')">Abstract&#x21D5;</a>
-[[ url ]](http://doi.org/10.1016/j.neunet.2017.02.013)
-[[ bib ]](../assets/bibtex/Fayek_nn17.bib)
-</div>
-<div id="Toggled2" style="display: none;">
-Speech Emotion Recognition (SER) can be regarded as a static or dynamic classification problem, which makes SER an excellent test bed for investigating and comparing various deep learning architectures. We describe a frame-based formulation to SER that relies on minimal speech processing and end-to-end deep learning to model intra-utterance dynamics. We use the proposed SER system to empirically explore feed-forward and recurrent neural network architectures and their variants. Experiments conducted illuminate the advantages and limitations of these architectures in paralinguistic speech recognition and emotion recognition in particular. As a result of our exploration, we report state-of-the-art results on the IEMOCAP database for speaker-independent SER and present quantitative and qualitative assessments of the models’ performances.
-</div>
-<div style="clear:both"></div>
-
-<br/>
-
-<div class="projectleft"><img src="/assets/projects/TL.png" alt="Haytham" class="projectpic"/></div>
-<div class="projectright" markdown="1">
-**On the correlation and transferability of features between automatic speech recognition and speech emotion recognition.**  
-Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
-Interspeech, San Francisco, USA, Sep 2016, pp. 3618-3622.  
-
-*We investigate the inter-task information propagation and layer-wise features relevance in deep networks.*
-
-<a onclick="toggleShow('Toggled3')">Abstract&#x21D5;</a>
-[[ pdf ]](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0868.PDF)
-[[ url ]](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0868.html)
-[[ slides ]](../assets/presentations/Fayek_is16.pdf)
-[[ bib ]](../assets/bibtex/Fayek_is16.bib)
-</div>
-<div id="Toggled3" style="display: none;">
-The correlation between Automatic Speech Recognition (ASR) and Speech Emotion Recognition (SER) is poorly understood. Studying such correlation may pave the way for integrating both tasks into a single system or may provide insights that can aid in advancing both systems such as improving ASR in dealing with emotional speech or embedding linguistic input into SER. In this paper, we quantify the relation between ASR and SER by studying the relevance of features learned between both tasks in deep convolutional neural networks using transfer learning. Experiments are conducted using the TIMIT and IEMOCAP databases. Results reveal an intriguing correlation between both tasks, where features learned in some layers particularly towards initial layers of the network for either task were found to be applicable to the other task with varying degree.
-</div>
-<div style="clear:both"></div>
-
-<br/>
-
-<div class="projectleft"><img src="/assets/projects/robot.jpg" alt="Haytham" class="projectpic"/></div>
-<div class="projectright" markdown="1">
-**A controller based on optimal type-2 fuzzy logic: Systematic design, optimization and real-time implementation.**  
-Haytham M. Fayek, Irraivan Elamvazuthi, N. Perumal, and Bala Venkatesh.  
-ISA Transactions, vol. 53(5), pp. 1583-1591, Sep 2014.  
-
-*We develop a robust controller using Type-2 Fuzzy Logic optimally designed via Particle Swarm Optimization (PSO) and Genetic Algorithm (GA) and demonstrate its efficacy on a robotic arm.*
-
-<a onclick="toggleShow('Toggled4')">Abstract&#x21D5;</a>
-[[ url ]](http://doi.org/10.1016/j.isatra.2014.06.001)
-[[ bib ]](../assets/bibtex/Fayek_isa14.bib)
-</div>
-<div id="Toggled4" style="display: none;">
-A computationally-efficient systematic procedure to design an Optimal Type-2 Fuzzy Logic Controller (OT2FLC) is proposed. The main scheme is to optimize the gains of the controller using Particle Swarm Optimization (PSO), then optimize only two parameters per type-2 membership function using Genetic Algorithm (GA). The proposed OT2FLC was implemented in real-time to control the position of a DC servomotor, which is part of a robotic arm. The performance judgments were carried out based on the Integral Absolute Error (IAE), as well as the computational cost. Various type-2 defuzzification methods were investigated in real-time. A comparative analysis with an Optimal Type-1 Fuzzy Logic Controller (OT1FLC) and a PI controller, demonstrated OT2FLC׳s superiority; which is evident in handling uncertainty and imprecision induced in the system by means of noise and disturbances.
-</div>
-<div style="clear:both"></div>
-
-<script type="text/javascript">
-function toggleShow(y) {
-    var x = document.getElementById(y);
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>

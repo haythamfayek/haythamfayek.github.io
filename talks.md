@@ -1,19 +1,39 @@
 ---
 layout: page
-title: Presentations
-permalink: /presentations/
+title: Talks
+permalink: /talks/
 ---
 
-### Conference Talks
+### Guest Lectures
+
+- **Digital Image Watermarking.**  
+EEET2169 Image Processing and Postgraduate EEE1255 Image Systems Engineering.  
+RMIT University, Australia, April 2018.
+
+- **Sampling and Reconstruction.**  
+EEET2113 Signals and Systems II.  
+RMIT University, Australia, March 2016.
+
+- **Signals in Noise.**  
+EEET2113 Digital Signal Processing.  
+RMIT University, Australia, April 2015.
+
+<br/>
+
+---
+
+<br/>
+
+### Conference Presentations
 
 - **On Data-driven Approaches to Head-related Transfer Function Personalization.**  
-Audio Engineering Society Convention 143.  
+Audio Engineering Society (AES) Convention 143.  
 New York, USA, Oct 2017.
 
 - **On the Correlation and Transferability of Features between Automatic Speech Recognition and Speech Emotion Recognition.**  
 17th Annual Conference of the International Speech Communication Association (Interspeech).  
 San Francisco, USA, Sep 2016.  
-[[ slides ]](../assets/presentations/Fayek_is16.pdf)
+[**slides**](../assets/talks/Fayek_is16.pdf)
 
 - **A Deep Learning Framework for Hybrid Linguistic-Paralinguistic Speech Systems.**  
 2nd Interspeech Doctoral Consortium.  
@@ -26,7 +46,7 @@ Cairns, Australia, Dec 2015.
 - **The Impact of DFIG and FSIG Wind Farms on the Small Signal Stability of a Power System.**  
 5th International Conference on Intelligent and Advanced Systems (ICIAS).  
 Kuala Lumpur, Malaysia, Jun 2014.  
-[[ slides ]](../assets/presentations/Fayek_icias14.pdf)
+[**slides**](../assets/talks/Fayek_icias14.pdf)
 
 - **Real-time Implementation of a Type-2 Fuzzy Logic Controller to Control a DC Servomotor with Different Defuzzification Methods.**  
 18th International Conference on Methods & Models in Automation & Robotics (MMAR).  
@@ -47,7 +67,7 @@ Montréal, Canada, Dec 2018.
 - **Modeling Subjectiveness in Emotion Recognition with Deep Neural Networks: Ensembles vs Soft Labels.**  
 29th International Joint Conference on Neural Networks (IJCNN).  
 Vancouver, Canada, Jul 2016.  
-[[ poster ]](../assets/presentations/Fayek_ijcnn16.pdf)
+[**poster**](../assets/talks/Fayek_ijcnn16.pdf)
 
 <br/>
 
@@ -58,7 +78,7 @@ Vancouver, Canada, Jul 2016.
 ### Invited Talks
 
 - **Linguistic and Paralinguistic Speech Recognition.**  
-Voicera.  
+Voicea.  
 Menlo Park, USA, Dec 2017.
 
 - **Will Deep Learning Lead to AI?**  
@@ -68,13 +88,13 @@ Melbourne, Australia, Sep 2017.
 - **Will Deep Learning Lead to AI?**  
 Melbourne Machine Learning & AI Meetup.  
 Melbourne, Australia, Aug 2017.  
-[[ slides ]](../assets/presentations/Fayek_deeplearningai17.pdf)
-[[ url ]](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/)
+[**slides**](../assets/talks/Fayek_deeplearningai17.pdf)
+[**url**](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/)
 
 - **The Types of Power Quality Problems and their Effects on Electrical & Electronic Systems.**  
 Fire Protection Association of Malaysia (FPAM).  
 Kuala Lumpur, Malaysia, Mar 2014.  
-[[ prezi ]](http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc)
+[**prezi**](http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc)
 
 <br/>
 
@@ -82,16 +102,10 @@ Kuala Lumpur, Malaysia, Mar 2014.
 
 <br/>
 
-### Guest Lectures
+### Panel Discussions
 
-- **Digital Image Watermarking.**  
-EEET2169 Image Processing and postgraduate EEE1255 Image Systems Engineering.  
-RMIT University, Australia, April 2018.
+- **Talking Computers: How Voice Technology is Changing the Human Machine Interaction.**  
+ACMI X, Academy Xi, and FAB9.  
+Melbourne, Australia, Jun 2018.  
+[**url**](https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/)
 
-- **Sampling and Reconstruction.**  
-EEET2113 Signals and Systems II.  
-RMIT University, Australia, March 2016.
-
-- **Signals in Noise.**  
-EEET2113 Digital Signal Processing I.  
-RMIT University, Australia, April 2015.

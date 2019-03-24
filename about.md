@@ -4,20 +4,23 @@ title: About
 permalink: /about/
 ---
 
-<p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepic"/></p>
+I am a Postdoctoral Research Scientist at [Facebook Research](https://research.fb.com) in Seattle, WA.
 
-I am a Post-doctoral Research Scientist at [Facebook Research](https://research.fb.com), Seattle. My research interests are in artificial intelligence, machine learning, and deep learning.
+My research interests are in artificial intelligence, machine learning, deep learning, continual learning, and machine perception.
 
-Prior, I was a Vice-Chancellor PhD Student at the School of Engineering, [RMIT University](https://www.rmit.edu.au), Melbourne, advised by [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/) and [Henry Wu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/w/wu-professor-hong-ren).
-I was a Research Intern at Facebook, Seattle '16 / '17 with [Facebook Reality Labs (Oculus VR Research)](https://research.fb.com/category/augmented-reality-virtual-reality/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
-I was a Teaching Assistant for postgraduate Advanced Programming, and undergraduate Image Processing, Signals & Systems II, and Digital Signal Processing I at RMIT.
+I received a PhD from [RMIT University](https://www.rmit.edu.au), Melbourne, VIC, in 2019, advised by [Lawrence Cavedon](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/c/cavedon-professor-lawrence) and [Henry Wu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/w/wu-professor-hong-ren).
+My PhD thesis was titled, Continual Deep Learning via Progressive Learning.
+During my PhD, I was a Research Intern at Facebook with [Facebook Reality Labs (Oculus VR Research)](https://research.fb.com/category/augmented-reality-virtual-reality/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
+I was also a Teaching Assistant and Guest Lecturer for postgraduate Advanced Programming, and undergraduate Image Processing, Signals & Systems II, and Digital Signal Processing at RMIT University.
 
 Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University](https://www.utp.edu.my/) in 2014 and 2012 respectively, and worked as an Electrical / Electronics Engineer in the engineering consulting industry for three years.
+
+I was the recipient of the RMIT Vice-Chancellor's PhD Scholarship (VCPS) and the Petronas / MOPE BEng Scholarship.
 
 I can be reached at
 <script type="text/javascript">
 	//<![CDATA[
-	<!--
+	// <!--
 	var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<108)y++" +
 	";y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\013\\"+
 	"032\\037\\020\\001\\036\\026\\025]f*|/s|m|0{8y%8>2ON\\031^\\006FI@WF\\\\\\0" +
@@ -37,66 +40,11 @@ I can be reached at
 	while(x=eval(x));
 	//-->
 	//]]>
-</script>
-(redirects to my actual email).
+</script> > redirects to my actual email.
 
-
-[Resume](../assets/Fayek_resume.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ&hl=en&authuser=1) &#124; [ORCID](https://orcid.org/0000-0002-1840-7605) &#124; [Twitter](https://twitter.com/HaythamFayek) &#124; [LinkedIn](https://www.linkedin.com/in/haythamfayek/) &#124; [Github](https://github.com/haythamfayek).
-
-<br/>
-
----
-
-<br/>
-
-## Awards & Scholarships
-
-**RMIT HDR Travel Grant.**  
-Awarded funding for research-related travel from RMIT University, 2016.
-
-**NVIDIA Hardware Grant.**  
-Awarded a Tesla K40 Graphics Processing Unit (GPU) (with M. Lech & L. Cavedon) from NVIDIA, 2015.
-
-**RMIT Vice Chancellor's PhD Scholarship (VCPS).**  
-Three-year full scholarship, 2015-2018.
-
-**Gold Medal.**  
-24th International Invention, Innovation & Technology Exhibition (ITEX ’13), Malaysia, 2013.
-
-**Runner-up Best Young Author.**  
-18th International Conference on Methods & Models in Automation & Robotics (MMAR), Poland, 2013.
-
-**First Place.**  
-Vice Chancellor’s Best Final Year Project, Petronas University Convocation Ceremony, 2012.
-
-**Silver Medal.**  
-Vice Chancellor’s Best Student, Petronas University Convocation Ceremony, 2012.
-
-**Best Presenter.**  
-Science and Engineering Design Exhibition, Petronas University, 2011.
-
-**Silver Medal.**  
-Science and Engineering Design Exhibition, Petronas University, 2011.
-
-**Petronas & MOPE BEng Scholarship.**  
-Five-year full scholarship, 2007-2012.
-
-<br/>
-
----
-
-<br/>
-
-## Miscellaneous
-
-[My brief profile on RMIT](https://www.rmit.edu.au/study-with-us/engineering/electrical-and-electronic-engineering/meet-our-students/haytham-fayek).
-
-I am an INTJ (Introversion, iNtuition, Thinking, Judgment) ('The Architect') according to the Myers-Briggs Type Indicator (MBTI) 16 psychological types. More on INTJs [here](https://www.16personalities.com/intj-personality).
-
-I love travelling! Travel photos coming soon.
-
-I love coffee! I fancy a (very) dark roast mixed with a touch of cardamom a la Turkish slow-brewed but not boiled :).
-
-I used to be an avid football / soccer player. 
-I played as an Attacking Midfielder for [Smouha SC](http://www.smouhaclub.com) in Alexandria up until I went to university.
-I am a Manchester United fan.
+[Github](https://github.com/haythamfayek) |
+[Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
+[ORCID](https://orcid.org/0000-0002-1840-7605) |
+[LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
+[Resume](../assets/Fayek_resume.pdf) |
+[Twitter](https://twitter.com/HaythamFayek).

@@ -2,8 +2,8 @@
 title: Haytham Fayek
 author: Haytham Fayek
 email: h@haythamfayek.com
-description: Machine Learning & Deep Learning Researcher. Eng PhD Student at RMIT Univeristy.
-logo: /assets/HF-Fav.png
+description: Artificial Intelligence, Machine Learning, & Deep Learning Researcher.
+logo: assets/HF.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://haythamfayek.com" # the base hostname & protocol for your site
@@ -25,7 +25,7 @@ plugins:
 header_pages:
   - about.md
   - publications.md
-  - presentations.md
+  - talks.md
   - blog.md
 
 # Exclude from processing.
