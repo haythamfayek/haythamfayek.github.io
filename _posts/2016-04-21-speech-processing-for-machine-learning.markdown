@@ -67,7 +67,7 @@ The signal after pre-emphasis has the following form in the time domain:
 ## Framing
 
 After pre-emphasis, we need to split the signal into short-time frames.
-The rationale behind this step is that frequencies in a signal change over time, so in most cases it doesn't make sense to do the Fourier transform across the entire signal in that we would loose the frequency contours of the signal over time.
+The rationale behind this step is that frequencies in a signal change over time, so in most cases it doesn't make sense to do the Fourier transform across the entire signal in that we would lose the frequency contours of the signal over time.
 To avoid that, we can safely assume that frequencies in a signal are stationary over a very short period of time.
 Therefore, by doing a Fourier transform over this short-time frame, we can obtain a good approximation of the frequency contours of the signal by concatenating adjacent frames.
 
