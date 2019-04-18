@@ -152,7 +152,7 @@ This can be modeled by the following equation (taken from [here](http://practica
       \\\
       \hfill \dfrac{f(m + 1) - k}{f(m + 1) - f(m)}  \hfill & f(m) < k \leq f(m + 1) \\\
       \\\
-      \hfill 0                                      \hfill & k > f(m - 1) \\\
+      \hfill 0                                      \hfill & k > f(m + 1) \\\
   \end{cases}
 \\]
 
