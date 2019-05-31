@@ -37,6 +37,7 @@ The Journal of Open Source Software, vol. 2, no. 19, pp. 413, Nov 2017.
 - Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, and Ravish Mehra.  
 **On data-driven approaches to head-related transfer function personalization.**  
 In Audio Engineering Society (AES) Convention 143, New York, USA, Oct 2017.  
+[**pdf**](https://www.dropbox.com/s/5q5oyz6pqi9odu4/19287.pdf?dl=0)
 [**url**](http://www.aes.org/e-lib/browse.cfm?elib=19287)
 [**bib**](../assets/bibtex/Fayek2017b.bib)
 

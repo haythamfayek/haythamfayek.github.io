@@ -24,6 +24,37 @@ RMIT University, Australia, April 2015.
 
 <br/>
 
+### Invited Talks
+
+- **Linguistic and Paralinguistic Speech Recognition.**  
+Voicea.  
+Menlo Park, USA, Dec 2017.
+
+- **Learning from Data and Prior Knowledge.**  
+Facebook.  
+Redmond, USA, Oct 2017.
+
+- **Will Deep Learning Lead to AI?**  
+Swinburne University.  
+Melbourne, Australia, Sep 2017.
+
+- **Will Deep Learning Lead to AI?**  
+Melbourne Machine Learning & AI Meetup.  
+Melbourne, Australia, Aug 2017.  
+[**slides**](../assets/talks/Fayek_deeplearningai17.pdf)
+[**url**](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/)
+
+- **The Types of Power Quality Problems and their Effects on Electrical & Electronic Systems.**  
+Fire Protection Association of Malaysia (FPAM).  
+Kuala Lumpur, Malaysia, Mar 2014.  
+[**prezi**](http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc)
+
+<br/>
+
+---
+
+<br/>
+
 ### Conference Presentations
 
 - **On Data-driven Approaches to Head-related Transfer Function Personalization.**  
@@ -63,38 +94,12 @@ Miedzyzdroje, Poland, Aug 2013.
 - **On the Transferability of Representations in Neural Networks Between Datasets and Tasks.**  
 Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS 2018).  
 Montréal, Canada, Dec 2018.  
+[**poster**](../assets/talks/Fayek_neurips18.pdf)
 
 - **Modeling Subjectiveness in Emotion Recognition with Deep Neural Networks: Ensembles vs Soft Labels.**  
 29th International Joint Conference on Neural Networks (IJCNN).  
 Vancouver, Canada, Jul 2016.  
 [**poster**](../assets/talks/Fayek_ijcnn16.pdf)
-
-<br/>
-
----
-
-<br/>
-
-### Invited Talks
-
-- **Linguistic and Paralinguistic Speech Recognition.**  
-Voicea.  
-Menlo Park, USA, Dec 2017.
-
-- **Will Deep Learning Lead to AI?**  
-Swinburne University.  
-Melbourne, Australia, Sep 2017.
-
-- **Will Deep Learning Lead to AI?**  
-Melbourne Machine Learning & AI Meetup.  
-Melbourne, Australia, Aug 2017.  
-[**slides**](../assets/talks/Fayek_deeplearningai17.pdf)
-[**url**](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/)
-
-- **The Types of Power Quality Problems and their Effects on Electrical & Electronic Systems.**  
-Fire Protection Association of Malaysia (FPAM).  
-Kuala Lumpur, Malaysia, Mar 2014.  
-[**prezi**](http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc)
 
 <br/>
 
