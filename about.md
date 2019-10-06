@@ -44,7 +44,7 @@ I can be reached at
 
 [Github](https://github.com/haythamfayek) |
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
-[ORCID](https://orcid.org/0000-0002-1840-7605) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
+[ORCID](https://orcid.org/0000-0002-1840-7605) |
 [Resume](../assets/Fayek_resume.pdf) |
 [Twitter](https://twitter.com/HaythamFayek).

@@ -16,6 +16,13 @@ A [BibTeX](../assets/bibtex/Fayek.bib) file with all publications below.
 
 ### Peer-Reviewed Papers
 
+### 2019
+
+- Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin  
+**Sound event classification and detection with weakly labeled data.**  
+4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), New York, USA, Oct 2019.  
+[**bib**](../assets/bibtex/Adavane2019.bib)
+
 #### 2018
 
 - Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
