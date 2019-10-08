@@ -8,25 +8,17 @@ logo: assets/HF.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://haythamfayek.com" # the base hostname & protocol for your site
 
-twitter:
-  username: haythamfayek
+social_links:
+  twitter: haythamfayek
+  github: haythamfayek
+  linkedin: haythamfayek
 
-twitter_username: haythamfayek
-linkedin_username: haythamfayek
-github_username:  haythamfayek
+google_analytics: UA-63097921-1
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+disqus:
+  shortname: haythamfayek
 
-header_pages:
-  - about.md
-  - publications.md
-  - talks.md
-  - blog.md
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,6 +32,15 @@ header_pages:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-google_analytics: UA-63097921-1
-disqus:
-  shortname: haythamfayek
+header_pages:
+  - about.md
+  - publications.md
+  - talks.md
+  - blog.md
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

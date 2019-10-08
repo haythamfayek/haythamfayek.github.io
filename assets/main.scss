@@ -8,6 +8,7 @@ $brand-color:      #2980b9; // #2a7ae2;
 $brand-color-light:lighten($brand-color, 50%);
 
 @import "minima";
+@import "minima/syntax-highlighting";
 
 /* Custom */
 
@@ -17,6 +18,25 @@ strong {
 
 .centering {
     text-align: center;
+}
+
+table{
+    width: 100%;
+    max-width: 100%;
+    background-color: #fdfdfd;
+    border: 0 !important;
+}
+
+tr, td{
+    background-color: #fdfdfd;
+    border: 0 !important;
+    padding: 0 !important;
+}
+
+td:nth-child(1) {  
+    min-width: 80px;
+    width: 10%;
+    vertical-align: top;
 }
 
 /* Combo Home About */
@@ -129,5 +149,5 @@ figure.highlight {
 
 pre,
 code {
-  background-color: $brand-color-light;
+    background-color: $brand-color-light;
 }
