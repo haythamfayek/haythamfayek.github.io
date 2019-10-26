@@ -20,8 +20,9 @@ A [BibTeX](../assets/bibtex/Fayek.bib) file with all publications below.
 
 - Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin  
 **Sound event classification and detection with weakly labeled data.**  
-4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), New York, USA, Oct 2019.  
-[**bib**](../assets/bibtex/Adavane2019.bib)
+4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), New York, USA, pp. 15--19, Oct 2019.  
+[**pdf**](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf)
+[**bib**](../assets/bibtex/Adavanne2019.bib)
 
 #### 2018
 
