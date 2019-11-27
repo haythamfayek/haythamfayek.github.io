@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a Postdoctoral Research Scientist at [Facebook Research](https://research.fb.com) in Seattle, WA.
+<p><img src="/assets/HaythamCanyon.jpg" alt="Haytham" class="profilepicabout"/></p>
+
+<br/>
+
+I am a Postdoctoral Research Scientist at [Facebook Research](https://research.fb.com) in Seattle, WA, since August 2018.
 
 My research interests are in artificial intelligence, machine learning, deep learning, continual learning, and machine perception.
 

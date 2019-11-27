@@ -46,7 +46,9 @@ Alumnus [RMIT University](https://www.rmit.edu.au), Oculus / Facebook, AGI, & Wo
 
 ## Updates
 
-| **Oct 2019**: | Paper: Sound event classification and detection with weakly labeled data, in DCASE 2019. |
+| **Dec 2019**: | At NeurIPS'19, Vancouver. |
+| **Nov 2019**: | Paper: [Temporal Reasoning via Audio Question Answering](https://arxiv.org/abs/1911.09655), on ArXiv. |
+| **Oct 2019**: | Paper: [Sound event classification and detection with weakly labeled data](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf), at DCASE'19. |
 | **Jul 2019**: | At ICML'19, Long Beach. |
 | **Feb 2019**: | PhD Thesis: [Continual Deep Learning via Progressive Learning](http://researchbank.rmit.edu.au/view/rmit:162646)! |
 | **Dec 2018**: | At NeurIPS'18, Montréal, to present [On the transferability of representations in neural networks between datasets and tasks](https://arxiv.org/abs/1811.12273) at the Continual Learning Workshop. |
