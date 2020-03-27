@@ -5,9 +5,9 @@ title: Haytham Fayek
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
-Artificial Intelligence, Machine Learning, & Deep Learning Researcher.  
-Postdoctoral Research Scientist, [Facebook Research](https://research.fb.com).  
-Alumnus [RMIT University](https://www.rmit.edu.au), Oculus / Facebook, AGI, & WorleyParsons.  
+Artificial Intelligence, Machine Learning, & Deep Learning Scientist.
+Academic, [RMIT University](https://www.rmit.edu.au).  
+Alumnus [Facebook Research](https://research.fb.com), Oculus / Facebook, AGI, & WorleyParsons.  
 [Github](https://github.com/haythamfayek) |
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
@@ -42,10 +42,21 @@ Alumnus [RMIT University](https://www.rmit.edu.au), Oculus / Facebook, AGI, & Wo
 
 ---
 
+<br>
+
+*I am currently looking for strong students interested in artificial intelligence, machine learning, or deep learning, so please get in touch if you'd like to work with me.*
+
+<br/>
+
+---
+
 <br/>
 
 ## Updates
 
+| **Mar 2020**: | Our Continual Learning Workshop was accepted at ICML'20. |
+| **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Autumn'20. |
+| **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
 | **Dec 2019**: | At NeurIPS'19, Vancouver. |
 | **Nov 2019**: | Paper: [Temporal Reasoning via Audio Question Answering](https://arxiv.org/abs/1911.09655), on ArXiv. |
 | **Oct 2019**: | Paper: [Sound event classification and detection with weakly labeled data](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf), at DCASE'19. |
