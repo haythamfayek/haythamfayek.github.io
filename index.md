@@ -5,9 +5,9 @@ title: Haytham Fayek
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
-Artificial Intelligence, Machine Learning, & Deep Learning Scientist.
-Academic, [RMIT University](https://www.rmit.edu.au).  
-Alumnus [Facebook Research](https://research.fb.com), Oculus / Facebook, AGI, & WorleyParsons.  
+Artificial Intelligence & Machine Learning Scientist.  
+[RMIT University](https://www.rmit.edu.au).  
+Alumnus [Facebook Research](https://research.fb.com), Oculus, AGI, & WorleyParsons.  
 [Github](https://github.com/haythamfayek) |
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
