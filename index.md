@@ -6,13 +6,13 @@ title: Haytham Fayek
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
 Artificial Intelligence & Machine Learning Scientist.  
-[RMIT University](https://www.rmit.edu.au).  
-Alumnus [Facebook Research](https://research.fb.com), Oculus, AGI, & WorleyParsons.  
+Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au).  
+Alumnus [Facebook Research](https://research.fb.com), Oculus, & WorleyParsons.  
 [Github](https://github.com/haythamfayek) |
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
 [ORCID](https://orcid.org/0000-0002-1840-7605) |
-[Resume](assets/Fayek_resume.pdf) |
+<!--[Resume](assets/Fayek_resume.pdf) |-->
 [Twitter](https://twitter.com/HaythamFayek).  
 <script type="text/javascript">
 	//<![CDATA[
@@ -44,7 +44,7 @@ Alumnus [Facebook Research](https://research.fb.com), Oculus, AGI, & WorleyParso
 
 <br>
 
-*I am currently looking for strong students interested in artificial intelligence, machine learning, or deep learning, so please get in touch if you'd like to work with me.*
+*I am currently looking for strong students interested in artificial intelligence and machine learning, especially deep learning, so please get in touch if you would like to work with me.*
 
 <br/>
 
@@ -54,7 +54,9 @@ Alumnus [Facebook Research](https://research.fb.com), Oculus, AGI, & WorleyParso
 
 ## Updates
 
-| **Mar 2020**: | Our Continual Learning Workshop was accepted at ICML'20. |
+| **Apr 2020**: | Paper: Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data, accepted in IJCAI'20. | 
+| **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home). |
+| **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted at ICML'20. |
 | **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Autumn'20. |
 | **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
 | **Dec 2019**: | At NeurIPS'19, Vancouver. |

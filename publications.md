@@ -31,6 +31,11 @@ arXiv:1911.09655, Nov 2019.
 
 ### Peer-Reviewed Papers
 
+Haytham M. Fayek and Anurag Kumar.  
+Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.  
+29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.  
+[**bib**](../assets/bibtex/Fayek2020.bib)
+
 Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin.  
 **Sound event classification and detection with weakly labeled data.**  
 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), New York, USA, pp. 15--19, Oct 2019.  
