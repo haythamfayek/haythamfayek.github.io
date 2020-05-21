@@ -31,6 +31,10 @@ arXiv:1911.09655, Nov 2019.
 
 ### Peer-Reviewed Papers
 
+Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
+**Progressive Learning: A Deep Learning Framework for Continual Learning.**  
+Neural Networks (To Appear).  
+
 Haytham M. Fayek and Anurag Kumar.  
 Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.  
 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.  

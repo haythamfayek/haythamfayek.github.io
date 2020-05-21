@@ -4,7 +4,8 @@ title: Updates
 permalink: /updates/
 ---
 
-| **Apr 2020**: | Paper: Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data, accepted in IJCAI'20. | 
+| **May 2020**: | Paper: Progressive Learning: A Deep Learning Framework for Continual Learning, accepted in Neural Networks.
+| **Apr 2020**: | Paper: Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data, accepted at IJCAI'20. | 
 | **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home). |
 | **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted at ICML'20. |
 | **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Autumn'20. |
