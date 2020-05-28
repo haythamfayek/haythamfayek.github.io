@@ -19,9 +19,10 @@ A [BibTeX](../assets/bibtex/Fayek.bib) file with all publications below.
 Haytham M. Fayek and Justin Johnson.  
 **Temporal Reasoning via Audio Question Answering.**   
 arXiv:1911.09655, Nov 2019.  
-[**pdf**](https://arxiv.org/pdf/1911.09655.pdf)
 [**arXiv**](https://arxiv.org/abs/1911.09655)
-[**bib**](../assets/bibtex/Fayek2019b.bib)
+[**pdf**](https://arxiv.org/pdf/1911.09655.pdf)
+[**code**](https://github.com/facebookresearch/daqa)
+[**bib**](../assets/bibtex/Fayek2019a.bib)
 
 <br/>
 
@@ -33,7 +34,9 @@ arXiv:1911.09655, Nov 2019.
 
 Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
 **Progressive Learning: A Deep Learning Framework for Continual Learning.**  
-Neural Networks (To Appear).  
+Neural Networks, vol. 128, pp. 345--357, 2020.  
+[**link**](https://authors.elsevier.com/a/1b7pN3BBjKdbVv)
+[**bib**](../assets/bibtex/Fayek2020a.bib)
 
 Haytham M. Fayek and Anurag Kumar.  
 Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.  
@@ -49,23 +52,23 @@ Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin.
 Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
 **On the transferability of representations in neural networks between datasets and tasks.**  
 Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS), Montréal, Canada, Dec 2018.  
-[**pdf**](https://marcpickett.com/cl2018/CL-2018_paper_19.pdf)
 [**arXiv**](https://arxiv.org/abs/1811.12273)
+[**pdf**](https://marcpickett.com/cl2018/CL-2018_paper_19.pdf)
 [**bib**](../assets/bibtex/Fayek2018.bib)
 
 Haytham M. Fayek.  
 **MatDL: A lightweight deep learning library in MATLAB.**  
 The Journal of Open Source Software, vol. 2, no. 19, pp. 413, Nov 2017.  
+[**link**](https://doi.org/10.21105/joss.00413)
 [**pdf**](http://www.theoj.org/joss-papers/joss.00413/10.21105.joss.00413.pdf)
 [**code**](https://github.com/haythamfayek/MatDL)
-[**link**](https://doi.org/10.21105/joss.00413)
 [**bib**](../assets/bibtex/Fayek2017b.bib)
 
 Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, and Ravish Mehra.  
 **On data-driven approaches to head-related transfer function personalization.**  
 In Audio Engineering Society (AES) Convention 143, New York, USA, Oct 2017.  
-[**pdf**](https://www.dropbox.com/s/5q5oyz6pqi9odu4/19287.pdf?dl=0)
 [**link**](http://www.aes.org/e-lib/browse.cfm?elib=19287)
+[**pdf**](https://www.dropbox.com/s/5q5oyz6pqi9odu4/19287.pdf?dl=0)
 [**bib**](../assets/bibtex/Fayek2017a.bib)
 
 Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
@@ -77,15 +80,15 @@ Neural Networks, vol. 92, pp. 60--68, Aug 2017.
 Haytham M. Fayek.  
 **A deep learning framework for hybrid linguistic-paralinguistic speech systems.**  
 In 2nd Doctoral Consortium at Interspeech, Berkeley, USA, Sep 2016.  
-[**pdf**](http://www.isca-students.org/sites/default/files/2ndDC_paper_2.pdf)
 [**link**](http://www.isca-students.org/?q=node/4809)
+[**pdf**](http://www.isca-students.org/sites/default/files/2ndDC_paper_2.pdf)
 [**bib**](../assets/bibtex/Fayek2016b.bib)
 
 Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
 **On the correlation and transferability of features between automatic speech recognition and speech emotion recognition.**  
 In 17th Annual Conference of the International Speech Communication Association (Interspeech), San Francisco, USA, pp. 3618--3622, Sep 2016.  
-[**pdf**](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0868.PDF)
 [**link**](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0868.html)
+[**pdf**](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0868.PDF)
 [**slides**](../assets/presentations/Fayek_is16.pdf)
 [**bib**](../assets/bibtex/Fayek2016a.bib)
 
@@ -131,7 +134,6 @@ In 18th International Conference on Methods and Models in Automation and Robotic
 Haytham M. Fayek and Irraivan Elamvazuthi.  
 **Type-2 fuzzy logic PI (T2FLPI) based DC servomotor control.**  
 Journal of Applied Sciences Research, vol. 8(5), pp. 2564–-2574, 2012.  
-[**pdf**](http://www.aensiweb.com/old/jasr/jasr/2012/2564-2574.pdf)
 [**bib**](../assets/bibtex/Fayek2012a.bib)
 
 <br/>
@@ -145,8 +147,8 @@ Journal of Applied Sciences Research, vol. 8(5), pp. 2564–-2574, 2012.
 Haytham M. Fayek.  
 **Continual deep learning via progressive learning.**  
 PhD Thesis, RMIT University, 2019.  
-[**pdf**](http://researchbank.rmit.edu.au/eserv/rmit:162646/Fayek.pdf)
 [**link**](http://researchbank.rmit.edu.au/view/rmit:162646)
+[**pdf**](http://researchbank.rmit.edu.au/eserv/rmit:162646/Fayek.pdf)
 [**bib**](../assets/bibtex/Fayek2019.bib)
 
 Haytham M. Fayek.  
