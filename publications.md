@@ -39,8 +39,10 @@ Neural Networks, vol. 128, pp. 345--357, 2020.
 [**bib**](../assets/bibtex/Fayek2020a.bib)
 
 Haytham M. Fayek and Anurag Kumar.  
-Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.  
+**Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.**  
 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.  
+[**arXiv**](https://arxiv.org/abs/2006.01595)
+[**pdf**](https://arxiv.org/pdf/2006.01595.pdf)
 [**bib**](../assets/bibtex/Fayek2020.bib)
 
 Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin.  

@@ -2,7 +2,7 @@
 title: Haytham Fayek
 author: Haytham Fayek
 email: h@haythamfayek.com
-description: Artificial Intelligence, Machine Learning, & Deep Learning Researcher.
+description: AI/ML Scientist.
 logo: assets/HF.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -20,17 +20,8 @@ disqus:
 
 show_excerpts: true
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+feed:
+  excerpt_only: true
 
 header_pages:
   - about.md
@@ -43,4 +34,5 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
