@@ -262,7 +262,19 @@ We've also argued the reasons behind the increasing popularity of filter banks c
 Use Mel-scaled filter banks if the machine learning algorithm is not susceptible to highly correlated input.
 Use MFCCs if the machine learning algorithm is susceptible to correlated input.
 
-<br/>
+<br>
+
+**Citation:**
+{% highlight tex %}
+@misc{fayek2016,
+  title   = "Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What's In-Between",
+  author  = "Haytham M. Fayek",
+  year    = "2016",
+  url     = "https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html"
+}
+{% endhighlight %}
+
+<br>
 
 ---
 [^1]: Liftering is filtering in the cepstral domain. Note the abuse of notation in *spec*tral and *ceps*tral with *fil*tering and *lif*tering respectively.

@@ -5,9 +5,9 @@ title: Haytham Fayek
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
-Artificial Intelligence / Machine Learning Scientist.  
+Artificial Intelligence and Machine Learning Scientist.  
 Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au).  
-Alumnus [Facebook Research](https://research.fb.com), Oculus, & WorleyParsons.  
+Alumnus [Facebook Research](https://research.fb.com), Oculus Research, & WorleyParsons.  
 [Github](https://github.com/haythamfayek) |
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
@@ -58,7 +58,7 @@ Alumnus [Facebook Research](https://research.fb.com), Oculus, & WorleyParsons.
 | **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), accepted to IJCAI'20. | 
 | **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) at ICML'20. |
 | **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted to ICML'20. |
-| **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Autumn'20. |
+| **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Mar'20. |
 | **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
 | **Dec 2019**: | At NeurIPS'19, Vancouver. |
 | **Nov 2019**: | Paper: [Temporal Reasoning via Audio Question Answering](https://arxiv.org/abs/1911.09655), on ArXiv. |

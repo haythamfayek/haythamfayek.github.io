@@ -8,7 +8,7 @@ permalink: /updates/
 | **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), accepted to IJCAI'20. | 
 | **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) at ICML'20. |
 | **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted to ICML'20. |
-| **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Autumn'20. |
+| **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Mar'20. |
 | **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
 | **Dec 2019**: | At NeurIPS'19, Vancouver. |
 | **Nov 2019**: | Paper: [Temporal Reasoning via Audio Question Answering](https://arxiv.org/abs/1911.09655), on ArXiv. |
