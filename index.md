@@ -7,13 +7,12 @@ title: Haytham Fayek
 
 Artificial Intelligence and Machine Learning Scientist.  
 Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au).  
-Alumnus [Facebook Research](https://research.fb.com), Oculus Research, & WorleyParsons.  
-[Github](https://github.com/haythamfayek) |
+Alumnus: [Facebook Research](https://research.fb.com), Oculus Research, & WorleyParsons.  
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
+[Twitter](https://twitter.com/HaythamFayek) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
-[ORCID](https://orcid.org/0000-0002-1840-7605) |
+[Github](https://github.com/haythamfayek)  
 <!--[Resume](assets/Fayek_resume.pdf) |-->
-[Twitter](https://twitter.com/HaythamFayek).  
 <script type="text/javascript">
 	//<![CDATA[
 	// <!--
@@ -37,6 +36,7 @@ Alumnus [Facebook Research](https://research.fb.com), Oculus Research, & WorleyP
 	//-->
 	//]]>
 </script>
+<br/>
 
 <br/>
 
@@ -44,7 +44,7 @@ Alumnus [Facebook Research](https://research.fb.com), Oculus Research, & WorleyP
 
 <br>
 
-*I am currently looking for strong students interested in artificial intelligence and machine learning, especially deep learning, so please get in touch if you would like to work with me.*
+*<center>I am currently looking for strong students interested in artificial intelligence and machine learning, especially deep learning, so please get in touch if you would like to work with me.</center>*
 
 <br/>
 
@@ -54,10 +54,13 @@ Alumnus [Facebook Research](https://research.fb.com), Oculus Research, & WorleyP
 
 ## Updates
 
+| **Jul 2020**: | At ICML'20, Virtual. |
+| **Jul 2020**: | Program for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) on 17 Jul at ICML'20. |
+| **Jul 2020**: | Teaching Programming Fundamentals for Scientists, Jul'20. |
 | **May 2020**: | Paper: [Progressive Learning: A Deep Learning Framework for Continual Learning](https://authors.elsevier.com/a/1b7pN3BBjKdbVv), published in Neural Networks.
-| **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), accepted to IJCAI'20. | 
+| **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), accepted at IJCAI'20. | 
 | **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) at ICML'20. |
-| **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted to ICML'20. |
+| **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted at ICML'20. |
 | **Mar 2020**: | Teaching Programming Fundamentals for Scientists, Mar'20. |
 | **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
 | **Dec 2019**: | At NeurIPS'19, Vancouver. |

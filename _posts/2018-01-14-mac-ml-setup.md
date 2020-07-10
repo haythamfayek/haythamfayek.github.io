@@ -26,7 +26,8 @@ A nice guide for this can be found [here](https://www.macrumors.com/how-to/perfo
 
 # Settings & Software
 
-First, copy your files back and change the trackpad, keyboard, user, etc. settings back to your liking. 
+First, copy your files back and change the trackpad, keyboard, user, etc. settings back to your liking.
+Don't forget to turn off font smoothing. 
 I also have a bunch of dot files that contain paths, aliases, etc. to make things easier. 
 I keep these files in this Github [repository](https://github.com/haythamfayek/dotfiles), some of these files might be useful.
 
@@ -123,7 +124,7 @@ python3 -m pip install torch
 
 # End
 
-That's All Folks!
+That's all folks!
 I find this to be a minimal setup to get up and running.
 Other tools can be installed later when needed and probably within the project scope. 
 

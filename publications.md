@@ -4,8 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) | [ORCID](https://orcid.org/0000-0002-1840-7605).  
-A [BibTeX](../assets/bibtex/Fayek.bib) file with all publications below. 
+[Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) | 
+[ORCID](https://orcid.org/0000-0002-1840-7605) |
+[BibTeX](../assets/bibtex/Fayek.bib)  
 
 <br/>
 
@@ -17,7 +18,7 @@ A [BibTeX](../assets/bibtex/Fayek.bib) file with all publications below.
 ### Preprints
 
 Haytham M. Fayek and Justin Johnson.  
-**Temporal Reasoning via Audio Question Answering.**   
+**Temporal reasoning via audio question answering.**   
 arXiv:1911.09655, Nov 2019.  
 [**arXiv**](https://arxiv.org/abs/1911.09655)
 [**pdf**](https://arxiv.org/pdf/1911.09655.pdf)
@@ -33,13 +34,13 @@ arXiv:1911.09655, Nov 2019.
 ### Peer-Reviewed Papers
 
 Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
-**Progressive Learning: A Deep Learning Framework for Continual Learning.**  
+**Progressive learning: a deep learning framework for continual learning.**  
 Neural Networks, vol. 128, pp. 345--357, 2020.  
 [**link**](https://authors.elsevier.com/a/1b7pN3BBjKdbVv)
 [**bib**](../assets/bibtex/Fayek2020a.bib)
 
 Haytham M. Fayek and Anurag Kumar.  
-**Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.**  
+**Large scale audiovisual learning of sounds with weakly labeled data.**  
 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.  
 [**arXiv**](https://arxiv.org/abs/2006.01595)
 [**pdf**](https://arxiv.org/pdf/2006.01595.pdf)
@@ -154,7 +155,7 @@ PhD Thesis, RMIT University, 2019.
 [**bib**](../assets/bibtex/Fayek2019.bib)
 
 Haytham M. Fayek.  
-**Systematic design Of optimal type II fuzzy logic controllers with applications to wind power.**  
+**Systematic design of optimal type II fuzzy logic controllers with applications to wind power.**  
 MSc Thesis, Petronas University, 2014.  
 [**bib**](../assets/bibtex/Fayek2014b.bib)
 
