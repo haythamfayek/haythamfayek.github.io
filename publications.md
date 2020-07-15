@@ -20,8 +20,8 @@ permalink: /publications/
 Haytham M. Fayek and Justin Johnson.  
 **Temporal reasoning via audio question answering.**   
 arXiv:1911.09655, Nov 2019.  
-[**arXiv**](https://arxiv.org/abs/1911.09655)
 [**pdf**](https://arxiv.org/pdf/1911.09655.pdf)
+[**arXiv**](https://arxiv.org/abs/1911.09655)
 [**code**](https://github.com/facebookresearch/daqa)
 [**bib**](../assets/bibtex/Fayek2019a.bib)
 
@@ -42,8 +42,9 @@ Neural Networks, vol. 128, pp. 345--357, 2020.
 Haytham M. Fayek and Anurag Kumar.  
 **Large scale audiovisual learning of sounds with weakly labeled data.**  
 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.  
+[**link**](https://www.ijcai.org/Proceedings/2020/78)
+[**pdf**](https://www.ijcai.org/Proceedings/2020/0078.pdf)
 [**arXiv**](https://arxiv.org/abs/2006.01595)
-[**pdf**](https://arxiv.org/pdf/2006.01595.pdf)
 [**bib**](../assets/bibtex/Fayek2020.bib)
 
 Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin.  
@@ -55,8 +56,8 @@ Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin.
 Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
 **On the transferability of representations in neural networks between datasets and tasks.**  
 Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS), Montréal, Canada, Dec 2018.  
-[**arXiv**](https://arxiv.org/abs/1811.12273)
 [**pdf**](https://marcpickett.com/cl2018/CL-2018_paper_19.pdf)
+[**arXiv**](https://arxiv.org/abs/1811.12273)
 [**bib**](../assets/bibtex/Fayek2018.bib)
 
 Haytham M. Fayek.  
