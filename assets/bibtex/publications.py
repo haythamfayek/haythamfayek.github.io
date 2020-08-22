@@ -10,7 +10,7 @@ def main():
 
 		# bib = re.sub(r'\n(?=[^{}]*})', '', bib)  # remove new lines
 		# bib = re.sub(r' +(?=[^{}]*})', ' ', bib)  # remove multiple space
-		bib = bib.replace(',\n', '~').replace('\n','').replace('~', ',\n')
+		bib = bib.replace(',\n', '~').replace(', \n', '~').replace(',  \n', '~').replace('\n','').replace('~', ',\n')
 		bib = re.sub(' +', ' ', bib)
 		bib = '@' + bib.replace(',}', ',\n}') + '\n'  # add new line after the last field
 		bib = bib.replace('\n ', '\n  ')

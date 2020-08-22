@@ -4,27 +4,13 @@ title: Talks
 permalink: /talks/
 ---
 
-### Guest Lectures
-
-**Digital Image Watermarking.**  
-EEET2169 Image Processing and Postgraduate EEE1255 Image Systems Engineering.  
-RMIT University, Australia, April 2018.
-
-**Sampling and Reconstruction.**  
-EEET2113 Signals and Systems II.  
-RMIT University, Australia, March 2016.
-
-**Signals in Noise.**  
-EEET2113 Digital Signal Processing.  
-RMIT University, Australia, April 2015.
-
-<br/>
-
----
-
 <br/>
 
 ### Invited Talks
+
+**Progressive Learning.**  
+A*Star.  
+Singapore, Aug 2020.
 
 **Linguistic and Paralinguistic Speech Recognition.**  
 Voicea.  

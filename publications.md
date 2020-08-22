@@ -4,27 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) | 
-[ORCID](https://orcid.org/0000-0002-1840-7605) |
-[BibTeX](../assets/bibtex/Fayek.bib)  
-
-<br/>
-
----
-
-<br/>
-
-
-### Preprints
-
-Haytham M. Fayek and Justin Johnson.  
-**Temporal reasoning via audio question answering.**   
-arXiv:1911.09655, Nov 2019.  
-[**pdf**](https://arxiv.org/pdf/1911.09655.pdf)
-[**arXiv**](https://arxiv.org/abs/1911.09655)
-[**code**](https://github.com/facebookresearch/daqa)
-[**bib**](../assets/bibtex/Fayek2019a.bib)
-
+### [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) | [BibTeX](../assets/bibtex/Fayek.bib) 
+<!-- [ORCID](https://orcid.org/0000-0002-1840-7605) | -->
+ 
 <br/>
 
 ---
@@ -33,13 +15,21 @@ arXiv:1911.09655, Nov 2019.
 
 ### Peer-Reviewed Papers
 
+Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
+**Temporal reasoning via audio question answering.**   
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020.  
+[**link**](https://ieeexplore.ieee.org/abstract/document/9145807)
+[**arXiv**](https://arxiv.org/abs/1911.09655)
+[**code**](https://github.com/facebookresearch/daqa)
+[**bib**](../assets/bibtex/Fayek2020b.bib)
+
 Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
 **Progressive learning: a deep learning framework for continual learning.**  
 Neural Networks, vol. 128, pp. 345--357, 2020.  
 [**link**](https://authors.elsevier.com/a/1b7pN3BBjKdbVv)
 [**bib**](../assets/bibtex/Fayek2020a.bib)
 
-Haytham M. Fayek and Anurag Kumar.  
+Haytham M. Fayek and [Anurag Kumar](https://anuragkr90.github.io).  
 **Large scale audiovisual learning of sounds with weakly labeled data.**  
 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.  
 [**link**](https://www.ijcai.org/Proceedings/2020/78)
@@ -47,7 +37,7 @@ Haytham M. Fayek and Anurag Kumar.
 [**arXiv**](https://arxiv.org/abs/2006.01595)
 [**bib**](../assets/bibtex/Fayek2020.bib)
 
-Sharath Adavanne, Haytham M. Fayek, and Vladimir Tourbabin.  
+[Sharath Adavanne](https://www.aane.in), Haytham M. Fayek, and Vladimir Tourbabin.  
 **Sound event classification and detection with weakly labeled data.**  
 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), New York, USA, pp. 15--19, Oct 2019.  
 [**pdf**](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf)
@@ -68,11 +58,11 @@ The Journal of Open Source Software, vol. 2, no. 19, pp. 413, Nov 2017.
 [**code**](https://github.com/haythamfayek/MatDL)
 [**bib**](../assets/bibtex/Fayek2017b.bib)
 
-Haytham M. Fayek, Laurens van der Maaten, Griffin D. Romigh, and Ravish Mehra.  
+Haytham M. Fayek, [Laurens van der Maaten](https://lvdmaaten.github.io), Griffin D. Romigh, and [Ravish Mehra](http://drravishmehra.com).  
 **On data-driven approaches to head-related transfer function personalization.**  
 In Audio Engineering Society (AES) Convention 143, New York, USA, Oct 2017.  
 [**link**](http://www.aes.org/e-lib/browse.cfm?elib=19287)
-[**pdf**](https://www.dropbox.com/s/5q5oyz6pqi9odu4/19287.pdf?dl=0)
+[**pdf**](https://www.dropbox.com/s/2se7pqvt9ubr5pd/19287.pdf?dl=0)
 [**bib**](../assets/bibtex/Fayek2017a.bib)
 
 Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
