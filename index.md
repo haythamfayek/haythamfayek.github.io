@@ -5,8 +5,8 @@ title: Haytham Fayek
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
-Artificial Intelligence and Machine Learning Scientist.  
-Computer Science and Software Engineering, [RMIT](https://www.rmit.edu.au).  
+Artificial Intelligence / Machine Learning.  
+[Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au).  
 Alumnus: [Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & WorleyParsons.  
 [Twitter](https://twitter.com/HaythamFayek) |
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
