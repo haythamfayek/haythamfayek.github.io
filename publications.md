@@ -141,8 +141,8 @@ Journal of Applied Sciences Research, vol. 8(5), pp. 2564–-2574, 2012.
 Haytham M. Fayek.  
 **Continual deep learning via progressive learning.**  
 PhD Thesis, RMIT University, 2019.  
-[**link**](http://researchbank.rmit.edu.au/view/rmit:162646)
-[**pdf**](http://researchbank.rmit.edu.au/eserv/rmit:162646/Fayek.pdf)
+[**link**](https://researchrepository.rmit.edu.au/discovery/delivery?vid=61RMIT_INST:ResearchRepository&repId=12248299790001341)
+[**pdf**](https://www.dropbox.com/s/a3insiefrgypbf8/Fayek.pdf?dl=0)
 [**bib**](../assets/bibtex/Fayek2019.bib)
 
 Haytham M. Fayek.  
