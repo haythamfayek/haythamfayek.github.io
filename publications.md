@@ -26,7 +26,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020.
 Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
 **Progressive learning: a deep learning framework for continual learning.**  
 Neural Networks, vol. 128, pp. 345--357, 2020.  
-[**link**](https://authors.elsevier.com/a/1b7pN3BBjKdbVv)
+[**link**](https://www.sciencedirect.com/science/article/pii/S0893608020301817)
 [**bib**](../assets/bibtex/Fayek2020a.bib)
 
 Haytham M. Fayek and [Anurag Kumar](https://anuragkr90.github.io).  
