@@ -3,7 +3,9 @@ layout: page
 title: Updates
 permalink: /updates/
 ---
-
+| **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
+| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf) |
+| **Dec 2020**: | At NeurIPS'20, Virtual. |
 | **Aug 2020**: | Paper: [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/abstract/document/9145807), published in IEEE/ACM TASLP. |
 | **Jul 2020**: | At ICML'20, Virtual. |
 | **Jul 2020**: | Program for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) on 17 Jul at ICML'20. |

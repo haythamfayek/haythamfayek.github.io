@@ -34,7 +34,10 @@ email("haytham.fayek", "ieee.org");
 
 ## Updates
 
-| **Current**: | I am currently looking for strong students interested in artificial intelligence and machine learning, especially deep learning, so please get in touch if you would like to work with me. |
+| **Current**: | I am currently looking for strong students interested in artificial intelligence and machine learning, so please get in touch if you would like to work with me. |
+| **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
+| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf) |
+| **Dec 2020**: | At NeurIPS'20, Virtual. |
 | **Aug 2020**: | Paper: [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/abstract/document/9145807), published in IEEE/ACM TASLP. |
 | **Jul 2020**: | At ICML'20, Virtual. |
 | **Jul 2020**: | Program for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) on 17 Jul at ICML'20. |
@@ -52,6 +55,4 @@ email("haytham.fayek", "ieee.org");
 | **Feb 2019**: | PhD Thesis: [Continual Deep Learning via Progressive Learning](http://researchbank.rmit.edu.au/view/rmit:162646)! |
 | **Dec 2018**: | At NeurIPS'18, Montréal, to present [On the transferability of representations in neural networks between datasets and tasks](https://arxiv.org/abs/1811.12273) at the Continual Learning Workshop. |
 | **Aug 2018**: | Postdoctoral Research Scientist, [Facebook Research](https://research.fb.com), Seattle. |
-| **Jun 2018**: | Panel discussion at ACMI X, Melbourne, on [Talking Computers: How Voice Technology is Changing the Human Machine Interaction](https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/). |
-| **Feb 2018**: | Teaching Assistant at RMIT for postgraduate COSC1295 Advanced Programming and undergraduate EEET2169 Image Processing. |
 | **Previous**: | [All updates](updates). |
