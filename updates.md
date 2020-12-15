@@ -5,19 +5,20 @@ permalink: /updates/
 ---
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
 | **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf) |
+| **Dec 2020**: | Paper: [Knowledge Capture and Replay for Continual Learning](https://arxiv.org/abs/2012.06789), on arXiv. |
 | **Dec 2020**: | At NeurIPS'20, Virtual. |
 | **Aug 2020**: | Paper: [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/abstract/document/9145807), published in IEEE/ACM TASLP. |
 | **Jul 2020**: | At ICML'20, Virtual. |
 | **Jul 2020**: | Program for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) on 17 Jul at ICML'20. |
 | **Jul 2020**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Jul'20. |
 | **May 2020**: | Paper: [Progressive Learning: A Deep Learning Framework for Continual Learning](https://authors.elsevier.com/a/1b7pN3BBjKdbVv), published in Neural Networks.
-| **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), accepted at IJCAI'20. | 
+| **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/78), accepted at IJCAI'20. | 
 | **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) at ICML'20. |
 | **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted at ICML'20. |
 | **Mar 2020**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'20. |
 | **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
 | **Dec 2019**: | At NeurIPS'19, Vancouver. |
-| **Nov 2019**: | Paper: [Temporal Reasoning via Audio Question Answering](https://arxiv.org/abs/1911.09655), on ArXiv. |
+| **Nov 2019**: | Paper: [Temporal Reasoning via Audio Question Answering](https://arxiv.org/abs/1911.09655), on arXiv. |
 | **Oct 2019**: | Paper: [Sound event classification and detection with weakly labeled data](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf), at DCASE'19. |
 | **Jul 2019**: | At ICML'19, Long Beach. |
 | **Feb 2019**: | PhD Thesis: [Continual Deep Learning via Progressive Learning](http://researchbank.rmit.edu.au/view/rmit:162646)! |
