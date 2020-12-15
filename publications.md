@@ -16,7 +16,7 @@ permalink: /publications/
 ### Preprints
 
 Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.  
-**Knowledge Capture and Replay for Continual Learning.**  
+**Knowledge capture and replay for continual learning.**  
 arXiv:2012.06789, Dec 2020.  
 [**arXiv**](https://arxiv.org/abs/2012.06789)
 [**pdf**](https://arxiv.org/pdf/2012.06789.pdf)
