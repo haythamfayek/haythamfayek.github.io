@@ -43,7 +43,7 @@ Kuala Lumpur, Malaysia, Mar 2014.
 
 ### Conference Presentations
 
-**Large scale audiovisual learning of sounds with weakly labeled data.**  
+**Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.**  
 29th International Joint Conference on Artificial Intelligence (IJCAI).  
 Yokohama, Japan, Jan 2021.
 

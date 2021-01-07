@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 **Dr Haytham Fayek**  
-School of Computing Technologies 
+School of Computing Technologies  
 Royal Melbourne Institute of Technology (RMIT)  
 Building 14, Level 11, Room 03  
 124 La Trobe Street, Melbourne VIC 3000  
@@ -36,7 +36,7 @@ function phone(c, n, e) {
 }
 phone("+61", "9925", "0858");
 //--><!]]>
-</script>
+</script>  
 **Postal:** 
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
