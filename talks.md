@@ -43,6 +43,10 @@ Kuala Lumpur, Malaysia, Mar 2014.
 
 ### Conference Presentations
 
+**Large scale audiovisual learning of sounds with weakly labeled data.**  
+29th International Joint Conference on Artificial Intelligence (IJCAI).  
+Yokohama, Japan, Jan 2021.
+
 **On Data-driven Approaches to Head-related Transfer Function Personalization.**  
 Audio Engineering Society (AES) Convention 143.  
 New York, USA, Oct 2017.

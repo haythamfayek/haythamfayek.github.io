@@ -5,8 +5,8 @@ permalink: /contact/
 ---
 
 **Dr Haytham Fayek**  
-Computer Science and Software Engineering  
-Royal Melbourne Institute of Technology  
+School of Computing Technologies 
+Royal Melbourne Institute of Technology (RMIT)  
 Building 14, Level 11, Room 03  
 124 La Trobe Street, Melbourne VIC 3000  
 Australia  
@@ -35,5 +35,18 @@ function phone(c, n, e) {
    }
 }
 phone("+61", "9925", "0858");
+//--><!]]>
+</script>
+**Postal:** 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function address(a, s, c) {
+   if (!document.write) return false;
+   if (document.write) {
+      var a; var s; var c;
+      document.write(a + ', ' + s + ', ' + c);
+   }
+}
+address("GPO Box 2476", "Melbourne VIC 3001", "Australia");
 //--><!]]>
 </script>
