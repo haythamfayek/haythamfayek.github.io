@@ -8,10 +8,10 @@ title: Haytham Fayek
 Artificial Intelligence / Machine Learning.  
 [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au).  
 Alumnus: [Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & WorleyParsons.  
-[Twitter](https://twitter.com/HaythamFayek) |
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [Github](https://github.com/haythamfayek) |
-[LinkedIn](https://www.linkedin.com/in/haythamfayek/)  
+[LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
+[Twitter](https://twitter.com/HaythamFayek)  
 <!--[Resume](assets/Fayek_resume.pdf) |-->
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -36,14 +36,14 @@ email("haytham.fayek", "ieee.org");
 
 | **Current**: | I am currently looking for strong students interested in artificial intelligence and machine learning, so please get in touch if you would like to work with me. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
-| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf) |
+| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
 | **Dec 2020**: | Paper: [Knowledge Capture and Replay for Continual Learning](https://arxiv.org/abs/2012.06789), on arXiv. |
 | **Dec 2020**: | At NeurIPS'20, Virtual. |
 | **Aug 2020**: | Paper: [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/abstract/document/9145807), published in IEEE/ACM TASLP. |
 | **Jul 2020**: | At ICML'20, Virtual. |
 | **Jul 2020**: | Program for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) on 17 Jul at ICML'20. |
 | **Jul 2020**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Jul'20. |
-| **May 2020**: | Paper: [Progressive Learning: A Deep Learning Framework for Continual Learning](https://authors.elsevier.com/a/1b7pN3BBjKdbVv), published in Neural Networks.
+| **May 2020**: | Paper: [Progressive Learning: A Deep Learning Framework for Continual Learning](https://www.sciencedirect.com/science/article/pii/S0893608020301817), published in Neural Networks.
 | **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/78), accepted at IJCAI'20. | 
 | **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) at ICML'20. |
 | **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted at ICML'20. |

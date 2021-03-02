@@ -47,6 +47,11 @@ Kuala Lumpur, Malaysia, Mar 2014.
 29th International Joint Conference on Artificial Intelligence (IJCAI).  
 Yokohama, Japan, Jan 2021.
 
+**On the Transferability of Representations in Neural Networks Between Datasets and Tasks.**  
+Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS 2018).  
+Montréal, Canada, Dec 2018.  
+[**poster**](../assets/talks/Fayek_neurips18.pdf)
+
 **On Data-driven Approaches to Head-related Transfer Function Personalization.**  
 Audio Engineering Society (AES) Convention 143.  
 New York, USA, Oct 2017.
@@ -60,6 +65,11 @@ San Francisco, USA, Sep 2016.
 2nd Interspeech Doctoral Consortium.  
 Berkeley, USA, Sep 2016.  
 
+**Modeling Subjectiveness in Emotion Recognition with Deep Neural Networks: Ensembles vs Soft Labels.**  
+29th International Joint Conference on Neural Networks (IJCNN).  
+Vancouver, Canada, Jul 2016.  
+[**poster**](../assets/talks/Fayek_ijcnn16.pdf)  
+
 **Towards Real-time Speech Emotion Recognition using Deep Neural Networks.**  
 9th International Conference on Signal Processing and Communication Systems (ICSPCS).  
 Cairns, Australia, Dec 2015.
@@ -72,24 +82,6 @@ Kuala Lumpur, Malaysia, Jun 2014.
 **Real-time Implementation of a Type-2 Fuzzy Logic Controller to Control a DC Servomotor with Different Defuzzification Methods.**  
 18th International Conference on Methods & Models in Automation & Robotics (MMAR).  
 Miedzyzdroje, Poland, Aug 2013.
-
-<br/>
-
----
-
-<br/>
-
-### Conference Posters
-
-**On the Transferability of Representations in Neural Networks Between Datasets and Tasks.**  
-Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS 2018).  
-Montréal, Canada, Dec 2018.  
-[**poster**](../assets/talks/Fayek_neurips18.pdf)
-
-**Modeling Subjectiveness in Emotion Recognition with Deep Neural Networks: Ensembles vs Soft Labels.**  
-29th International Joint Conference on Neural Networks (IJCNN).  
-Vancouver, Canada, Jul 2016.  
-[**poster**](../assets/talks/Fayek_ijcnn16.pdf)
 
 <br/>
 
