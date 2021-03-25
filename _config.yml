@@ -24,11 +24,7 @@ feed:
   excerpt_only: true
 
 header_pages:
-  - about.md
-  - publications.md
-  - talks.md
   - blog.md
-  - contact.md
 
 # Build settings
 markdown: kramdown

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Updates
-permalink: /updates/
+title: News
+permalink: /news/
 ---
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
 | **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |

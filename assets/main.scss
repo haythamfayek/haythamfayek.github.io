@@ -2,12 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$base-font-weight: 300; // 400
+$base-font-weight: 400; // 400
 
 $brand-color:      #2980b9; // #808080
 $brand-color-light:lighten($brand-color, 50%);
 
-$content-width: 900px;
+$content-width: 950px;
 
 @import "minima";
 @import "minima/syntax-highlighting";
@@ -15,21 +15,21 @@ $content-width: 900px;
 /* Custom */
 
 strong {
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .centering {
     text-align: center;
 }
 
-table{
+table {
     width: 100%;
     max-width: 100%;
     background-color: #fdfdfd;
     border: 0 !important;
 }
 
-tr, td{
+tr, td {
     background-color: #fdfdfd;
     border: 0 !important;
     padding: 0 !important;
