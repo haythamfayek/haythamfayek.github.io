@@ -7,7 +7,7 @@ $base-font-weight: 400; // 400
 $brand-color:      #2980b9; // #808080
 $brand-color-light:lighten($brand-color, 50%);
 
-$content-width: 950px;
+$content-width: 900px;
 
 @import "minima";
 @import "minima/syntax-highlighting";

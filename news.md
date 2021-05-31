@@ -3,6 +3,9 @@ layout: page
 title: News
 permalink: /news/
 ---
+| **Jul 2021**: | Teaching COSC2960/COSC2959 Foundations of Artificial Intelligence, Jul'21. |
+| **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
+| **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
 | **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
 | **Dec 2020**: | Paper: [Knowledge Capture and Replay for Continual Learning](https://arxiv.org/abs/2012.06789), on arXiv. |

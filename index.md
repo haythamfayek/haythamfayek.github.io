@@ -28,13 +28,14 @@ email("haytham.fayek", "ieee.org");
 
 <br/>
 
+## Recent
 ---
-
 <br/>
 
-## News
-
-| **Current**: | I am currently looking for strong students interested in artificial intelligence and machine learning, so please get in touch if you would like to work with me. |
+| **Current**: | I am looking for strong students interested in machine learning to join me at RMIT, so please get in touch if you would like to work with me. Competitive scholarships available to onshore national and international candidates only at the moment due to border restrictions. |
+| **Jul 2021**: | Teaching COSC2960/COSC2959 Foundations of Artificial Intelligence, Jul'21. |
+| **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
+| **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
 | **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
 | **Dec 2020**: | Paper: [Knowledge Capture and Replay for Continual Learning](https://arxiv.org/abs/2012.06789), on arXiv. |
@@ -49,20 +50,13 @@ email("haytham.fayek", "ieee.org");
 | **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted at ICML'20. |
 | **Mar 2020**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'20. |
 | **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
-| **Dec 2019**: | At NeurIPS'19, Vancouver. |
-| **Nov 2019**: | Paper: [Temporal Reasoning via Audio Question Answering](https://arxiv.org/abs/1911.09655), on arXiv. |
-| **Oct 2019**: | Paper: [Sound event classification and detection with weakly labeled data](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf), at DCASE'19. |
-| **Jul 2019**: | At ICML'19, Long Beach. |
-| **Feb 2019**: | PhD Thesis: [Continual Deep Learning via Progressive Learning](http://researchbank.rmit.edu.au/view/rmit:162646)! |
 | **Previous**: | [Previous news](news). |
 
 <br/>
 
----
-
-<br/>
-
 ## About
+---
+<br/>
 
 I am on the faculty of the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au), Melbourne, VIC, where I am affiliated with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), and the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics).
 
@@ -75,42 +69,18 @@ Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Elect
 
 <br/>
 
----
-
-<br/>
-
 ## Research
+---
+<br/>
 
 My research interests are broadly in artificial intelligence, machine learning, deep learning, and machine perception. 
 I am primarily interested in learning systems that systematically generalize from limited labelled data.
 
 <br/>
 
----
-
-<br/>
-
-## Students
-
-### Current
-
-Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
-Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
-Emma Pretty, Ph.D. Student, RMIT, 2021--Present.  
-
-### Alumni
-
-[Sharath Adavanne](https://www.aane.in), Research Intern, Facebook Reality Labs, 2018. (Tampere University)  
-Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
-Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
-
-<br/>
-
----
-
-<br/>
-
 ## Publications
+---
+<br/>
 
 ### Preprints
 
@@ -122,6 +92,14 @@ arXiv:2012.06789, Dec 2020.
 [**bib**](../assets/bibtex/Gopalakrishnan2020.bib)
 
 ### Papers
+
+Haytham M. Fayek, Oleg Levinski, Stephan Koschel, Robert Carrese, and Pier Marzocca.  
+**Deep learning airframe load prediction: A data-driven system for aircraft structural health management.**  
+In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.
+
+Stephan Koschel, Robert Carrese, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.  
+**Buffet load prediction via frequency response functions.**  
+In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
@@ -267,11 +245,9 @@ Patent Filing No. PI2012700978, Nov 2012.
 
 <br/>
 
----
-
-<br/>
-
 ## Talks
+---
+<br/>
 
 ### Invited Talks
 
@@ -300,7 +276,6 @@ Melbourne, Australia, Aug 2017.
 **The Types of Power Quality Problems and their Effects on Electrical & Electronic Systems.**  
 Fire Protection Association of Malaysia (FPAM).  
 Kuala Lumpur, Malaysia, Mar 2014.  
-[**prezi**](http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc)
 
 ### Conference Presentations
 
@@ -353,13 +328,34 @@ Melbourne, Australia, Jun 2018.
 
 <br/>
 
+## Students
 ---
+<br/>
+
+### Current
+
+Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
+Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
+Emma Pretty, Ph.D. Student, RMIT, 2021--Present.  
+Fitrio Pakana, M.Sc. Student, RMIT, 2021--Present.  
+Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021--Present.  
+
+### Alumni
+
+[Sharath Adavanne](https://www.aane.in), Research Intern, Facebook Reality Labs, 2018. (Tampere University)  
+Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
+Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
 
 <br/>
 
 ## Teaching
+---
+<br/>
 
 ### Courses
+
+COSC2960/COSC2959 Foundations of Artificial Intelligence.  
+RMIT, Australia, July 21.
 
 COSC2676/COSC2752 Programming Fundamentals for Scientists.  
 RMIT, Australia, March 21.
@@ -386,11 +382,9 @@ RMIT, Australia, April 2015.
 
 <br/>
 
----
-
-<br/>
-
 ## Contact
+---
+<br/>
 
 **Dr Haytham Fayek**  
 School of Computing Technologies  
