@@ -416,7 +416,7 @@ function phone(c, n, e) {
       document.write(c + ' ' + n + ' ' + e);
    }
 }
-phone("+61", "9925", "0858");
+phone("+61 3", "9925", "0858");
 //--><!]]>
 </script>  
 **Postal:** 
