@@ -28,12 +28,21 @@ email("haytham.fayek", "ieee.org");
 
 <br/>
 
+## Current
+---
+<br/>
+
+| 📢 : |[Call for Papers]((https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning)) for [Neural Networks Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
+|🧑‍🎓: | I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT. Competitive scholarships available to onshore---national and international---candidates only at the moment due to border restrictions. |
+
+<br/>
+
 ## Recent
 ---
 <br/>
 
-| **Current**: | I am looking for strong students interested in machine learning to join me at RMIT, so please get in touch if you would like to work with me. Competitive scholarships available to onshore national and international candidates only at the moment due to border restrictions. |
-| **Jul 2021**: | Teaching COSC2960/COSC2959 Foundations of Artificial Intelligence, Jul'21. |
+| **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
+| **Jul 2021**: | Our [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) was accepted at [Neural Networks](https://www.journals.elsevier.com/neural-networks). |
 | **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
 | **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
@@ -354,7 +363,7 @@ Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion Universi
 
 ### Courses
 
-COSC2960/COSC2959 Foundations of Artificial Intelligence.  
+COSC2959/COSC2960 Foundations of Artificial Intelligence.  
 RMIT, Australia, July 21.
 
 COSC2676/COSC2752 Programming Fundamentals for Scientists.  
