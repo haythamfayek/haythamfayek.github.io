@@ -42,7 +42,7 @@ email("haytham.fayek", "ieee.org");
 <br/>
 
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
-| **Jul 2021**: | Our [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) was accepted at [Neural Networks](https://www.journals.elsevier.com/neural-networks). |
+| **Jul 2021**: | Our [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) was accepted in [Neural Networks](https://www.journals.elsevier.com/neural-networks). |
 | **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
 | **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
