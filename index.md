@@ -32,7 +32,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| 📢 : |[Call for Papers]((https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning)) for [Neural Networks Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
+| 📢 : | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
 |🧑‍🎓: | I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT. Competitive scholarships available to onshore---national and international---candidates only at the moment due to border restrictions. |
 
 <br/>
@@ -41,6 +41,9 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
+| **Sep 2021**: | Paper: Data-driven flight load prediction using modal decomposition techniques, accepted at SciTech'22. |
+| **Aug 2021**: | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
 | **Jul 2021**: | Our [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) was accepted in [Neural Networks](https://www.journals.elsevier.com/neural-networks). |
 | **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
@@ -71,7 +74,7 @@ I am on the faculty of the School of Computing Technologies at the [Royal Melbou
 
 I was a Postdoctoral Research Scientist at [Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
 I received a PhD from RMIT in 2019.
-My PhD thesis is titled, [Continual Deep Learning via Progressive Learning](http://researchbank.rmit.edu.au/eserv/rmit:162646/Fayek.pdf).
+My PhD thesis is titled, [Continual Deep Learning via Progressive Learning](https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341).
 During my PhD, I was a Research Intern at Facebook with [Facebook Reality Labs (Oculus VR Research)](https://tech.fb.com/ar-vr/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
 I was also a Teaching Assistant and Guest Lecturer at RMIT.
 Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering from [Petronas University](https://www.utp.edu.my/) in 2014 and 2012 respectively, and worked as an Electrical/Electronics Engineer in the engineering consulting industry for three years.
@@ -102,7 +105,15 @@ arXiv:2012.06789, Dec 2020.
 
 ### Papers
 
-Haytham M. Fayek, Oleg Levinski, Stephan Koschel, Robert Carrese, and Pier Marzocca.  
+Michael Candon, Haytham M. Fayek, Oleg Levinski, Stephan Koschel, and Pier Marzocca.  
+**Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring.**  
+In AIAA SciTech Forum, 2022.  
+
+Stephan Koschel, Robert Carrese, Michael Candon, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.  
+**Data-driven flight load prediction using modal decomposition techniques.**  
+In AIAA SciTech Forum, 2022.   
+
+Haytham M. Fayek, Michael Candon, Oleg Levinski, Stephan Koschel, and Pier Marzocca  
 **Deep learning airframe load prediction: A data-driven system for aircraft structural health management.**  
 In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.
 
@@ -127,7 +138,7 @@ In 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokoh
 [**bib**](../assets/bibtex/Fayek2020.bib)
 
 Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
-**Progressive learning: a deep learning framework for continual learning.**  
+**Progressive learning: A deep learning framework for continual learning.**  
 Neural Networks, vol. 128, pp. 345--357, May 2020.  
 [**link**](https://www.sciencedirect.com/science/article/pii/S0893608020301817)
 [**bib**](../assets/bibtex/Fayek2020a.bib)
@@ -231,7 +242,7 @@ Journal of Applied Sciences Research, vol. 8(5), pp. 2564–-2574, 2012.
 Haytham M. Fayek.  
 **Continual deep learning via progressive learning.**  
 PhD Thesis, RMIT University, 2019.  
-[**link**](https://researchrepository.rmit.edu.au/discovery/delivery?vid=61RMIT_INST:ResearchRepository&repId=12248299790001341)
+[**link**](https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341)
 [**pdf**](https://www.dropbox.com/s/a3insiefrgypbf8/Fayek.pdf?dl=0)
 [**bib**](../assets/bibtex/Fayek2019.bib)
 
@@ -337,23 +348,23 @@ Melbourne, Australia, Jun 2018.
 
 <br/>
 
-## Students
+## Research Students
 ---
 <br/>
 
 ### Current
 
-Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
-Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
 Emma Pretty, Ph.D. Student, RMIT, 2021--Present.  
 Fitrio Pakana, M.Sc. Student, RMIT, 2021--Present.  
-Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021--Present.  
+Halide Göknur Aydoğan, Ph.D. Student, RMIT, 2021--Present.  
+Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
+Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
 
 ### Alumni
 
-[Sharath Adavanne](https://www.aane.in), Research Intern, Facebook Reality Labs, 2018. (Tampere University)  
-Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
 Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
+Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
+[Sharath Adavanne](https://www.aane.in), Research Intern, Facebook Reality Labs, 2018. (Tampere University)  
 
 <br/>
 
