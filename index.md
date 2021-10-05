@@ -32,8 +32,9 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| 📢 : | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
-|🧑‍🎓: | I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT. Competitive scholarships available to onshore---national and international---candidates only at the moment due to border restrictions. |
+[Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
+
+I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT. Competitive scholarships available to onshore---national and international---candidates only at the moment due to border restrictions. |
 
 <br/>
 
@@ -41,27 +42,17 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
 | **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
 | **Sep 2021**: | Paper: Data-driven flight load prediction using modal decomposition techniques, accepted at SciTech'22. |
 | **Aug 2021**: | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
+| **Jul 2021**: | Patent: [Systems and methods for hearing assessment and audio adjustment](https://patents.google.com/patent/US20210227338A1/en) published. |
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
 | **Jul 2021**: | Our [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) was accepted in [Neural Networks](https://www.journals.elsevier.com/neural-networks). |
 | **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
 | **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
-| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
-| **Dec 2020**: | Paper: [Knowledge Capture and Replay for Continual Learning](https://arxiv.org/abs/2012.06789), on arXiv. |
-| **Dec 2020**: | At NeurIPS'20, Virtual. |
-| **Aug 2020**: | Paper: [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/abstract/document/9145807), published in IEEE/ACM TASLP. |
-| **Jul 2020**: | At ICML'20, Virtual. |
-| **Jul 2020**: | Program for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) on 17 Jul at ICML'20. |
-| **Jul 2020**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Jul'20. |
-| **May 2020**: | Paper: [Progressive Learning: A Deep Learning Framework for Continual Learning](https://www.sciencedirect.com/science/article/pii/S0893608020301817), published in Neural Networks.
-| **Apr 2020**: | Paper: [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://www.ijcai.org/Proceedings/2020/78), accepted at IJCAI'20. | 
-| **Apr 2020**: | [Call for Papers](https://sites.google.com/view/cl-icml/call-for-papers) for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) at ICML'20. |
-| **Mar 2020**: | Our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) was accepted at ICML'20. |
-| **Mar 2020**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'20. |
-| **Feb 2020**: | Joined the faculty of Computer Science and Software Engineering, [RMIT University](https://www.rmit.edu.au). |
+| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large scale audiovisual learning of sounds with weakly labeled data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
 | **Previous**: | [Previous news](news). |
 
 <br/>
@@ -94,24 +85,22 @@ I am primarily interested in learning systems that systematically generalize fro
 ---
 <br/>
 
-### Preprints
+### Papers
 
 Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.  
 **Knowledge capture and replay for continual learning.**  
-arXiv:2012.06789, Dec 2020.  
+In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, USA, Jan 2022.  
 [**arXiv**](https://arxiv.org/abs/2012.06789)
 [**pdf**](https://arxiv.org/pdf/2012.06789.pdf)
 [**bib**](../assets/bibtex/Gopalakrishnan2020.bib)
 
-### Papers
-
 Michael Candon, Haytham M. Fayek, Oleg Levinski, Stephan Koschel, and Pier Marzocca.  
 **Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring.**  
-In AIAA SciTech Forum, 2022.  
+In AIAA SciTech Forum, San Diego, USA, Jan 2022.  
 
 Stephan Koschel, Robert Carrese, Michael Candon, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.  
 **Data-driven flight load prediction using modal decomposition techniques.**  
-In AIAA SciTech Forum, 2022.   
+In AIAA SciTech Forum, San Diego, USA, Jan 2022.  
 
 Haytham M. Fayek, Michael Candon, Oleg Levinski, Stephan Koschel, and Pier Marzocca  
 **Deep learning airframe load prediction: A data-driven system for aircraft structural health management.**  
@@ -257,6 +246,13 @@ BEng Thesis, Petronas University, 2012.
 [**bib**](../assets/bibtex/Fayek2011.bib)
 
 ### Patent
+
+Haytham M. Fayek A. A. Abokela and Antonio John Miller.  
+**Systems and methods for hearing assessment and audio adjustment.**  
+US Patent App. 16/745,287, Jul 2021.  
+[**link**](https://patents.google.com/patent/US20210227338A1/en)
+[**pdf**](https://patentimages.storage.googleapis.com/65/0d/35/cedcebccd11bba/US20210227338A1.pdf)
+[**bib**](../assets/bibtex/Abokela2021.bib)
 
 Irraivan Elamvazuthi and Haytham M. Fayek.  
 **Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC).**  
