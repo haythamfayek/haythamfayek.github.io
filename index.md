@@ -34,7 +34,7 @@ email("haytham.fayek", "ieee.org");
 
 [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
 
-I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT. Competitive scholarships available to onshore---national and international---candidates only at the moment due to border restrictions. |
+I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT --- competitive scholarships available. |
 
 <br/>
 
