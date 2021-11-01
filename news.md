@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 ---
 
+| **Nov 2021**: | At CIKM'21, Virtual, serving as session chair for [Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
 | **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
 | **Sep 2021**: | Paper: Data-driven flight load prediction using modal decomposition techniques, accepted at SciTech'22. |
