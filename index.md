@@ -42,7 +42,7 @@ I am looking for strong students interested in machine learning, so please get i
 ---
 <br/>
 
-| **Nov 2021**: | At CIKM'21, Virtual, serving as session chair for [Machine Learning](https://www.cikm2021.org/programme/session/2C). |
+| **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
 | **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
 | **Sep 2021**: | Paper: Data-driven flight load prediction using modal decomposition techniques, accepted at SciTech'22. |
@@ -53,7 +53,7 @@ I am looking for strong students interested in machine learning, so please get i
 | **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
 | **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
-| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large scale audiovisual learning of sounds with weakly labeled data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
+| **Jan 2021**: | At IJCAI'20, virtual, to present [Large scale audiovisual learning of sounds with weakly labeled data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
 | **Previous**: | [Previous news](news). |
 
 <br/>

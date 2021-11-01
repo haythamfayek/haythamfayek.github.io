@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-| **Nov 2021**: | At CIKM'21, Virtual, serving as session chair for [Machine Learning](https://www.cikm2021.org/programme/session/2C). |
+| **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
 | **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
 | **Sep 2021**: | Paper: Data-driven flight load prediction using modal decomposition techniques, accepted at SciTech'22. |
@@ -15,11 +15,11 @@ permalink: /news/
 | **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
 | **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
-| **Jan 2021**: | At IJCAI'20, Virtual, to present [Large scale audiovisual learning of sounds with weakly labeled data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
+| **Jan 2021**: | At IJCAI'20, virtual, to present [Large scale audiovisual learning of sounds with weakly labeled data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
 | **Dec 2020**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), on arXiv. |
-| **Dec 2020**: | At NeurIPS'20, Virtual. |
+| **Dec 2020**: | At NeurIPS'20, virtual. |
 | **Aug 2020**: | Paper: [Temporal reasoning via audio question answering](https://ieeexplore.ieee.org/abstract/document/9145807), published in IEEE/ACM TASLP. |
-| **Jul 2020**: | At ICML'20, Virtual. |
+| **Jul 2020**: | At ICML'20, virtual. |
 | **Jul 2020**: | Program for our [Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home) on 17 Jul at ICML'20. |
 | **Jul 2020**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Jul'20. |
 | **May 2020**: | Paper: [Progressive learning: A deep learning framework for continual learning](https://www.sciencedirect.com/science/article/pii/S0893608020301817), published in Neural Networks.
