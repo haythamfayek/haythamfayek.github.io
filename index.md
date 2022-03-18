@@ -7,7 +7,7 @@ title: Haytham Fayek
 
 Artificial Intelligence / Machine Learning.  
 [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au).  
-Alumnus: [Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
+Alumnus: [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [Github](https://github.com/haythamfayek) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
@@ -28,6 +28,7 @@ email("haytham.fayek", "ieee.org");
 
 <br/>
 
+<!--
 ## Current
 ---
 <br/>
@@ -37,11 +38,14 @@ email("haytham.fayek", "ieee.org");
 I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT --- competitive scholarships available. |
 
 <br/>
+-->
 
 ## Recent
 ---
 <br/>
 
+| **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
+| **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
 | **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
@@ -64,7 +68,7 @@ I am looking for strong students interested in machine learning, so please get i
 
 I am on the faculty of the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au), Melbourne, VIC, where I am affiliated with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), and the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics).
 
-I was a Postdoctoral Research Scientist at [Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
+I was a Postdoctoral Research Scientist at [Meta/Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
 I received a PhD from RMIT in 2019.
 My PhD thesis is titled, [Continual Deep Learning via Progressive Learning](https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341).
 During my PhD, I was a Research Intern at Facebook with [Facebook Reality Labs (Oculus VR Research)](https://tech.fb.com/ar-vr/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
@@ -91,25 +95,38 @@ I am primarily interested in learning systems that systematically generalize fro
 Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.  
 **Knowledge capture and replay for continual learning.**  
 In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, USA, Jan 2022.  
+[**link**](https://openaccess.thecvf.com/content/WACV2022/html/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.html)
+[**pdf**](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)
 [**arXiv**](https://arxiv.org/abs/2012.06789)
-[**pdf**](https://arxiv.org/pdf/2012.06789.pdf)
 [**bib**](../assets/bibtex/Gopalakrishnan2020.bib)
+
+Michael Candon, Marco Esposito, Haytham M. Fayek, Oleg Levinski, Stephan Koschel, Nish Joseph, Robert Carrese, and Pier Marzocca.  
+**Advanced multi-input system identification for next generation aircraft loads monitoring using linear regression, neural networks and deep learning.**  
+Mechanical Systems and Signal Processing, Jan 2022.  
+[**link**](https://www.sciencedirect.com/science/article/abs/pii/S0888327022000085)
+[**bib**](../assets/bibtex/Candon2022a.bib)
 
 Michael Candon, Haytham M. Fayek, Oleg Levinski, Stephan Koschel, and Pier Marzocca.  
 **Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring.**  
 In AIAA SciTech Forum, San Diego, USA, Jan 2022.  
+[**link**](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132)
+[**bib**](../assets/bibtex/Candon2022.bib)
 
 Stephan Koschel, Robert Carrese, Michael Candon, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.  
 **Data-driven flight load prediction using modal decomposition techniques.**  
 In AIAA SciTech Forum, San Diego, USA, Jan 2022.  
+[**link**](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130)
+[**bib**](../assets/bibtex/Koschel2022.bib)
 
 Haytham M. Fayek, Michael Candon, Oleg Levinski, Stephan Koschel, and Pier Marzocca  
 **Deep learning airframe load prediction: A data-driven system for aircraft structural health management.**  
 In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.
+[**bib**](../assets/bibtex/Fayek2021.bib)
 
 Stephan Koschel, Robert Carrese, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.  
 **Buffet load prediction via frequency response functions.**  
 In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.
+[**bib**](../assets/bibtex/Koschel2021.bib)
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
@@ -132,7 +149,6 @@ Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.
 Neural Networks, vol. 128, pp. 345--357, May 2020.  
 [**link**](https://www.sciencedirect.com/science/article/pii/S0893608020301817)
 [**bib**](../assets/bibtex/Fayek2020a.bib)
-
 
 [Sharath Adavanne](https://www.aane.in), Haytham M. Fayek, and Vladimir Tourbabin.  
 **Sound event classification and detection with weakly labeled data.**  
@@ -296,6 +312,14 @@ Kuala Lumpur, Malaysia, Mar 2014.
 
 ### Conference Presentations
 
+**Recent Developments in the Implementation of a Bidirectional LSTM Deep Neural Network for Aircraft Operational Loads Monitoring.**  
+AIAA Scitech 2022 Forum.  
+San Diego, CA, USA, January 2022.
+
+**Deep Learning Airframe Load Prediction: A Data-Driven System for Aircraft Structural Health Management.**  
+19th Australian International Aerospace Congress (AIAC).  
+Melbourne, Australia, November 2021.
+
 **Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.**  
 29th International Joint Conference on Artificial Intelligence (IJCAI).  
 Yokohama, Japan, Jan 2021.
@@ -351,14 +375,17 @@ Melbourne, Australia, Jun 2018.
 
 ### Current
 
+Jarry Chen, M.Sc. Student, RMIT, 2022--Present.
+Kathiravan Thangavel, Ph.D. Student, RMIT, 2022-Present.
+Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021-Present.
 Emma Pretty, Ph.D. Student, RMIT, 2021--Present.  
-Fitrio Pakana, M.Sc. Student, RMIT, 2021--Present.  
 Halide Göknur Aydoğan, Ph.D. Student, RMIT, 2021--Present.  
 Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
 Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
 
 ### Alumni
 
+Fitrio Pakana, M.Sc., RMIT, 2021.  
 Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
 Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
 [Sharath Adavanne](https://www.aane.in), Research Intern, Facebook Reality Labs, 2018. (Tampere University)  
@@ -370,6 +397,9 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 <br/>
 
 ### Courses
+
+COSC2959/COSC2960 Foundations of Artificial Intelligence.  
+RMIT, Australia, March 22.
 
 COSC2959/COSC2960 Foundations of Artificial Intelligence.  
 RMIT, Australia, July 21.
