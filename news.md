@@ -4,12 +4,13 @@ title: News
 permalink: /news/
 ---
 
+| **Mar 2022**: | Paper: PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search, accepted at GECCO'22. Congrats Yameng! |
 | **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
 | **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
-| **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
-| **Sep 2021**: | Paper: Data-driven flight load prediction using modal decomposition techniques, accepted at SciTech'22. |
+| **Sep 2021**: | Paper: [Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132), accepted at SciTech'22. |
+| **Sep 2021**: | Paper: [Data-driven flight load prediction using modal decomposition techniques](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130), accepted at SciTech'22. |
 | **Aug 2021**: | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
 | **Jul 2021**: | Patent: [Systems and methods for hearing assessment and audio adjustment](https://patents.google.com/patent/US20210227338A1/en) published. |
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |

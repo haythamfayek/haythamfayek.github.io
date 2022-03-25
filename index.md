@@ -5,7 +5,7 @@ title: Haytham Fayek
 
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
-Artificial Intelligence / Machine Learning.  
+Artificial Intelligence / Machine Learning Research / Science.  
 [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au).  
 Alumnus: [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
 [Google Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
@@ -44,12 +44,13 @@ I am looking for strong students interested in machine learning, so please get i
 ---
 <br/>
 
+| **Mar 2022**: | Paper: PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search, accepted at GECCO'22. Congrats Yameng! |
 | **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
 | **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
-| **Sep 2021**: | Paper: Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring, accepted at SciTech'22. |
-| **Sep 2021**: | Paper: Data-driven flight load prediction using modal decomposition techniques, accepted at SciTech'22. |
+| **Sep 2021**: | Paper: [Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132), accepted at SciTech'22. |
+| **Sep 2021**: | Paper: [Data-driven flight load prediction using modal decomposition techniques](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130), accepted at SciTech'22. |
 | **Aug 2021**: | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
 | **Jul 2021**: | Patent: [Systems and methods for hearing assessment and audio adjustment](https://patents.google.com/patent/US20210227338A1/en) published. |
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
@@ -92,13 +93,18 @@ I am primarily interested in learning systems that systematically generalize fro
 
 ### Papers
 
+Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
+**PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search.**  
+In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, Jul 2022.  
+[**bib**](../assets/bibtex/Yameng2022.bib)
+
 Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.  
 **Knowledge capture and replay for continual learning.**  
 In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, USA, Jan 2022.  
 [**link**](https://openaccess.thecvf.com/content/WACV2022/html/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.html)
 [**pdf**](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)
 [**arXiv**](https://arxiv.org/abs/2012.06789)
-[**bib**](../assets/bibtex/Gopalakrishnan2020.bib)
+[**bib**](../assets/bibtex/Gopalakrishnan2022.bib)
 
 Michael Candon, Marco Esposito, Haytham M. Fayek, Oleg Levinski, Stephan Koschel, Nish Joseph, Robert Carrese, and Pier Marzocca.  
 **Advanced multi-input system identification for next generation aircraft loads monitoring using linear regression, neural networks and deep learning.**  
@@ -375,13 +381,13 @@ Melbourne, Australia, Jun 2018.
 
 ### Current
 
-Jarry Chen, M.Sc. Student, RMIT, 2022--Present.
-Kathiravan Thangavel, Ph.D. Student, RMIT, 2022-Present.
-Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021-Present.
-Emma Pretty, Ph.D. Student, RMIT, 2021--Present.  
-Halide Göknur Aydoğan, Ph.D. Student, RMIT, 2021--Present.  
-Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
 Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
+Emma Pretty, Ph.D. Student, RMIT, 2021--Present.  
+Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
+Halide Göknur Aydoğan, Ph.D. Student, RMIT, 2021--Present.  
+Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021-Present.  
+Kathiravan Thangavel, Ph.D. Student, RMIT, 2022-Present.  
+Jarry Chen, M.Sc. Student, RMIT, 2022--Present.  
 
 ### Alumni
 
@@ -399,19 +405,19 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 ### Courses
 
 COSC2959/COSC2960 Foundations of Artificial Intelligence.  
-RMIT, Australia, March 22.
+RMIT, Australia, March 2022.
 
 COSC2959/COSC2960 Foundations of Artificial Intelligence.  
-RMIT, Australia, July 21.
+RMIT, Australia, July 2021.
 
 COSC2676/COSC2752 Programming Fundamentals for Scientists.  
-RMIT, Australia, March 21.
+RMIT, Australia, March 2021.
 
 COSC2676/COSC2752 Programming Fundamentals for Scientists.  
-RMIT, Australia, July 20.
+RMIT, Australia, July 2020.
 
 COSC2676/COSC2752 Programming Fundamentals for Scientists.  
-RMIT, Australia, March 20.
+RMIT, Australia, March 2020.
 
 ### Guest Lectures
 
