@@ -383,10 +383,10 @@ Melbourne, Australia, Jun 2018.
 
 Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
 Emma Pretty, Ph.D. Student, RMIT, 2021--Present.  
-Nermine Hendy, Ph.D. Student, RMIT, 2021--Present.  
-Halide Göknur Aydoğan, Ph.D. Student, RMIT, 2021--Present.  
+[Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D. Student, RMIT, 2021--Present.  
+[Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
 Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021-Present.  
-Kathiravan Thangavel, Ph.D. Student, RMIT, 2022-Present.  
+[Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D. Student, RMIT, 2022-Present.  
 Jarry Chen, M.Sc. Student, RMIT, 2022--Present.  
 
 ### Alumni
