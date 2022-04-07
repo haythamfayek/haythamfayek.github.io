@@ -44,6 +44,7 @@ I am looking for strong students interested in machine learning, so please get i
 ---
 <br/>
 
+| **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT |
 | **Mar 2022**: | Paper: PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search, accepted at GECCO'22. Congrats Yameng! |
 | **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
 | **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
@@ -289,6 +290,11 @@ Patent Filing No. PI2012700978, Nov 2012.
 <br/>
 
 ### Invited Talks
+
+**Beyond Supervised Deep Learning.**  
+Centre for Industrial AI Research & Innovation (CIARI), RMIT.  
+Australia, Apr 2022.  
+[**link**](https://www.rmit.edu.au/events/2022/april/ciairi-open-day)
 
 **Progressive Learning.**  
 A*Star.  
