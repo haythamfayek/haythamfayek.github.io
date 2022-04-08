@@ -295,6 +295,7 @@ Patent Filing No. PI2012700978, Nov 2012.
 Centre for Industrial AI Research & Innovation (CIARI), RMIT.  
 Australia, Apr 2022.  
 [**link**](https://www.rmit.edu.au/events/2022/april/ciairi-open-day)
+[**recording**](https://youtu.be/bx4HA3iMURQ?t=1724)
 
 **Progressive Learning.**  
 A*Star.  
@@ -315,8 +316,8 @@ Melbourne, Australia, Sep 2017.
 **Will Deep Learning Lead to AI?**  
 Melbourne Machine Learning & AI Meetup.  
 Melbourne, Australia, Aug 2017.  
-[**slides**](../assets/talks/Fayek_deeplearningai17.pdf)
 [**link**](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/)
+[**slides**](../assets/talks/Fayek_deeplearningai17.pdf)
 
 **The Types of Power Quality Problems and their Effects on Electrical & Electronic Systems.**  
 Fire Protection Association of Malaysia (FPAM).  
