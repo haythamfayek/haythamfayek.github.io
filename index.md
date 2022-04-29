@@ -45,7 +45,7 @@ I am looking for strong students interested in machine learning, so please get i
 <br/>
 
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
-| **Mar 2022**: | Paper: PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search, accepted at GECCO'22. Congrats Yameng! |
+| **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |
 | **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
 | **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
@@ -97,6 +97,8 @@ I am primarily interested in learning systems that systematically generalize fro
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
 **PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search.**  
 In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, Jul 2022.  
+[**pdf**](https://arxiv.org/pdf/2204.12726.pdf)
+[**arXiv**](https://arxiv.org/abs/2204.12726)
 [**bib**](../assets/bibtex/Yameng2022.bib)
 
 Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.  
