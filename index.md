@@ -56,8 +56,8 @@ I am looking for strong students interested in machine learning, so please get i
 | **Jul 2021**: | Patent: [Systems and methods for hearing assessment and audio adjustment](https://patents.google.com/patent/US20210227338A1/en) published. |
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
 | **Jul 2021**: | Our [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) was accepted in [Neural Networks](https://www.journals.elsevier.com/neural-networks). |
-| **May 2021**: | Paper: Deep learning airframe load prediction: A data-driven system for aircraft structural health management, accepted at AIAC'21. |
-| **May 2021**: | Paper: Buffet load prediction via frequency response functions, accepted at AIAC'21. |
+| **May 2021**: | Paper: [Deep learning airframe load prediction: A data-driven system for aircraft structural health management]((https://search.informit.org/doi/epdf/10.3316/informit.414000320822264)), accepted at AIAC'21. |
+| **May 2021**: | Paper: [Buffet load prediction via frequency response functions](https://search.informit.org/doi/10.3316/informit.313997164079504), accepted at AIAC'21. |
 | **Mar 2021**: | Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar'21. |
 | **Jan 2021**: | At IJCAI'20, virtual, to present [Large scale audiovisual learning of sounds with weakly labeled data](https://www.ijcai.org/Proceedings/2020/0078.pdf). |
 | **Previous**: | [Previous news](news). |
@@ -129,12 +129,16 @@ In AIAA SciTech Forum, San Diego, USA, Jan 2022.
 
 Haytham M. Fayek, Michael Candon, Oleg Levinski, Stephan Koschel, and Pier Marzocca  
 **Deep learning airframe load prediction: A data-driven system for aircraft structural health management.**  
-In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.
+In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.  
+[**link**](https://search.informit.org/doi/10.3316/informit.414000320822264)
+[**pdf**](https://search.informit.org/doi/epdf/10.3316/informit.414000320822264)
 [**bib**](../assets/bibtex/Fayek2021.bib)
 
 Stephan Koschel, Robert Carrese, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.  
 **Buffet load prediction via frequency response functions.**  
-In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.
+In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.  
+[**link**](https://search.informit.org/doi/10.3316/informit.313997164079504)
+[**pdf**](https://search.informit.org/doi/epdf/10.3316/informit.313997164079504)
 [**bib**](../assets/bibtex/Koschel2021.bib)
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
