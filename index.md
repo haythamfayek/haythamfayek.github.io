@@ -99,14 +99,14 @@ Nermine Hendy, Haytham M. Fayek, and Akram Al-Hourani.
 **Deep learning approaches for air-writing using single UWB radar.**  
 IEEE Sensors, May 2022.  
 [**link**](https://ieeexplore.ieee.org/document/9768813)
-[**bib**](../assets/bibtex/Nermine2022.bib)
+[**bib**](../assets/bibtex/Hendy2022.bib)
 
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
 **PRE-NAS: Predictor-assisted evolutionary neural architecture search.**  
 In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, Jul 2022.  
 [**pdf**](https://arxiv.org/pdf/2204.12726.pdf)
 [**arXiv**](https://arxiv.org/abs/2204.12726)
-[**bib**](../assets/bibtex/Yameng2022.bib)
+[**bib**](../assets/bibtex/Peng2022.bib)
 
 Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.  
 **Knowledge capture and replay for continual learning.**  
