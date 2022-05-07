@@ -4,8 +4,9 @@ title: News
 permalink: /news/
 ---
 
+| **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
-| **Mar 2022**: | Paper: PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search, accepted at GECCO'22. Congrats Yameng! |
+| **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |
 | **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
 | **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
