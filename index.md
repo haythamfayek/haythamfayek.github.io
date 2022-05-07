@@ -44,6 +44,7 @@ I am looking for strong students interested in machine learning, so please get i
 ---
 <br/>
 
+| **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
 | **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |
 | **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
@@ -94,8 +95,14 @@ I am primarily interested in learning systems that systematically generalize fro
 
 ### Papers
 
+Nermine Hendy, Haytham M. Fayek, and Akram Al-Hourani.  
+**Deep learning approaches for air-writing using single UWB radar.**  
+IEEE Sensors, May 2022.  
+[**link**](https://ieeexplore.ieee.org/document/9768813)
+[**bib**](../assets/bibtex/Nermine2022.bib)
+
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
-**PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search.**  
+**PRE-NAS: Predictor-assisted evolutionary neural architecture search.**  
 In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, Jul 2022.  
 [**pdf**](https://arxiv.org/pdf/2204.12726.pdf)
 [**arXiv**](https://arxiv.org/abs/2204.12726)
