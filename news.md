@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 ---
 
+| **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
 | **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
 | **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |

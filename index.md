@@ -44,6 +44,7 @@ I am looking for strong students interested in machine learning, so please get i
 ---
 <br/>
 
+| **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
 | **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
 | **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |
@@ -95,10 +96,16 @@ I am primarily interested in learning systems that systematically generalize fro
 
 ### Papers
 
+Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.  
+**A Case for personalised non-player character companion design.**  
+[**link**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761)
+[**bib**](../assets/bibtex/Pretty2022.bib)  
+
 Nermine Hendy, Haytham M. Fayek, and Akram Al-Hourani.  
 **Deep learning approaches for air-writing using single UWB radar.**  
 IEEE Sensors, May 2022.  
 [**link**](https://ieeexplore.ieee.org/document/9768813)
+[**data**](https://figshare.com/articles/dataset/Dataset_for_Air-writing_recognition_based_on_Ultra-wide_band_Radar_Sensor/20225907)
 [**bib**](../assets/bibtex/Hendy2022.bib)
 
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
