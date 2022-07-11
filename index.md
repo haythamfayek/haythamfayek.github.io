@@ -103,21 +103,22 @@ Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.
 
 Nermine Hendy, Haytham M. Fayek, and Akram Al-Hourani.  
 **Deep learning approaches for air-writing using single UWB radar.**  
-IEEE Sensors, May 2022.  
+IEEE Sensors Journal, May 2022.  
 [**link**](https://ieeexplore.ieee.org/document/9768813)
 [**data**](https://figshare.com/articles/dataset/Dataset_for_Air-writing_recognition_based_on_Ultra-wide_band_Radar_Sensor/20225907)
 [**bib**](../assets/bibtex/Hendy2022.bib)
 
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
 **PRE-NAS: Predictor-assisted evolutionary neural architecture search.**  
-In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, Jul 2022.  
+In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, pp. 1066--1074, Jul 2022.  
+[**link**](https://dl.acm.org/doi/10.1145/3512290.3528727)
 [**pdf**](https://arxiv.org/pdf/2204.12726.pdf)
 [**arXiv**](https://arxiv.org/abs/2204.12726)
 [**bib**](../assets/bibtex/Peng2022.bib)
 
 Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.  
 **Knowledge capture and replay for continual learning.**  
-In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, USA, Jan 2022.  
+In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, USA, pp. 337–345, Jan 2022.  
 [**link**](https://openaccess.thecvf.com/content/WACV2022/html/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.html)
 [**pdf**](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)
 [**arXiv**](https://arxiv.org/abs/2012.06789)
