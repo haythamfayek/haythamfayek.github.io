@@ -1,0 +1,464 @@
+I"�X<p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain" /></p>
+
+<p>Artificial Intelligence / Machine Learning Research / Science.<br />
+Lecturer, <a href="https://www.rmit.edu.au">Royal Melbourne Institute of Technology (RMIT University)</a>.<br />
+Alumnus, <a href="https://research.fb.com">Meta/Facebook Research</a>, <a href="https://www.oculus.com/research/">Oculus Research</a>, &amp; <a href="https://www.worley.com">WorleyParsons</a>.<br />
+<a href="https://scholar.google.com/citations?user=l5T9RtcAAAAJ">Google Scholar</a> |
+<a href="https://github.com/haythamfayek">Github</a> |
+<a href="https://www.linkedin.com/in/haythamfayek/">LinkedIn</a> |
+<a href="https://twitter.com/HaythamFayek">Twitter</a><br />
+<!--[Resume](assets/Fayek_resume.pdf) |-->
+<script type="text/javascript">
+<!--//-->&lt;![CDATA[//&gt;<!--
+function email(e, d) {
+   if (!document.write) return false;
+   if (document.write) {
+      var e; var d;
+      document.write('<a href="' + 'mailto:' + e + '@' + d + '">' + e + '@' + d + '<\/a>');
+   }
+}
+email("haytham.fayek", "ieee.org");
+//-->&lt;!]]&gt;
+</script></p>
+
+<!--
+<br/>
+
+## Current
+---
+<br/>
+
+[Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
+
+I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT --- competitive scholarships available. |
+-->
+
+<h2 id="recent">Recent</h2>
+<hr />
+<p><br /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Jul 2022</strong>:</td>
+      <td>Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul’22.</td>
+    </tr>
+    <tr>
+      <td><strong>Jul 2022</strong>:</td>
+      <td>I was promoted to Senior Member of the <a href="https://ieee.org">IEEE</a>.</td>
+    </tr>
+    <tr>
+      <td><strong>Jun 2022</strong>:</td>
+      <td>Paper: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761">A Case for Personalised Non-Player Character Companion Design</a>, is out.</td>
+    </tr>
+    <tr>
+      <td><strong>Apr 2022</strong>:</td>
+      <td>Paper: <a href="https://ieeexplore.ieee.org/document/9768813">Deep Learning Approaches for Air-writing Using Single UWB Radar</a>, accepted in IEEE Sensors. Congrats Nermine!</td>
+    </tr>
+    <tr>
+      <td><strong>Apr 2022</strong>:</td>
+      <td>Talk: <a href="https://www.rmit.edu.au/events/2022/april/ciairi-open-day">Beyond Supervised Deep Learning</a>, Centre for Industrial AI Research &amp; Innovation (CIARI), RMIT.</td>
+    </tr>
+    <tr>
+      <td><strong>Mar 2022</strong>:</td>
+      <td>Paper: <a href="https://arxiv.org/abs/2204.12726">PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search</a>, accepted at GECCO’22. Congrats Yameng!</td>
+    </tr>
+    <tr>
+      <td><strong>Mar 2022</strong>:</td>
+      <td>Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar’22.</td>
+    </tr>
+    <tr>
+      <td><strong>Jan 2022</strong>:</td>
+      <td>Paper: <a href="https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor">Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning</a>, accepted in MSSP.</td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+   function toggle_vis(id) {
+       var e = document.getElementById(id);
+       if (e.style.display == 'none')
+           e.style.display = 'inline';
+       else
+           e.style.display = 'none';
+   }
+</script>
+
+<p><a href="javascript:toggle_vis('news')"><strong>Show Previous News</strong></a></p>
+<div id="news" style="display:none">
+
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Nov 2021</strong>:</td>
+        <td>At CIKM’21, virtual, chairing <a href="https://www.cikm2021.org/programme/session/2C">Session 2C: Machine Learning</a>.</td>
+      </tr>
+      <tr>
+        <td><strong>Oct 2021</strong>:</td>
+        <td>Paper: <a href="https://arxiv.org/abs/2012.06789">Knowledge capture and replay for continual learning</a>, accepted at WACV’22.</td>
+      </tr>
+      <tr>
+        <td><strong>Sep 2021</strong>:</td>
+        <td>Paper: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132">Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring</a>, accepted at SciTech’22.</td>
+      </tr>
+      <tr>
+        <td><strong>Sep 2021</strong>:</td>
+        <td>Paper: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130">Data-driven flight load prediction using modal decomposition techniques</a>, accepted at SciTech’22.</td>
+      </tr>
+      <tr>
+        <td><strong>Aug 2021</strong>:</td>
+        <td><a href="https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning">Call for Papers</a> for <a href="https://www.journals.elsevier.com/neural-networks">Neural Networks</a> <a href="https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning">Special Issue on Lifelong Learning</a> due 28 Feb 2022.</td>
+      </tr>
+      <tr>
+        <td><strong>Jul 2021</strong>:</td>
+        <td>Patent: <a href="https://patents.google.com/patent/US20210227338A1/en">Systems and methods for hearing assessment and audio adjustment</a> published.</td>
+      </tr>
+      <tr>
+        <td><strong>Jul 2021</strong>:</td>
+        <td>Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul’21.</td>
+      </tr>
+      <tr>
+        <td><strong>Jul 2021</strong>:</td>
+        <td>Our <a href="https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning">Special Issue on Lifelong Learning</a> was accepted in <a href="https://www.journals.elsevier.com/neural-networks">Neural Networks</a>.</td>
+      </tr>
+      <tr>
+        <td><strong>May 2021</strong>:</td>
+        <td>Paper: <a href="(https://search.informit.org/doi/epdf/10.3316/informit.414000320822264)">Deep learning airframe load prediction: A data-driven system for aircraft structural health management</a>, accepted at AIAC’21.</td>
+      </tr>
+      <tr>
+        <td><strong>May 2021</strong>:</td>
+        <td>Paper: <a href="https://search.informit.org/doi/10.3316/informit.313997164079504">Buffet load prediction via frequency response functions</a>, accepted at AIAC’21.</td>
+      </tr>
+      <tr>
+        <td><strong>Mar 2021</strong>:</td>
+        <td>Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar’21.</td>
+      </tr>
+      <tr>
+        <td><strong>Jan 2021</strong>:</td>
+        <td>At IJCAI’20, virtual, to present <a href="https://www.ijcai.org/Proceedings/2020/0078.pdf">Large scale audiovisual learning of sounds with weakly labeled data</a>.</td>
+      </tr>
+      <tr>
+        <td><strong>Dec 2020</strong>:</td>
+        <td>Paper: <a href="https://arxiv.org/abs/2012.06789">Knowledge capture and replay for continual learning</a>, on arXiv.</td>
+      </tr>
+      <tr>
+        <td><strong>Dec 2020</strong>:</td>
+        <td>At NeurIPS’20, virtual.</td>
+      </tr>
+      <tr>
+        <td><strong>Aug 2020</strong>:</td>
+        <td>Paper: <a href="https://ieeexplore.ieee.org/abstract/document/9145807">Temporal reasoning via audio question answering</a>, published in IEEE/ACM TASLP.</td>
+      </tr>
+      <tr>
+        <td><strong>Jul 2020</strong>:</td>
+        <td>At ICML’20, virtual.</td>
+      </tr>
+      <tr>
+        <td><strong>Jul 2020</strong>:</td>
+        <td>Program for our <a href="https://sites.google.com/view/cl-icml/home">Workshop on Continual Learning</a> on 17 Jul at ICML’20.</td>
+      </tr>
+      <tr>
+        <td><strong>Jul 2020</strong>:</td>
+        <td>Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Jul’20.</td>
+      </tr>
+      <tr>
+        <td><strong>May 2020</strong>:</td>
+        <td>Paper: <a href="https://www.sciencedirect.com/science/article/pii/S0893608020301817">Progressive learning: A deep learning framework for continual learning</a>, published in Neural Networks.</td>
+      </tr>
+      <tr>
+        <td><strong>Apr 2020</strong>:</td>
+        <td>Paper: <a href="https://www.ijcai.org/Proceedings/2020/78">Large scale audiovisual learning of sounds with weakly labeled data</a>, accepted at IJCAI’20.</td>
+      </tr>
+      <tr>
+        <td><strong>Apr 2020</strong>:</td>
+        <td><a href="https://sites.google.com/view/cl-icml/call-for-papers">Call for Papers</a> for our <a href="https://sites.google.com/view/cl-icml/home">Workshop on Continual Learning</a> at ICML’20.</td>
+      </tr>
+      <tr>
+        <td><strong>Mar 2020</strong>:</td>
+        <td>Our <a href="https://sites.google.com/view/cl-icml/home">Workshop on Continual Learning</a> was accepted at ICML’20.</td>
+      </tr>
+      <tr>
+        <td><strong>Mar 2020</strong>:</td>
+        <td>Teaching COSC2676/COSC2752 Programming Fundamentals for Scientists, Mar’20.</td>
+      </tr>
+      <tr>
+        <td><strong>Feb 2020</strong>:</td>
+        <td>Joined the faculty of Computer Science and Software Engineering, <a href="https://www.rmit.edu.au">RMIT University</a>.</td>
+      </tr>
+      <tr>
+        <td><strong>Dec 2019</strong>:</td>
+        <td>At NeurIPS’19, Vancouver.</td>
+      </tr>
+      <tr>
+        <td><strong>Nov 2019</strong>:</td>
+        <td>Paper: <a href="https://arxiv.org/abs/1911.09655">Temporal reasoning via audio question answering</a>, on arXiv.</td>
+      </tr>
+      <tr>
+        <td><strong>Oct 2019</strong>:</td>
+        <td>Paper: <a href="http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf">Sound event classification and detection with weakly labeled data</a>, at DCASE’19.</td>
+      </tr>
+      <tr>
+        <td><strong>Jul 2019</strong>:</td>
+        <td>At ICML’19, Long Beach.</td>
+      </tr>
+      <tr>
+        <td><strong>Feb 2019</strong>:</td>
+        <td>PhD Thesis: <a href="http://researchbank.rmit.edu.au/view/rmit:162646">Continual deep learning via progressive learning</a>!</td>
+      </tr>
+      <tr>
+        <td><strong>Dec 2018</strong>:</td>
+        <td>At NeurIPS’18, Montréal, to present <a href="https://arxiv.org/abs/1811.12273">On the transferability of representations in neural networks between datasets and tasks</a> at the Continual Learning Workshop.</td>
+      </tr>
+      <tr>
+        <td><strong>Aug 2018</strong>:</td>
+        <td>Postdoctoral Research Scientist, <a href="https://research.fb.com">Facebook Research</a>, Seattle.</td>
+      </tr>
+      <tr>
+        <td><strong>Jun 2018</strong>:</td>
+        <td>Panel discussion at ACMI X, Melbourne, on <a href="https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/">Talking Computers: How Voice Technology is Changing the Human Machine Interaction</a>.</td>
+      </tr>
+      <tr>
+        <td><strong>Feb 2018</strong>:</td>
+        <td>Teaching Assistant at RMIT for postgraduate COSC1295 Advanced Programming and undergraduate EEET2169 Image Processing.</td>
+      </tr>
+      <tr>
+        <td><strong>Dec 2017</strong>:</td>
+        <td>At NIPS’17, Long Beach.</td>
+      </tr>
+      <tr>
+        <td><strong>Nov 2017</strong>:</td>
+        <td>Paper: <a href="https://doi.org/10.21105/joss.00413">MatDL: A lightweight deep learning library in MATLAB</a>, in JOSS.</td>
+      </tr>
+      <tr>
+        <td><strong>Nov 2017</strong>:</td>
+        <td>At World Youth Forum (WYF’17), Sharm El Sheikh.</td>
+      </tr>
+      <tr>
+        <td><strong>Oct 2017</strong>:</td>
+        <td>At AES’17, New York, to present <a href="http://www.aes.org/e-lib/browse.cfm?elib=19287">On data-driven approaches to head-related transfer function personalization</a>.</td>
+      </tr>
+      <tr>
+        <td><strong>Sep 2017</strong>:</td>
+        <td>Talk at Swinburne University, Melbourne, on Will Deep Learning Lead to AI?</td>
+      </tr>
+      <tr>
+        <td><strong>Aug 2017</strong>:</td>
+        <td>Talk at the <a href="https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/">ML / AI Melbourne Meetup</a>, on <a href="../assets/presentations/Fayek_deeplearningai17.pdf">Will Deep Learning Lead to AI?</a></td>
+      </tr>
+      <tr>
+        <td><strong>Aug 2017</strong>:</td>
+        <td>At ICML’17, Sydney and IJCAI’17, Melbourne.</td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<p><br /></p>
+
+<h2 id="about">About</h2>
+<hr />
+<p><br /></p>
+
+<p>I am a Lecturer in the Artificial Intelligence Discipline in the School of Computing Technologies at the <a href="https://www.rmit.edu.au">Royal Melbourne Institute of Technology (RMIT University)</a> in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the <a href="https://titan.csit.rmit.edu.au/~e46507/ecml/index.php">Evolutionary Computing and Machine Learning (ECML) Group</a>, the <a href="https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab">AI Innovation Lab</a>, the <a href="https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics">Centre for Information Discovery and Data Analytics (CIDDA)</a>, and <a href="https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation">Centre for Industrial AI Research &amp; Innovation (CIARI)</a>.</p>
+
+<p>I was a Postdoctoral Research Scientist at <a href="https://research.fb.com">Meta/Facebook Research</a> in Seattle, WA, from August 2018 to January 2020.
+I received a PhD from RMIT in 2019.
+My PhD thesis is titled, <a href="https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341">Continual Deep Learning via Progressive Learning</a>.
+During my PhD, I was a Research Intern at Facebook with <a href="https://tech.fb.com/ar-vr/">Facebook Reality Labs (Oculus VR Research)</a> and <a href="https://research.fb.com/category/facebook-ai-research-fair/">Facebook AI Research (FAIR)</a>.
+Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering, and worked as an Electrical/Electronics Engineer in the engineering consulting industry for three years.</p>
+
+<p><br /></p>
+
+<h2 id="research">Research</h2>
+<hr />
+<p><br /></p>
+
+<p>My research interests are broadly in artificial intelligence, machine learning, deep learning, and machine perception.</p>
+
+<p>I am primarily interested in learning systems that systematically generalize from limited labelled data.
+This includes learning algorithms that can learn from a limited number of samples by drawing on prior experiences and learning algorithms that can learn despite limitations in labels in data.</p>
+
+<!--
+I am interested in learning algorithms that can learn from a limited number of samples by drawing on prior experiences which includes transfer learning, multi-task learning, continual learning, and meta-learning.
+
+I am also interested in learning algorithms that can learn despite limitations in labels in data which includes weakly supervised learning, few-shot learning, and self-supervised learning. 
+-->
+
+<p><br /></p>
+
+<h2 id="selected-publications-full-list">Selected Publications (<a href="publications">full list</a>)</h2>
+<hr />
+<p><br /></p>
+
+<p>Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.<br />
+<strong>PRE-NAS: Predictor-assisted evolutionary neural architecture search.</strong><br />
+In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, pp. 1066–1074, Jul 2022.<br />
+<a href="https://dl.acm.org/doi/10.1145/3512290.3528727">link</a>
+<a href="https://arxiv.org/pdf/2204.12726.pdf">pdf</a>
+<a href="https://arxiv.org/abs/2204.12726">arXiv</a>
+<a href="../assets/bibtex/Peng2022.bib">bib</a></p>
+
+<p>Haytham M. Fayek and <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a>.<br />
+<strong>Temporal reasoning via audio question answering.</strong> <br />
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, Jul 2020.<br />
+<a href="https://ieeexplore.ieee.org/abstract/document/9145807">link</a>
+<a href="https://arxiv.org/abs/1911.09655">arXiv</a>
+<a href="https://github.com/facebookresearch/daqa">code</a>
+<a href="../assets/bibtex/Fayek2020b.bib">bib</a></p>
+
+<p>Haytham M. Fayek and <a href="https://anuragkr90.github.io">Anurag Kumar</a>.<br />
+<strong>Large scale audiovisual learning of sounds with weakly labeled data.</strong><br />
+In 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.<br />
+<a href="https://www.ijcai.org/Proceedings/2020/78">link</a>
+<a href="https://www.ijcai.org/Proceedings/2020/0078.pdf">pdf</a>
+<a href="https://arxiv.org/abs/2006.01595">arXiv</a>
+<a href="../assets/bibtex/Fayek2020.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.<br />
+<strong>Progressive learning: A deep learning framework for continual learning.</strong><br />
+Neural Networks, vol. 128, pp. 345–357, May 2020.<br />
+<a href="https://www.sciencedirect.com/science/article/pii/S0893608020301817">link</a>
+<a href="../assets/bibtex/Fayek2020a.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.<br />
+<strong>On the transferability of representations in neural networks between datasets and tasks.</strong><br />
+In Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS), Montréal, Canada, Dec 2018.<br />
+<a href="https://marcpickett.com/cl2018/CL-2018_paper_19.pdf">pdf</a>
+<a href="https://arxiv.org/abs/1811.12273">arXiv</a>
+<a href="../assets/bibtex/Fayek2018.bib">bib</a></p>
+
+<h4 id="full-list-of-publications"><a href="publications">Full list of publications</a></h4>
+
+<p><br /></p>
+
+<h2 id="selected-talks">Selected Talks</h2>
+<hr />
+<p><br /></p>
+
+<p><strong>Beyond Supervised Deep Learning.</strong><br />
+Centre for Industrial AI Research &amp; Innovation (CIARI), RMIT.<br />
+Australia, Apr 2022.<br />
+<a href="https://www.rmit.edu.au/events/2022/april/ciairi-open-day"><strong>link</strong></a>
+<a href="https://youtu.be/bx4HA3iMURQ?t=1724"><strong>recording</strong></a></p>
+
+<p><strong>Will Deep Learning Lead to AI?</strong><br />
+Melbourne Machine Learning &amp; AI Meetup.<br />
+Melbourne, Australia, Aug 2017.<br />
+<a href="https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/"><strong>link</strong></a>
+<a href="../assets/talks/Fayek_deeplearningai17.pdf"><strong>slides</strong></a></p>
+
+<p><strong>On the Transferability of Representations in Neural Networks Between Datasets and Tasks.</strong><br />
+Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS 2018).<br />
+Montréal, Canada, Dec 2018.<br />
+<a href="../assets/talks/Fayek_neurips18.pdf"><strong>poster</strong></a></p>
+
+<p><strong>On the Correlation and Transferability of Features between Automatic Speech Recognition and Speech Emotion Recognition.</strong><br />
+17th Annual Conference of the International Speech Communication Association (Interspeech).<br />
+San Francisco, USA, Sep 2016.<br />
+<a href="../assets/talks/Fayek_is16.pdf"><strong>slides</strong></a></p>
+
+<p><br /></p>
+
+<h2 id="research-students">Research Students</h2>
+<hr />
+<p><br /></p>
+
+<h3 id="current">Current</h3>
+
+<p>Yameng Peng, Ph.D. Student, RMIT, 2020–Present.<br />
+Emma Pretty, Ph.D. Student, RMIT, 2021–Present.<br />
+<a href="https://www.linkedin.com/in/nermine-hendy-18121069">Nermine Hendy</a>, Ph.D. Student, RMIT, 2021–Present.<br />
+<a href="https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a">Halide Göknur Aydoğan</a>, Ph.D. Student, RMIT, 2021–Present.<br />
+<a href="https://www.linkedin.com/in/kathiravan-thangavel-93871a102/">Kathiravan Thangavel</a>, Ph.D. Student, RMIT, 2022-Present.<br />
+Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021-Present.<br />
+Jarry Chen, M.Sc. Student, RMIT, 2022–Present.</p>
+
+<h3 id="alumni">Alumni</h3>
+
+<p>Fitrio Pakana, M.Sc., RMIT, 2021.<br />
+Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)<br />
+Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)<br />
+<a href="https://www.aane.in">Sharath Adavanne</a>, Research Intern, Facebook Reality Labs, 2018. (Tampere University)</p>
+
+<p><br /></p>
+
+<h2 id="teaching">Teaching</h2>
+<hr />
+<p><br /></p>
+
+<h3 id="courses">Courses</h3>
+
+<p>COSC2959/COSC2960 Foundations of Artificial Intelligence.<br />
+RMIT, Australia, July 2021, March 2022, July 2022.</p>
+
+<p>COSC2676/COSC2752 Programming Fundamentals for Scientists.<br />
+RMIT, Australia, March 2020, July 2020,  March 2021.</p>
+
+<h3 id="guest-lectures">Guest Lectures</h3>
+
+<p><strong>Digital Image Watermarking.</strong><br />
+EEET2169/EEE1255 Image Processing / Image Systems Engineering.<br />
+RMIT, Australia, April 2018.</p>
+
+<p><strong>Sampling and Reconstruction.</strong><br />
+EEET2113 Signals and Systems II.<br />
+RMIT, Australia, March 2016.</p>
+
+<p><strong>Signals in Noise.</strong><br />
+EEET2113 Digital Signal Processing.<br />
+RMIT, Australia, April 2015.</p>
+
+<p><br /></p>
+
+<h2 id="contact">Contact</h2>
+<hr />
+<p><br /></p>
+
+<p><strong>Dr Haytham Fayek</strong><br />
+School of Computing Technologies<br />
+Royal Melbourne Institute of Technology (RMIT)<br />
+Building 14, Level 11, Room 03<br />
+124 La Trobe Street, Melbourne VIC 3000<br />
+Australia</p>
+
+<p><strong>Email:</strong> 
+<script type="text/javascript">
+<!--//-->&lt;![CDATA[//&gt;<!--
+function email(e, d) {
+   if (!document.write) return false;
+   if (document.write) {
+      var e; var d;
+      document.write('<a href="' + 'mailto:' + e + '@' + d + '">' + e + '@' + d + '<\/a>');
+   }
+}
+email("haytham.fayek", "ieee.org");
+//-->&lt;!]]&gt;
+</script><br />
+<strong>Phone:</strong> 
+<script type="text/javascript">
+<!--//-->&lt;![CDATA[//&gt;<!--
+function phone(c, n, e) {
+   if (!document.write) return false;
+   if (document.write) {
+      var c; var n; var e;
+      document.write(c + ' ' + n + ' ' + e);
+   }
+}
+phone("+61 3", "9925", "0858");
+//-->&lt;!]]&gt;
+</script><br />
+<strong>Postal:</strong> 
+<script type="text/javascript">
+<!--//-->&lt;![CDATA[//&gt;<!--
+function address(a, s, c) {
+   if (!document.write) return false;
+   if (document.write) {
+      var a; var s; var c;
+      document.write(a + ', ' + s + ', ' + c);
+   }
+}
+address("GPO Box 2476", "Melbourne VIC 3001", "Australia");
+//-->&lt;!]]&gt;
+</script></p>
+:ET

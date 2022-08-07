@@ -8,6 +8,12 @@ permalink: /talks/
 
 ### Invited Talks
 
+**Beyond Supervised Deep Learning.**  
+Centre for Industrial AI Research & Innovation (CIARI), RMIT.  
+Australia, Apr 2022.  
+[**link**](https://www.rmit.edu.au/events/2022/april/ciairi-open-day)
+[**recording**](https://youtu.be/bx4HA3iMURQ?t=1724)
+
 **Progressive Learning.**  
 A*Star.  
 Singapore, Aug 2020.
@@ -27,21 +33,22 @@ Melbourne, Australia, Sep 2017.
 **Will Deep Learning Lead to AI?**  
 Melbourne Machine Learning & AI Meetup.  
 Melbourne, Australia, Aug 2017.  
-[**slides**](../assets/talks/Fayek_deeplearningai17.pdf)
 [**link**](https://www.meetup.com/Machine-Learning-AI-Meetup/events/239993347/)
+[**slides**](../assets/talks/Fayek_deeplearningai17.pdf)
 
 **The Types of Power Quality Problems and their Effects on Electrical & Electronic Systems.**  
 Fire Protection Association of Malaysia (FPAM).  
 Kuala Lumpur, Malaysia, Mar 2014.  
-[**prezi**](http://prezi.com/raofccgdehyl/?utm_campaign=share&utm_medium=copy&rc=ex0sharecvc)
-
-<br/>
-
----
-
-<br/>
 
 ### Conference Presentations
+
+**Recent Developments in the Implementation of a Bidirectional LSTM Deep Neural Network for Aircraft Operational Loads Monitoring.**  
+AIAA Scitech 2022 Forum.  
+San Diego, CA, USA, January 2022.
+
+**Deep Learning Airframe Load Prediction: A Data-Driven System for Aircraft Structural Health Management.**  
+19th Australian International Aerospace Congress (AIAC).  
+Melbourne, Australia, November 2021.
 
 **Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data.**  
 29th International Joint Conference on Artificial Intelligence (IJCAI).  
@@ -83,16 +90,9 @@ Kuala Lumpur, Malaysia, Jun 2014.
 18th International Conference on Methods & Models in Automation & Robotics (MMAR).  
 Miedzyzdroje, Poland, Aug 2013.
 
-<br/>
-
----
-
-<br/>
-
 ### Panel Discussions
 
 **Talking Computers: How Voice Technology is Changing the Human Machine Interaction.**  
 ACMI X, Academy Xi, and FAB9.  
 Melbourne, Australia, Jun 2018.  
 [**link**](https://www.acmi.net.au/events/talking-computers-how-voice-technology-changing-human-machine-interaction/)
-

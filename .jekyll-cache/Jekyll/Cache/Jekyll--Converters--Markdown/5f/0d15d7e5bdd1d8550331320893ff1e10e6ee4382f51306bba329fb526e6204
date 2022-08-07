@@ -1,0 +1,113 @@
+I"p<p><strong>Update #1:</strong> Post updated to reflect macOS’ move to zsh and the move to Python3 (09/06/2020).</p>
+
+<p>Every year I do a clean install of the latest macOS, to mostly get rid of the things I accumulated throughout the year that I no longer use and force myself to do some housekeeping. 
+Whether after a clean install or just getting my hands on a new Mac, I find myself going through the same process every time.
+In this post, I document this workflow for my future self and hopefully for the benefit of others.</p>
+
+<h1 id="before">Before</h1>
+
+<p>Back in the day, backing up all of my data just before a clean install was a painful process but thanks to iCloud, which now takes care of backing up my bookmarks, passwords, etc., it is now a straightforward process.
+All I have to do is copy my files in <code class="language-plaintext highlighter-rouge">~/$USER</code> to an external hard drive. 
+P.S. I do this in addition to the Time Machine backup just in case!</p>
+
+<h1 id="format">Format</h1>
+
+<p>Prepare a bootable macOS installer, erase the main drive, and install the OS.
+A nice guide for this can be found <a href="https://www.macrumors.com/how-to/perform-clean-install-macos-catalina/">here</a>.</p>
+
+<h1 id="settings--software">Settings &amp; Software</h1>
+
+<p>First, copy your files back and change the trackpad, keyboard, user, etc. settings back to your liking.
+Don’t forget to turn off font smoothing. 
+I also have a bunch of dot files that contain paths, aliases, etc. to make things easier. 
+I keep these files in this Github <a href="https://github.com/haythamfayek/dotfiles">repository</a>, some of these files might be useful.</p>
+
+<p>Also, install your favorite editor, TeX/iWork/Office, and other software you regularly rely on, as well as, themes and colors.</p>
+
+<p>The remainder of the workflow will be run from the terminal.</p>
+
+<h1 id="command-line-tools">Command Line Tools</h1>
+
+<p>Second, we’ll install the command line tools:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">xcode-select <span class="nt">--install</span> </code></pre></figure>
+
+<p>Don’t forget to accept the license agreement after installation before moving on if you’re installing Xcode.</p>
+
+<h1 id="package-manager">Package Manager</h1>
+
+<p>Install a package manager, <a href="https://brew.sh">Homebrew</a> (or <a href="https://www.macports.org">Macports</a>):</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">/usr/bin/ruby <span class="nt">-e</span> <span class="s2">"</span><span class="si">$(</span>curl <span class="nt">-fsSL</span> https://raw.githubusercontent.com/Homebrew/install/master/install<span class="si">)</span><span class="s2">"</span></code></pre></figure>
+
+<h1 id="some-standard-packages">Some Standard Packages</h1>
+
+<p>A version control system - <a href="https://git-scm.com/">Git</a> (or preferred alternative):</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">brew <span class="nb">install </span>git
+git config <span class="nt">--global</span> user.name <span class="s2">"Your Name Here"</span>
+git config <span class="nt">--global</span> user.email <span class="s2">"your_email@youremail.com"</span>
+git config <span class="nt">--global</span> credential.helper osxkeychain</code></pre></figure>
+
+<p>A minimal <a href="https://github.com/haythamfayek/dotfiles/.gitconfig">.gitconfig</a> for Git settings.</p>
+
+<p>A C compiler - <a href="https://gcc.gnu.org">GCC</a>; this is also a dependency for later packages:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">brew <span class="nb">install </span>gcc</code></pre></figure>
+
+<p>Python3:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">brew <span class="nb">install </span>python</code></pre></figure>
+
+<p>The world’s best text editor :) - <a href="http://www.vim.org">Vim</a>:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">brew <span class="nb">install </span>vim</code></pre></figure>
+
+<p>A minimal <a href="https://github.com/haythamfayek/dotfiles/.vimrc">.vimrc</a> for some sensible vim settings.</p>
+
+<p>It’s useful to have Ruby and Gem installed:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">brew <span class="nb">install </span>ruby</code></pre></figure>
+
+<p>This website is built with <a href="https://jekyllrb.com">jekyll</a>:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">gem <span class="nb">install</span> <span class="nt">--user-install</span> bundler jekyll</code></pre></figure>
+
+<h1 id="scientific-stack">Scientific Stack</h1>
+
+<p>I used to follow a somewhat involved process. 
+Now, installing the usual suspects <a href="http://www.numpy.org">NumPy</a>, <a href="https://www.scipy.org">SciPy</a>, <a href="https://matplotlib.org">MatPlotLib</a>, <a href="http://jupyter.org">Jupyter</a>, and <a href="https://virtualenv.pypa.io/en/stable/">Virtualenv</a> is as simple as:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">python3 <span class="nt">-m</span> pip <span class="nb">install </span>numpy
+python3 <span class="nt">-m</span> pip <span class="nb">install </span>scipy
+python3 <span class="nt">-m</span> pip <span class="nb">install </span>matplotlib
+python3 <span class="nt">-m</span> pip <span class="nb">install </span>jupyter
+python3 <span class="nt">-m</span> pip <span class="nb">install </span>virtualenv</code></pre></figure>
+
+<p>Other packages should probably be installed within a virtual environment.</p>
+
+<p>(While you’re at it, do consider donating :) to the open-source community.)</p>
+
+<p>Finally, the machine learning toys - <a href="http://scikit-learn.org">scikit-learn</a> and <a href="http://pytorch.org">PyTorch</a>:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">python3 <span class="nt">-m</span> pip <span class="nb">install </span>scikit-learn
+python3 <span class="nt">-m</span> pip <span class="nb">install </span>torch</code></pre></figure>
+
+<h1 id="end">End</h1>
+
+<p>That’s all folks!
+I find this to be a minimal setup to get up and running.
+Other tools can be installed later when needed and probably within the project scope.</p>
+
+<p><br /></p>
+
+<p><strong>Citation:</strong></p>
+
+<figure class="highlight"><pre><code class="language-tex" data-lang="tex">@misc<span class="p">{</span>fayek2018,
+  title   = "Mac Machine Learning Research <span class="p">&amp;</span> Dev Setup",
+  author  = "Haytham M. Fayek",
+  year    = "2018",
+  url     = "https://haythamfayek.com/2018/01/14/mac-ml-setup.html"
+<span class="p">}</span></code></pre></figure>
+
+:ET

@@ -1,0 +1,251 @@
+I"i{<p>Speech processing plays an important role in any speech system whether its Automatic Speech Recognition (ASR) or speaker recognition or something else.
+Mel-Frequency Cepstral Coefficients (MFCCs) were very popular features for a long time; but more recently, filter banks are becoming increasingly popular.
+In this post, I will discuss filter banks and MFCCs and why are filter banks becoming increasingly popular.</p>
+
+<p>Computing filter banks and MFCCs involve somewhat the same procedure, where in both cases filter banks are computed and with a few more extra steps MFCCs can be obtained.
+In a nutshell, a signal goes through a pre-emphasis filter; then gets sliced into (overlapping) frames and a window function is applied to each frame; afterwards, we do a Fourier transform on each frame (or more specifically a Short-Time Fourier Transform) and calculate the power spectrum; and subsequently compute the filter banks.
+To obtain MFCCs, a Discrete Cosine Transform (DCT) is applied to the filter banks retaining a number of the resulting coefficients while the rest are discarded.
+A final step in both cases, is mean normalization.</p>
+
+<h2 id="setup">Setup</h2>
+
+<p>For this post, I used a 16-bit PCM wav file from <a href="http://www.voiptroubleshooter.com/open_speech/american.html">here</a>, called “OSR_us_000_0010_8k.wav”, which has a sampling frequency of 8000 Hz.
+The wav file is a clean speech signal comprising a single voice uttering some sentences with some pauses in-between.
+For simplicity, I used the first 3.5 seconds of the signal which corresponds roughly to the first sentence in the wav file.</p>
+
+<p>I’ll be using Python 2.7.x, NumPy and SciPy.
+Some of the code used in this post is based on code available in this <a href="https://github.com/jameslyons/python_speech_features">repository</a>.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="nn">numpy</span>
+<span class="kn">import</span> <span class="nn">scipy.io.wavfile</span>
+<span class="kn">from</span> <span class="nn">scipy.fftpack</span> <span class="kn">import</span> <span class="n">dct</span>
+
+<span class="n">sample_rate</span><span class="p">,</span> <span class="n">signal</span> <span class="o">=</span> <span class="n">scipy</span><span class="p">.</span><span class="n">io</span><span class="p">.</span><span class="n">wavfile</span><span class="p">.</span><span class="n">read</span><span class="p">(</span><span class="s">'OSR_us_000_0010_8k.wav'</span><span class="p">)</span>  <span class="c1"># File assumed to be in the same directory
+</span><span class="n">signal</span> <span class="o">=</span> <span class="n">signal</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="nb">int</span><span class="p">(</span><span class="mf">3.5</span> <span class="o">*</span> <span class="n">sample_rate</span><span class="p">)]</span>  <span class="c1"># Keep the first 3.5 seconds</span></code></pre></figure>
+
+<p>The raw signal has the following form in the time domain:</p>
+
+<p><img src="/assets/posts/post1/time_signal.jpg" alt="Signal in the Time Domain" title="Raw Time Signal" />
+<em>Signal in the Time Domain</em></p>
+
+<h2 id="pre-emphasis">Pre-Emphasis</h2>
+
+<p>The first step is to apply a pre-emphasis filter on the signal to amplify the high frequencies.
+A pre-emphasis filter is useful in several ways: (1) balance the frequency spectrum since high frequencies usually have smaller magnitudes compared to lower frequencies, (2) avoid numerical problems during the Fourier transform operation and (3) may also improve the Signal-to-Noise Ratio (SNR).</p>
+
+<p>The pre-emphasis filter can be applied to a signal \(x\) using the first order filter in the following equation:</p>
+
+<p>\[y(t) = x(t) - \alpha x(t-1)\]</p>
+
+<p>which can be easily implemented using the following line, where typical values for the filter coefficient (\(\alpha\)) are 0.95 or 0.97, <code class="language-plaintext highlighter-rouge">pre_emphasis = 0.97</code>:</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">emphasized_signal</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">signal</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">signal</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="o">-</span> <span class="n">pre_emphasis</span> <span class="o">*</span> <span class="n">signal</span><span class="p">[:</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span></code></pre></figure>
+
+<p><a href="http://qr.ae/8GFgeI">Pre-emphasis has a modest effect in modern systems</a>, mainly because most of the motivations for the pre-emphasis filter can be achieved using mean normalization (discussed later in this post) except for avoiding the Fourier transform numerical issues which should not be a problem in modern FFT implementations.</p>
+
+<p>The signal after pre-emphasis has the following form in the time domain:</p>
+
+<p><img src="/assets/posts/post1/emphasized_time_signal.jpg" alt="Signal in Time Domain" title="Emphasized Time Signal" />
+<em>Signal in the Time Domain after Pre-Emphasis</em></p>
+
+<h2 id="framing">Framing</h2>
+
+<p>After pre-emphasis, we need to split the signal into short-time frames.
+The rationale behind this step is that frequencies in a signal change over time, so in most cases it doesn’t make sense to do the Fourier transform across the entire signal in that we would lose the frequency contours of the signal over time.
+To avoid that, we can safely assume that frequencies in a signal are stationary over a very short period of time.
+Therefore, by doing a Fourier transform over this short-time frame, we can obtain a good approximation of the frequency contours of the signal by concatenating adjacent frames.</p>
+
+<p>Typical frame sizes in speech processing range from 20 ms to 40 ms with 50% (+/-10%) overlap between consecutive frames.
+Popular settings are 25 ms for the frame size, <code class="language-plaintext highlighter-rouge">frame_size = 0.025</code> and a 10 ms stride (15 ms overlap), <code class="language-plaintext highlighter-rouge">frame_stride = 0.01</code>.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">frame_length</span><span class="p">,</span> <span class="n">frame_step</span> <span class="o">=</span> <span class="n">frame_size</span> <span class="o">*</span> <span class="n">sample_rate</span><span class="p">,</span> <span class="n">frame_stride</span> <span class="o">*</span> <span class="n">sample_rate</span>  <span class="c1"># Convert from seconds to samples
+</span><span class="n">signal_length</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">emphasized_signal</span><span class="p">)</span>
+<span class="n">frame_length</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="n">frame_length</span><span class="p">))</span>
+<span class="n">frame_step</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="n">frame_step</span><span class="p">))</span>
+<span class="n">num_frames</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">ceil</span><span class="p">(</span><span class="nb">float</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="nb">abs</span><span class="p">(</span><span class="n">signal_length</span> <span class="o">-</span> <span class="n">frame_length</span><span class="p">))</span> <span class="o">/</span> <span class="n">frame_step</span><span class="p">))</span>  <span class="c1"># Make sure that we have at least 1 frame
+</span>
+<span class="n">pad_signal_length</span> <span class="o">=</span> <span class="n">num_frames</span> <span class="o">*</span> <span class="n">frame_step</span> <span class="o">+</span> <span class="n">frame_length</span>
+<span class="n">z</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">zeros</span><span class="p">((</span><span class="n">pad_signal_length</span> <span class="o">-</span> <span class="n">signal_length</span><span class="p">))</span>
+<span class="n">pad_signal</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">emphasized_signal</span><span class="p">,</span> <span class="n">z</span><span class="p">)</span> <span class="c1"># Pad Signal to make sure that all frames have equal number of samples without truncating any samples from the original signal
+</span>
+<span class="n">indices</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">tile</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">frame_length</span><span class="p">),</span> <span class="p">(</span><span class="n">num_frames</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span> <span class="o">+</span> <span class="n">numpy</span><span class="p">.</span><span class="n">tile</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">num_frames</span> <span class="o">*</span> <span class="n">frame_step</span><span class="p">,</span> <span class="n">frame_step</span><span class="p">),</span> <span class="p">(</span><span class="n">frame_length</span><span class="p">,</span> <span class="mi">1</span><span class="p">)).</span><span class="n">T</span>
+<span class="n">frames</span> <span class="o">=</span> <span class="n">pad_signal</span><span class="p">[</span><span class="n">indices</span><span class="p">.</span><span class="n">astype</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">int32</span><span class="p">,</span> <span class="n">copy</span><span class="o">=</span><span class="bp">False</span><span class="p">)]</span></code></pre></figure>
+
+<h2 id="window">Window</h2>
+
+<p>After slicing the signal into frames, we apply a window function such as the Hamming window to each frame. A Hamming window has the following form:</p>
+
+<p>\[w[n] = 0.54 − 0.46 cos ( \frac{2πn}{N − 1} )\]</p>
+
+<p>where, \(0 \leq n \leq N - 1\), \(N\) is the window length. Plotting the previous equation yields the following plot:</p>
+
+<p class="half-size-center"><img src="/assets/posts/post1/hamming_window.jpg" alt="Hamming Window" title="Hamming Window" />
+<em>Hamming Window</em></p>
+
+<p>There are several reasons why we need to apply a window function to the frames, notably to counteract the assumption made by the FFT that the data is infinite and to reduce spectral leakage.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">frames</span> <span class="o">*=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">hamming</span><span class="p">(</span><span class="n">frame_length</span><span class="p">)</span>
+<span class="c1"># frames *= 0.54 - 0.46 * numpy.cos((2 * numpy.pi * n) / (frame_length - 1))  # Explicit Implementation **</span></code></pre></figure>
+
+<h2 id="fourier-transform-and-power-spectrum">Fourier-Transform and Power Spectrum</h2>
+
+<p>We can now do an \(N\)-point FFT on each frame to calculate the frequency spectrum, which is also called Short-Time Fourier-Transform (STFT), where \(N\) is typically 256 or 512, <code class="language-plaintext highlighter-rouge">NFFT = 512</code>; and then compute the power spectrum (periodogram) using the following equation:</p>
+
+<p>\[P = \frac{|FFT(x_i)|^2}{N}\]</p>
+
+<p>where, \(x_i\) is the \(i^{th}\) frame of signal \(x\). This could be implemented with the following lines:</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">mag_frames</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">absolute</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">fft</span><span class="p">.</span><span class="n">rfft</span><span class="p">(</span><span class="n">frames</span><span class="p">,</span> <span class="n">NFFT</span><span class="p">))</span>  <span class="c1"># Magnitude of the FFT
+</span><span class="n">pow_frames</span> <span class="o">=</span> <span class="p">((</span><span class="mf">1.0</span> <span class="o">/</span> <span class="n">NFFT</span><span class="p">)</span> <span class="o">*</span> <span class="p">((</span><span class="n">mag_frames</span><span class="p">)</span> <span class="o">**</span> <span class="mi">2</span><span class="p">))</span>  <span class="c1"># Power Spectrum</span></code></pre></figure>
+
+<h2 id="filter-banks">Filter Banks</h2>
+
+<p>The final step to computing filter banks is applying triangular filters, typically 40 filters, <code class="language-plaintext highlighter-rouge">nfilt = 40</code> on a Mel-scale to the power spectrum to extract frequency bands.
+The Mel-scale aims to mimic the non-linear human ear perception of sound, by being more discriminative at lower frequencies and less discriminative at higher frequencies.
+We can convert between Hertz (\(f\)) and Mel (\(m\)) using the following equations:</p>
+
+<p>\[m = 2595 \log_{10} (1 + \frac{f}{700})\]</p>
+
+<p>\[f = 700 (10^{m/2595} - 1) \]</p>
+
+<p>Each filter in the filter bank is triangular having a response of 1 at the center frequency and decrease linearly towards 0 till it reaches the center frequencies of the two adjacent filters where the response is 0, as shown in this figure:</p>
+
+<p><img src="/assets/posts/post1/mel_filters.jpg" alt="Mel-Scaled Filters" title="Mel-Scaled Filters" />
+<em>Filter bank on a Mel-Scale</em></p>
+
+<p>This can be modeled by the following equation (taken from <a href="http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/">here</a>):</p>
+
+<p>\[
+ H_m(k) =
+  \begin{cases}
+      \hfill 0                                      \hfill &amp; k &lt; f(m - 1) \<br />
+      \<br />
+      \hfill \dfrac{k - f(m - 1)}{f(m) - f(m - 1)}  \hfill &amp; f(m - 1) \leq k &lt; f(m) \<br />
+      \<br />
+      \hfill 1                                      \hfill &amp; k = f(m) \<br />
+      \<br />
+      \hfill \dfrac{f(m + 1) - k}{f(m + 1) - f(m)}  \hfill &amp; f(m) &lt; k \leq f(m + 1) \<br />
+      \<br />
+      \hfill 0                                      \hfill &amp; k &gt; f(m + 1) \<br />
+  \end{cases}
+\]</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">low_freq_mel</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">high_freq_mel</span> <span class="o">=</span> <span class="p">(</span><span class="mi">2595</span> <span class="o">*</span> <span class="n">numpy</span><span class="p">.</span><span class="n">log10</span><span class="p">(</span><span class="mi">1</span> <span class="o">+</span> <span class="p">(</span><span class="n">sample_rate</span> <span class="o">/</span> <span class="mi">2</span><span class="p">)</span> <span class="o">/</span> <span class="mi">700</span><span class="p">))</span>  <span class="c1"># Convert Hz to Mel
+</span><span class="n">mel_points</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">linspace</span><span class="p">(</span><span class="n">low_freq_mel</span><span class="p">,</span> <span class="n">high_freq_mel</span><span class="p">,</span> <span class="n">nfilt</span> <span class="o">+</span> <span class="mi">2</span><span class="p">)</span>  <span class="c1"># Equally spaced in Mel scale
+</span><span class="n">hz_points</span> <span class="o">=</span> <span class="p">(</span><span class="mi">700</span> <span class="o">*</span> <span class="p">(</span><span class="mi">10</span><span class="o">**</span><span class="p">(</span><span class="n">mel_points</span> <span class="o">/</span> <span class="mi">2595</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span><span class="p">))</span>  <span class="c1"># Convert Mel to Hz
+</span><span class="nb">bin</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">floor</span><span class="p">((</span><span class="n">NFFT</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span> <span class="o">*</span> <span class="n">hz_points</span> <span class="o">/</span> <span class="n">sample_rate</span><span class="p">)</span>
+
+<span class="n">fbank</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">zeros</span><span class="p">((</span><span class="n">nfilt</span><span class="p">,</span> <span class="nb">int</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">floor</span><span class="p">(</span><span class="n">NFFT</span> <span class="o">/</span> <span class="mi">2</span> <span class="o">+</span> <span class="mi">1</span><span class="p">))))</span>
+<span class="k">for</span> <span class="n">m</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">nfilt</span> <span class="o">+</span> <span class="mi">1</span><span class="p">):</span>
+    <span class="n">f_m_minus</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">bin</span><span class="p">[</span><span class="n">m</span> <span class="o">-</span> <span class="mi">1</span><span class="p">])</span>   <span class="c1"># left
+</span>    <span class="n">f_m</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">bin</span><span class="p">[</span><span class="n">m</span><span class="p">])</span>             <span class="c1"># center
+</span>    <span class="n">f_m_plus</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">bin</span><span class="p">[</span><span class="n">m</span> <span class="o">+</span> <span class="mi">1</span><span class="p">])</span>    <span class="c1"># right
+</span>
+    <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">f_m_minus</span><span class="p">,</span> <span class="n">f_m</span><span class="p">):</span>
+        <span class="n">fbank</span><span class="p">[</span><span class="n">m</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">k</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="n">k</span> <span class="o">-</span> <span class="nb">bin</span><span class="p">[</span><span class="n">m</span> <span class="o">-</span> <span class="mi">1</span><span class="p">])</span> <span class="o">/</span> <span class="p">(</span><span class="nb">bin</span><span class="p">[</span><span class="n">m</span><span class="p">]</span> <span class="o">-</span> <span class="nb">bin</span><span class="p">[</span><span class="n">m</span> <span class="o">-</span> <span class="mi">1</span><span class="p">])</span>
+    <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">f_m</span><span class="p">,</span> <span class="n">f_m_plus</span><span class="p">):</span>
+        <span class="n">fbank</span><span class="p">[</span><span class="n">m</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">k</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="nb">bin</span><span class="p">[</span><span class="n">m</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span> <span class="o">-</span> <span class="n">k</span><span class="p">)</span> <span class="o">/</span> <span class="p">(</span><span class="nb">bin</span><span class="p">[</span><span class="n">m</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span> <span class="o">-</span> <span class="nb">bin</span><span class="p">[</span><span class="n">m</span><span class="p">])</span>
+<span class="n">filter_banks</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">dot</span><span class="p">(</span><span class="n">pow_frames</span><span class="p">,</span> <span class="n">fbank</span><span class="p">.</span><span class="n">T</span><span class="p">)</span>
+<span class="n">filter_banks</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">where</span><span class="p">(</span><span class="n">filter_banks</span> <span class="o">==</span> <span class="mi">0</span><span class="p">,</span> <span class="n">numpy</span><span class="p">.</span><span class="n">finfo</span><span class="p">(</span><span class="nb">float</span><span class="p">).</span><span class="n">eps</span><span class="p">,</span> <span class="n">filter_banks</span><span class="p">)</span>  <span class="c1"># Numerical Stability
+</span><span class="n">filter_banks</span> <span class="o">=</span> <span class="mi">20</span> <span class="o">*</span> <span class="n">numpy</span><span class="p">.</span><span class="n">log10</span><span class="p">(</span><span class="n">filter_banks</span><span class="p">)</span>  <span class="c1"># dB</span></code></pre></figure>
+
+<p>After applying the filter bank to the power spectrum (periodogram) of the signal, we obtain the following spectrogram:</p>
+
+<p><img src="/assets/posts/post1/filter_banks_raw.jpg" alt="Unnormalized Filter Banks" title="Unnormalized Filter Banks" />
+<em>Spectrogram of the Signal</em></p>
+
+<p>If the Mel-scaled filter banks were the desired features then we can skip to mean normalization.</p>
+
+<h2 id="mel-frequency-cepstral-coefficients-mfccs">Mel-frequency Cepstral Coefficients (MFCCs)</h2>
+
+<p>It turns out that filter bank coefficients computed in the previous step are highly correlated, which could be problematic in some machine learning algorithms.
+Therefore, we can apply Discrete Cosine Transform (DCT) to decorrelate the filter bank coefficients and yield a compressed representation of the filter banks.
+Typically, for Automatic Speech Recognition (ASR), the resulting cepstral coefficients 2-13 are retained and the rest are discarded; <code class="language-plaintext highlighter-rouge">num_ceps = 12</code>.
+The <a href="http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/">reasons for discarding the other coefficients</a> is that they represent fast changes in the filter bank coefficients and these fine details don’t contribute to Automatic Speech Recognition (ASR).</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">mfcc</span> <span class="o">=</span> <span class="n">dct</span><span class="p">(</span><span class="n">filter_banks</span><span class="p">,</span> <span class="nb">type</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">norm</span><span class="o">=</span><span class="s">'ortho'</span><span class="p">)[:,</span> <span class="mi">1</span> <span class="p">:</span> <span class="p">(</span><span class="n">num_ceps</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)]</span> <span class="c1"># Keep 2-13</span></code></pre></figure>
+
+<p>One may apply sinusoidal liftering<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> to the MFCCs to de-emphasize higher MFCCs which has been claimed to improve speech recognition in noisy signals.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="p">(</span><span class="n">nframes</span><span class="p">,</span> <span class="n">ncoeff</span><span class="p">)</span> <span class="o">=</span> <span class="n">mfcc</span><span class="p">.</span><span class="n">shape</span>
+<span class="n">n</span> <span class="o">=</span> <span class="n">numpy</span><span class="p">.</span><span class="n">arange</span><span class="p">(</span><span class="n">ncoeff</span><span class="p">)</span>
+<span class="n">lift</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">+</span> <span class="p">(</span><span class="n">cep_lifter</span> <span class="o">/</span> <span class="mi">2</span><span class="p">)</span> <span class="o">*</span> <span class="n">numpy</span><span class="p">.</span><span class="n">sin</span><span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">pi</span> <span class="o">*</span> <span class="n">n</span> <span class="o">/</span> <span class="n">cep_lifter</span><span class="p">)</span>
+<span class="n">mfcc</span> <span class="o">*=</span> <span class="n">lift</span>  <span class="c1">#*</span></code></pre></figure>
+
+<p>The resulting MFCCs:</p>
+
+<p><img src="/assets/posts/post1/mfcc_raw.jpg" alt="Unnormalized MFCCs" title="Unnormalized MFCCs" />
+<em>MFCCs</em></p>
+
+<h2 id="mean-normalization">Mean Normalization</h2>
+
+<p>As previously mentioned, to balance the spectrum and improve the Signal-to-Noise (SNR), we can simply subtract the mean of each coefficient from all frames.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">filter_banks</span> <span class="o">-=</span> <span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">mean</span><span class="p">(</span><span class="n">filter_banks</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span> <span class="o">+</span> <span class="mf">1e-8</span><span class="p">)</span></code></pre></figure>
+
+<p>The mean-normalized filter banks:</p>
+
+<p><img src="/assets/posts/post1/filter_banks.jpg" alt="Normalized Filter Banks" title="Normalized Filter Banks" />
+<em>Normalized Filter Banks</em></p>
+
+<p>and similarly for MFCCs:</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="n">mfcc</span> <span class="o">-=</span> <span class="p">(</span><span class="n">numpy</span><span class="p">.</span><span class="n">mean</span><span class="p">(</span><span class="n">mfcc</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span> <span class="o">+</span> <span class="mf">1e-8</span><span class="p">)</span></code></pre></figure>
+
+<p>The mean-normalized MFCCs:</p>
+
+<p><img src="/assets/posts/post1/mfcc.jpg" alt="Normalized MFCCs" title="Normalized MFCCs" />
+<em>Normalized MFCCs</em></p>
+
+<h2 id="filter-banks-vs-mfccs">Filter Banks vs MFCCs</h2>
+
+<p>To this point, the steps to compute filter banks and MFCCs were discussed in terms of their motivations and implementations.
+It is interesting to note that all steps needed to compute filter banks were motivated by the nature of the speech signal and the human perception of such signals.
+On the contrary, the extra steps needed to compute MFCCs were motivated by the limitation of some machine learning algorithms.
+The Discrete Cosine Transform (DCT) was needed to decorrelate filter bank coefficients, a process also referred to as whitening.
+In particular, MFCCs were very popular when Gaussian Mixture Models - Hidden Markov Models (GMMs-HMMs) were very popular and together, MFCCs and GMMs-HMMs co-evolved to be the standard way of doing Automatic Speech Recognition (ASR)<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.
+With the advent of Deep Learning in speech systems, one might question if MFCCs are still the right choice given that deep neural networks are less susceptible to highly correlated input and therefore the Discrete Cosine Transform (DCT) is no longer a necessary step.
+It is beneficial to note that Discrete Cosine Transform (DCT) is a linear transformation, and therefore undesirable as it discards some information in speech signals which are highly non-linear.</p>
+
+<p>It is sensible to question if the Fourier Transform is a necessary operation.
+Given that the Fourier Transform itself is also a linear operation, it might be beneficial to ignore it and attempt to learn directly from the signal in the time domain.
+Indeed, some recent work has already attempted this and positive results were reported.
+However, the Fourier transform operation is a difficult operation to learn and may arguably increase the amount of data and model complexity needed to achieve the same performance.
+Moreover, in doing Short-Time Fourier Transform (STFT), we’ve assumed the signal to be stationary within this short time and therefore the linearity of the Fourier transform would not pose a critical problem.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>In this post, we’ve explored the procedure to compute Mel-scaled filter banks and Mel-Frequency Cepstrum Coefficients (MFCCs).
+The motivations and implementation of each step in the procedure were discussed.
+We’ve also argued the reasons behind the increasing popularity of filter banks compared to MFCCs.</p>
+
+<p><strong>tl;dr</strong>:
+Use Mel-scaled filter banks if the machine learning algorithm is not susceptible to highly correlated input.
+Use MFCCs if the machine learning algorithm is susceptible to correlated input.</p>
+
+<p><br /></p>
+
+<p><strong>Citation:</strong></p>
+
+<figure class="highlight"><pre><code class="language-tex" data-lang="tex">@misc<span class="p">{</span>fayek2016,
+  title   = "Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What's In-Between",
+  author  = "Haytham M. Fayek",
+  year    = "2016",
+  url     = "https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html"
+<span class="p">}</span></code></pre></figure>
+
+<p><br /></p>
+
+<hr />
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Liftering is filtering in the cepstral domain. Note the abuse of notation in <em>spec</em>tral and <em>ceps</em>tral with <em>fil</em>tering and <em>lif</em>tering respectively. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>An excellent discussion on this topic is in <a href="https://tspace.library.utoronto.ca/bitstream/1807/44123/1/Mohamed_Abdel-rahman_201406_PhD_thesis.pdf">this thesis</a>. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

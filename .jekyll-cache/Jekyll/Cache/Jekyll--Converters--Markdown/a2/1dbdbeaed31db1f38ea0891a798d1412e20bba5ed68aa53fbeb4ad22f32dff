@@ -1,0 +1,47 @@
+I"ø<p><strong>Dr Haytham Fayek</strong><br />
+School of Computing Technologies<br />
+Royal Melbourne Institute of Technology (RMIT)<br />
+Building 14, Level 11, Room 03<br />
+124 La Trobe Street, Melbourne VIC 3000<br />
+Australia</p>
+
+<p><strong>Email:</strong> 
+<script type="text/javascript">
+<!--//-->&lt;![CDATA[//&gt;<!--
+function email(e, d) {
+   if (!document.write) return false;
+   if (document.write) {
+      var e; var d;
+      document.write('<a href="' + 'mailto:' + e + '@' + d + '">' + e + '@' + d + '<\/a>');
+   }
+}
+email("haytham.fayek", "ieee.org");
+//-->&lt;!]]&gt;
+</script><br />
+<strong>Phone:</strong> 
+<script type="text/javascript">
+<!--//-->&lt;![CDATA[//&gt;<!--
+function phone(c, n, e) {
+   if (!document.write) return false;
+   if (document.write) {
+      var c; var n; var e;
+      document.write(c + ' ' + n + ' ' + e);
+   }
+}
+phone("+61", "9925", "0858");
+//-->&lt;!]]&gt;
+</script><br />
+<strong>Postal:</strong> 
+<script type="text/javascript">
+<!--//-->&lt;![CDATA[//&gt;<!--
+function address(a, s, c) {
+   if (!document.write) return false;
+   if (document.write) {
+      var a; var s; var c;
+      document.write(a + ', ' + s + ', ' + c);
+   }
+}
+address("GPO Box 2476", "Melbourne VIC 3001", "Australia");
+//-->&lt;!]]&gt;
+</script></p>
+:ET

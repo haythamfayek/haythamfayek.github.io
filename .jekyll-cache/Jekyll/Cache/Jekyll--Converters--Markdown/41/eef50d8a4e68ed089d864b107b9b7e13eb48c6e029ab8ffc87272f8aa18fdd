@@ -1,0 +1,223 @@
+I"8<h3 id="google-scholar--bibtex"><a href="https://scholar.google.com/citations?user=l5T9RtcAAAAJ">Google Scholar</a> | <a href="../assets/bibtex/Fayek.bib">BibTeX</a></h3>
+<!-- [ORCID](https://orcid.org/0000-0002-1840-7605) | -->
+
+<p><br /></p>
+
+<hr />
+
+<p><br /></p>
+
+<h3 id="papers">Papers</h3>
+
+<h4 id="2022">2022</h4>
+
+<p>Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.<br />
+<strong>A Case for personalised non-player character companion design.</strong><br />
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761">link</a>
+<a href="../assets/bibtex/Pretty2022.bib">bib</a></p>
+
+<p>Nermine Hendy, Haytham M. Fayek, and Akram Al-Hourani.<br />
+<strong>Deep learning approaches for air-writing using single UWB radar.</strong><br />
+IEEE Sensors Journal, May 2022.<br />
+<a href="https://ieeexplore.ieee.org/document/9768813">link</a>
+<a href="https://figshare.com/articles/dataset/Dataset_for_Air-writing_recognition_based_on_Ultra-wide_band_Radar_Sensor/20225907"><strong>data</strong></a>
+<a href="../assets/bibtex/Hendy2022.bib">bib</a></p>
+
+<p>Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.<br />
+<strong>PRE-NAS: Predictor-assisted evolutionary neural architecture search.</strong><br />
+In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, pp. 1066–1074, Jul 2022.<br />
+<a href="https://dl.acm.org/doi/10.1145/3512290.3528727">link</a>
+<a href="https://arxiv.org/pdf/2204.12726.pdf">pdf</a>
+<a href="https://arxiv.org/abs/2204.12726">arXiv</a>
+<a href="../assets/bibtex/Peng2022.bib">bib</a></p>
+
+<p>Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and Arulmurugan Ambikapathi.<br />
+<strong>Knowledge capture and replay for continual learning.</strong><br />
+In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, USA, pp. 337–345, Jan 2022.<br />
+<a href="https://openaccess.thecvf.com/content/WACV2022/html/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.html">link</a>
+<a href="https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf">pdf</a>
+<a href="https://arxiv.org/abs/2012.06789">arXiv</a>
+<a href="../assets/bibtex/Gopalakrishnan2022.bib">bib</a></p>
+
+<p>Michael Candon, Marco Esposito, Haytham M. Fayek, Oleg Levinski, Stephan Koschel, Nish Joseph, Robert Carrese, and Pier Marzocca.<br />
+<strong>Advanced multi-input system identification for next generation aircraft loads monitoring using linear regression, neural networks and deep learning.</strong><br />
+Mechanical Systems and Signal Processing, Jan 2022.<br />
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327022000085">link</a>
+<a href="../assets/bibtex/Candon2022a.bib">bib</a></p>
+
+<p>Michael Candon, Haytham M. Fayek, Oleg Levinski, Stephan Koschel, and Pier Marzocca.<br />
+<strong>Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring.</strong><br />
+In AIAA SciTech Forum, San Diego, USA, Jan 2022.<br />
+<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132">link</a>
+<a href="../assets/bibtex/Candon2022.bib">bib</a></p>
+
+<p>Stephan Koschel, Robert Carrese, Michael Candon, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.<br />
+<strong>Data-driven flight load prediction using modal decomposition techniques.</strong><br />
+In AIAA SciTech Forum, San Diego, USA, Jan 2022.<br />
+<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130">link</a>
+<a href="../assets/bibtex/Koschel2022.bib">bib</a></p>
+
+<h4 id="2021">2021</h4>
+
+<p>Haytham M. Fayek, Michael Candon, Oleg Levinski, Stephan Koschel, and Pier Marzocca<br />
+<strong>Deep learning airframe load prediction: A data-driven system for aircraft structural health management.</strong><br />
+In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.<br />
+<a href="https://search.informit.org/doi/10.3316/informit.414000320822264">link</a>
+<a href="https://search.informit.org/doi/epdf/10.3316/informit.414000320822264">pdf</a>
+<a href="../assets/bibtex/Fayek2021.bib">bib</a></p>
+
+<p>Stephan Koschel, Robert Carrese, Haytham M. Fayek, Pier Marzocca, and Oleg Levinski.<br />
+<strong>Buffet load prediction via frequency response functions.</strong><br />
+In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia, Nov 2021.<br />
+<a href="https://search.informit.org/doi/10.3316/informit.313997164079504">link</a>
+<a href="https://search.informit.org/doi/epdf/10.3316/informit.313997164079504">pdf</a>
+<a href="../assets/bibtex/Koschel2021.bib">bib</a></p>
+
+<p>Haytham M. Fayek and <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a>.<br />
+<strong>Temporal reasoning via audio question answering.</strong> <br />
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, Jul 2020.<br />
+<a href="https://ieeexplore.ieee.org/abstract/document/9145807">link</a>
+<a href="https://arxiv.org/abs/1911.09655">arXiv</a>
+<a href="https://github.com/facebookresearch/daqa">code</a>
+<a href="../assets/bibtex/Fayek2020b.bib">bib</a></p>
+
+<p>Haytham M. Fayek and <a href="https://anuragkr90.github.io">Anurag Kumar</a>.<br />
+<strong>Large scale audiovisual learning of sounds with weakly labeled data.</strong><br />
+In 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, Jul 2020.<br />
+<a href="https://www.ijcai.org/Proceedings/2020/78">link</a>
+<a href="https://www.ijcai.org/Proceedings/2020/0078.pdf">pdf</a>
+<a href="https://arxiv.org/abs/2006.01595">arXiv</a>
+<a href="../assets/bibtex/Fayek2020.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.<br />
+<strong>Progressive learning: A deep learning framework for continual learning.</strong><br />
+Neural Networks, vol. 128, pp. 345–357, May 2020.<br />
+<a href="https://www.sciencedirect.com/science/article/pii/S0893608020301817">link</a>
+<a href="../assets/bibtex/Fayek2020a.bib">bib</a></p>
+
+<p><a href="https://www.aane.in">Sharath Adavanne</a>, Haytham M. Fayek, and Vladimir Tourbabin.<br />
+<strong>Sound event classification and detection with weakly labeled data.</strong><br />
+In 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), New York, USA, pp. 15–19, Oct 2019.<br />
+<a href="http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Adavanne_45.pdf">pdf</a>
+<a href="../assets/bibtex/Adavanne2019.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.<br />
+<strong>On the transferability of representations in neural networks between datasets and tasks.</strong><br />
+In Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS), Montréal, Canada, Dec 2018.<br />
+<a href="https://marcpickett.com/cl2018/CL-2018_paper_19.pdf">pdf</a>
+<a href="https://arxiv.org/abs/1811.12273">arXiv</a>
+<a href="../assets/bibtex/Fayek2018.bib">bib</a></p>
+
+<p>Haytham M. Fayek.<br />
+<strong>MatDL: A lightweight deep learning library in MATLAB.</strong><br />
+The Journal of Open Source Software, vol. 2, no. 19, pp. 413, Nov 2017.<br />
+<a href="https://doi.org/10.21105/joss.00413">link</a>
+<a href="http://www.theoj.org/joss-papers/joss.00413/10.21105.joss.00413.pdf">pdf</a>
+<a href="https://github.com/haythamfayek/MatDL">code</a>
+<a href="../assets/bibtex/Fayek2017b.bib">bib</a></p>
+
+<p>Haytham M. Fayek, <a href="https://lvdmaaten.github.io">Laurens van der Maaten</a>, Griffin D. Romigh, and <a href="http://drravishmehra.com">Ravish Mehra</a>.<br />
+<strong>On data-driven approaches to head-related transfer function personalization.</strong><br />
+In Audio Engineering Society (AES) Convention 143, New York, USA, Oct 2017.<br />
+<a href="http://www.aes.org/e-lib/browse.cfm?elib=19287">link</a>
+<a href="https://www.dropbox.com/s/2se7pqvt9ubr5pd/19287.pdf?dl=0">pdf</a>
+<a href="../assets/bibtex/Fayek2017a.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.<br />
+<strong>Evaluating deep learning architectures for speech emotion recognition.</strong><br />
+Neural Networks, vol. 92, pp. 60–68, Aug 2017.<br />
+<a href="http://doi.org/10.1016/j.neunet.2017.02.013">link</a>
+<a href="../assets/bibtex/Fayek2017.bib">bib</a></p>
+
+<p>Haytham M. Fayek.<br />
+<strong>A deep learning framework for hybrid linguistic-paralinguistic speech systems.</strong><br />
+In 2nd Doctoral Consortium at Interspeech, Berkeley, USA, Sep 2016.<br />
+<a href="http://www.isca-students.org/?q=node/4809">link</a>
+<a href="http://www.isca-students.org/sites/default/files/2ndDC_paper_2.pdf">pdf</a>
+<a href="../assets/bibtex/Fayek2016b.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.<br />
+<strong>On the correlation and transferability of features between automatic speech recognition and speech emotion recognition.</strong><br />
+In 17th Annual Conference of the International Speech Communication Association (Interspeech), San Francisco, USA, pp. 3618–3622, Sep 2016.<br />
+<a href="http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0868.html">link</a>
+<a href="http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0868.PDF">pdf</a>
+<a href="../assets/presentations/Fayek_is16.pdf">slides</a>
+<a href="../assets/bibtex/Fayek2016a.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.<br />
+<strong>Modeling subjectiveness in emotion recognition with deep neural networks: Ensembles vs soft labels.</strong><br />
+In International Joint Conference on Neural Networks (IJCNN), Vancouver, Canada, pp. 566–570, Jul 2016.<br />
+<a href="http://ieeexplore.ieee.org/abstract/document/7727250/">link</a>
+<a href="../assets/presentations/Fayek_ijcnn16.pdf">poster</a>
+<a href="../assets/bibtex/Fayek2016.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.<br />
+<strong>Towards real-time speech emotion recognition using deep neural networks.</strong><br />
+In 9th International Conference on Signal Processing and Communication Systems (ICSPCS), Cairns, Australia, pp. 1–5, Dec 2015.<br />
+<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&amp;arnumber=7391796&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7391796">link</a>
+<a href="../assets/bibtex/Fayek2015.bib">bib</a></p>
+
+<p>P. N. Q. Nhon, Irraivan Elamvazuthi, Haytham M. Fayek, S. Parasuraman, and M.K.A. Ahamed Khan.<br />
+<strong>Intelligent control of rehabilitation robot: Auto tuning PID controller with interval type 2 fuzzy for DC servomotor.</strong><br />
+Procedia Computer Science, vol. 42, Medical and Rehabilitation Robotics and Instrumentation (MRRI2013), pp. 183–190, Dec 2014.<br />
+<a href="https://doi.org/10.1016/j.procs.2014.11.050">link</a>
+<a href="../assets/bibtex/Nhon2014.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Irraivan Elamvazuthi, N. Perumal, and Bala Venkatesh.<br />
+<strong>A controller based on optimal type-2 fuzzy logic: Systematic design, optimization and real-time implementation.</strong><br />
+ISA Transactions, vol. 53(5), pp. 1583–1591, Sep 2014.<br />
+<a href="http://doi.org/10.1016/j.isatra.2014.06.001">link</a>
+<a href="../assets/bibtex/Fayek2014a.bib">bib</a></p>
+
+<p>Haytham M. Fayek, Irraivan Elamvazuthi, N. Perumal, and Bala Venkatesh.<br />
+<strong>The impact of DFIG and FSIG wind farms on the small signal stability of a power system.</strong><br />
+In 5th International Conference on Intelligent and Advanced Systems (ICIAS), Kuala Lumpur, Malaysia, pp. 1–6, Jun 2014.<br />
+<a href="http://ieeexplore.ieee.org/document/6869505/">link</a>
+<a href="../assets/presentations/Fayek_icias16.pdf">slides</a>
+<a href="../assets/bibtex/Fayek2014.bib">bib</a></p>
+
+<p>Haytham M. Fayek and Irraivan Elamvazuthi.<br />
+<strong>Real-time implementation of a type-2 fuzzy logic controller to control a DC servomotor with different defuzzification methods.</strong><br />
+In 18th International Conference on Methods and Models in Automation and Robotics (MMAR), Miedzyzdroje, Poland, pp. 86–91, Aug 2013.<br />
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6669886">link</a>
+<a href="../assets/bibtex/Fayek2013.bib">bib</a>
+<strong>(Runner up Best Young Author)</strong></p>
+
+<p>Haytham M. Fayek and Irraivan Elamvazuthi.<br />
+<strong>Type-2 fuzzy logic PI (T2FLPI) based DC servomotor control.</strong><br />
+Journal of Applied Sciences Research, vol. 8(5), pp. 2564–-2574, 2012.<br />
+<a href="../assets/bibtex/Fayek2012a.bib">bib</a></p>
+
+<h3 id="theses">Theses</h3>
+
+<p>Haytham M. Fayek.<br />
+<strong>Continual deep learning via progressive learning.</strong><br />
+PhD Thesis, RMIT University, 2019.<br />
+<a href="https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341"><strong>link</strong></a>
+<a href="https://www.dropbox.com/s/a3insiefrgypbf8/Fayek.pdf?dl=0"><strong>pdf</strong></a>
+<a href="../assets/bibtex/Fayek2019.bib"><strong>bib</strong></a></p>
+
+<p>Haytham M. Fayek.<br />
+<strong>Systematic design of optimal type II fuzzy logic controllers with applications to wind power.</strong><br />
+MSc Thesis, Petronas University, 2014.<br />
+<a href="../assets/bibtex/Fayek2014b.bib"><strong>bib</strong></a></p>
+
+<p>Haytham M. Fayek.<br />
+<strong>Fuzzy logic based motor control.</strong><br />
+BEng Thesis, Petronas University, 2012.<br />
+<a href="../assets/bibtex/Fayek2011.bib"><strong>bib</strong></a></p>
+
+<h3 id="patents">Patents</h3>
+
+<p>Haytham M. Fayek A. A. Abokela and Antonio John Miller.<br />
+<strong>Systems and methods for hearing assessment and audio adjustment.</strong><br />
+US Patent App. 16/745,287, Jul 2021.<br />
+<a href="https://patents.google.com/patent/US20210227338A1/en"><strong>link</strong></a>
+<a href="https://patentimages.storage.googleapis.com/65/0d/35/cedcebccd11bba/US20210227338A1.pdf"><strong>pdf</strong></a>
+<a href="../assets/bibtex/Abokela2021.bib"><strong>bib</strong></a></p>
+
+<p>Irraivan Elamvazuthi and Haytham M. Fayek.<br />
+<strong>Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC).</strong><br />
+Patent Filing No. PI2012700978, Nov 2012.<br />
+<a href="../assets/bibtex/Fayek2012.bib"><strong>bib</strong></a></p>
+:ET

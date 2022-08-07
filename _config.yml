@@ -24,6 +24,7 @@ feed:
   excerpt_only: true
 
 header_pages:
+  - publications.md
   - blog.md
 
 # Build settings
