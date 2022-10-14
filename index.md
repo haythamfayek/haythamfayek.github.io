@@ -62,7 +62,7 @@ I am looking for strong students interested in machine learning, so please get i
            e.style.display = 'none';
    }
 </script>
-<a href="javascript:toggle_vis('news')">**Show Previous News**</a>
+<a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
@@ -272,7 +272,7 @@ RMIT, Australia, April 2015.
 
 **Dr Haytham Fayek**  
 School of Computing Technologies  
-Royal Melbourne Institute of Technology (RMIT)  
+Royal Melbourne Institute of Technology (RMIT University)  
 Building 14, Level 11, Room 03  
 124 La Trobe Street, Melbourne VIC 3000  
 Australia  

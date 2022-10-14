@@ -20,7 +20,7 @@ Nermine Hendy, Haytham M. Fayek, and Akram Al-Hourani.
 **Deep learning approaches for air-writing using single UWB radar.**  
 IEEE Sensors Journal, May 2022.  
 [link](https://ieeexplore.ieee.org/document/9768813)
-[**data**](https://figshare.com/articles/dataset/Dataset_for_Air-writing_recognition_based_on_Ultra-wide_band_Radar_Sensor/20225907)
+[data](https://figshare.com/articles/dataset/Dataset_for_Air-writing_recognition_based_on_Ultra-wide_band_Radar_Sensor/20225907)
 [bib](../assets/bibtex/Hendy2022.bib)
 
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
