@@ -6,8 +6,10 @@ title: Haytham Fayek
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
 Artificial Intelligence / Machine Learning Research / Science.  
-Lecturer, [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au).  
+Senior Lecturer, School of Computing Technologies, 
+[Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au).  
 Alumnus, [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
+SMIEEE, MIEAust
 [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [Github](https://github.com/haythamfayek) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
@@ -26,17 +28,13 @@ email("haytham.fayek", "ieee.org");
 //--><!]]>
 </script>
 
-<!--
 <br/>
 
 ## Current
 ---
 <br/>
 
-[Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
-
-I am looking for strong students interested in machine learning, so please get in touch if you would like to work with me at RMIT --- competitive scholarships available. |
--->
+I am looking for strong postdocs and students interested in machine learning, and especially sequence models and graph neural networks, so please get in touch if you would like to work with me at RMIT --- guaranteed funding available. |
 
 <br/>
 
@@ -44,8 +42,9 @@ I am looking for strong students interested in machine learning, so please get i
 ---
 <br/>
 
+| **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
 | **Jul 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'22. |
-| **Jul 2022**: | I was promoted to Senior Member of the [IEEE](https://ieee.org). |
+| **Jul 2022**: | Promoted to Senior Member of the [IEEE](https://ieee.org). |
 | **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
 | **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
@@ -114,7 +113,7 @@ I am looking for strong students interested in machine learning, so please get i
 ---
 <br/>
 
-I am a Lecturer in the Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
+I am a Senior Lecturer in the Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
 
 I was a Postdoctoral Research Scientist at [Meta/Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
 Prior, I received a PhD from RMIT in 2019.
