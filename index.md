@@ -6,10 +6,10 @@ title: Haytham Fayek
 <p><img src="/assets/Haytham.jpg" alt="Haytham" class="profilepicmain"/></p>
 
 Artificial Intelligence / Machine Learning Research / Science.  
-Senior Lecturer, School of Computing Technologies, 
+Senior Lecturer, School of Computing Technologies,  
 [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au).  
 Alumnus, [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
-SMIEEE, MIEAust
+SMIEEE, MIEAust  
 [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [Github](https://github.com/haythamfayek) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
