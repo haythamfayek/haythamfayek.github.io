@@ -9,7 +9,7 @@ Artificial Intelligence / Machine Learning Research / Science.
 Senior Lecturer, School of Computing Technologies,  
 [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au).  
 Alumnus, [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
-SMIEEE, MIEAust  
+SMIEEE, MACM, MIEAust.  
 [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [Github](https://github.com/haythamfayek) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
