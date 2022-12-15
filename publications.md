@@ -9,7 +9,30 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 ### Papers
 
+#### 2023
+
+Halide G. Aydogan, Haytham M. Fayek, Xiuzhen Zhang, Kate E. Niessen, Daniel O. Franke, and Pier Marzocca.  
+**Loads estimation from calibration test with machine learning.**  
+In AIAA Scitech 2023 Forum, 2023.  
+[bib](../assets/bibtex/Aydogan2023a.bib)  
+
+Oleg Levinski, Wim J.C. Verhagen, Vincenzo Muscarello, Michael J. Scott, Haytham M. Fayek, and Pier Marzocca.  
+**An innovative high-fidelity approach to structural health monitoring.**  
+In 20th Australian International Aerospace Congress (AIAC), Melbourne, Australia, 2023.  
+[bib](../assets/bibtex/Levinski2023.bib) 
+
+Halide G. Aydogan, Haytham M. Fayek, Xiuzhen Zhang, Kate E. Niessen, Daniel O. Franke, and Pier Marzocca.  
+**Transfer learning for flight loads estimation by load calibration test data.**  
+In 20th Australian International Aerospace Congress (AIAC), Melbourne, Australia, 2023.  
+[bib](../assets/bibtex/Aydogan2023.bib) 
+
 #### 2022
+
+Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek,and Xiaojun Chang.  
+**PRE-NAS: Evolutionary neural architecture search with predictor.**  
+IEEE Transactions on Evolutionary Computation, 2022.  
+[link](https://ieeexplore.ieee.org/document/9975797) 
+[bib](../assets/bibtex/Peng2022a.bib) 
 
 Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.  
 **A Case for personalised non-player character companion design.**  

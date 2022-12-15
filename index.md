@@ -34,7 +34,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-I am looking for strong postdocs and students interested in machine learning, and especially sequence models and graph neural networks, so please get in touch if you would like to work with me at RMIT --- guaranteed funding available. |
+I am looking for strong postdocs and students interested in machine learning, and especially sequence models and graph neural networks, so please get in touch if you would like to work with me at RMIT --- guaranteed funding available.
 
 <br/>
 
@@ -42,9 +42,13 @@ I am looking for strong postdocs and students interested in machine learning, an
 ---
 <br/>
 
+| **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
 | **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
+| **Sep 2022**: | Paper: Loads estimation from calibration test with machine learning, accepted at SciTech'23. |
+| **Sep 2022**: | Paper: An innovative high-fidelity approach to structural health monitoring, accepted at AIAC'23. |
+| **Sep 2022**: | Paper: Transfer learning for flight loads estimation by load calibration test data, accepted at AIAC'23. Congrats Halide! |
 | **Jul 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'22. |
-| **Jul 2022**: | Promoted to Senior Member of the [IEEE](https://ieee.org). |
+| **Jul 2022**: | Elected Senior Member of the [IEEE](https://ieee.org). |
 | **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
 | **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
@@ -227,6 +231,7 @@ Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021-Present.
 [Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D. Student, RMIT, 2022-Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Jarry Chen, M.Sc. Student, RMIT, 2022--Present.  
+Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
 
 ### Alumni
 
