@@ -11,10 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
-Halide G. Aydogan, Haytham M. Fayek, Xiuzhen Zhang, Kate E. Niessen, Daniel O. Franke, and Pier Marzocca.  
-**Loads estimation from calibration test with machine learning.**  
-In AIAA Scitech 2023 Forum, 2023.  
-[bib](../assets/bibtex/Aydogan2023a.bib)  
+Kathiravan Thangavel, Dario Spiller, Roberto Sabatini, Stefania Amici, Sarathchandrakumar Thottuchirayil Sasidharan, Haytham Fayek, and Pier Marzocca.  
+**Autonomous satellite wildfire detection using hyperspectral imagery and neural networks: A case study on australian wildfire.**  
+Remote Sensing, vol. 15, no. 3, 2023.  
+[link](https://www.mdpi.com/2072-4292/15/3/720) 
+[bib](../assets/bibtex/Thangavel2023.bib) 
 
 Oleg Levinski, Wim J.C. Verhagen, Vincenzo Muscarello, Michael J. Scott, Haytham M. Fayek, and Pier Marzocca.  
 **An innovative high-fidelity approach to structural health monitoring.**  
@@ -24,7 +25,13 @@ In 20th Australian International Aerospace Congress (AIAC), Melbourne, Australia
 Halide G. Aydogan, Haytham M. Fayek, Xiuzhen Zhang, Kate E. Niessen, Daniel O. Franke, and Pier Marzocca.  
 **Transfer learning for flight loads estimation by load calibration test data.**  
 In 20th Australian International Aerospace Congress (AIAC), Melbourne, Australia, 2023.  
-[bib](../assets/bibtex/Aydogan2023.bib) 
+[bib](../assets/bibtex/Aydogan2023a.bib) 
+
+Halide G. Aydogan, Haytham M. Fayek, Xiuzhen Zhang, Michael Scott, Pier Marzocca and Kate E. Niessen, Daniel O. Franke, and Oleg Levinski.  
+**Loads estimation from calibration test with machine learning.**  
+In AIAA Scitech 2023 Forum, 2023.  
+[link](https://arc.aiaa.org/doi/10.2514/6.2023-1707)
+[bib](../assets/bibtex/Aydogan2023.bib)  
 
 #### 2022
 

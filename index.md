@@ -42,9 +42,10 @@ I am looking for strong postdocs and students interested in machine learning, an
 ---
 <br/>
 
+| **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
 | **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
 | **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
-| **Sep 2022**: | Paper: Loads estimation from calibration test with machine learning, accepted at SciTech'23. |
+| **Sep 2022**: | Paper: [Loads estimation from calibration test with machine learning](https://arc.aiaa.org/doi/10.2514/6.2023-1707), accepted at AIAA SciTech'23. |
 | **Sep 2022**: | Paper: An innovative high-fidelity approach to structural health monitoring, accepted at AIAC'23. |
 | **Sep 2022**: | Paper: Transfer learning for flight loads estimation by load calibration test data, accepted at AIAC'23. Congrats Halide! |
 | **Jul 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'22. |
@@ -70,8 +71,8 @@ I am looking for strong postdocs and students interested in machine learning, an
 
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
-| **Sep 2021**: | Paper: [Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132), accepted at SciTech'22. |
-| **Sep 2021**: | Paper: [Data-driven flight load prediction using modal decomposition techniques](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130), accepted at SciTech'22. |
+| **Sep 2021**: | Paper: [Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132), accepted at AIAA SciTech'22. |
+| **Sep 2021**: | Paper: [Data-driven flight load prediction using modal decomposition techniques](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130), accepted at AIAA SciTech'22. |
 | **Aug 2021**: | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
 | **Jul 2021**: | Patent: [Systems and methods for hearing assessment and audio adjustment](https://patents.google.com/patent/US20210227338A1/en) published. |
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
