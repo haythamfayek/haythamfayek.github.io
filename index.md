@@ -42,8 +42,8 @@ I am looking for strong postdocs and students interested in machine learning, an
 ---
 <br/>
 
-| **Jan 2022**: | Paper: Embodiment of Difference for Increasing Empathy Towards Blind and Visually Impaired People, accepted at IEEE VR. |
-| **Jan 2022**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR DATA4XR Workshop. |
+| **Jan 2022**: | Paper: Embodiment of Difference for Increasing Empathy Towards Blind and Visually Impaired People, accepted at IEEE VR. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
+| **Jan 2022**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR DATA4XR Workshop. Congrats Emma! |
 | **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
 | **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
 | **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |

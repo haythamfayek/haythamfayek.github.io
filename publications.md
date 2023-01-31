@@ -14,7 +14,8 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and and Ron Van Schyndel.  
 **Embodiment of Difference for Increasing Empathy Towards Blind and Visually Impaired People.**  
 IEEE Virtual Reality (IEEEVR), 2023.  
-[bib](../assets/bibtex/Guarese2023.bib) 
+[bib](../assets/bibtex/Guarese2023.bib)  
+**In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
 
 Emma Jane Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
 **Replicability and Transparency for the Creation of Public Human User Video Game Datasets.**  
@@ -47,7 +48,7 @@ Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.
 **PRE-NAS: Evolutionary neural architecture search with predictor.**  
 IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 26-36, Feb 2023.  
 [link](https://ieeexplore.ieee.org/document/9975797) 
-[bib](../assets/bibtex/Peng2022a.bib) 
+[bib](../assets/bibtex/Peng2023.bib) 
 
 #### 2022
 
@@ -237,7 +238,7 @@ Haytham M. Fayek and Irraivan Elamvazuthi.
 In 18th International Conference on Methods and Models in Automation and Robotics (MMAR), Miedzyzdroje, Poland, pp. 86--91, Aug 2013.  
 [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6669886)
 [bib](../assets/bibtex/Fayek2013.bib)
-**(Runner up Best Young Author)**
+**Runner up Best Young Author.**
 
 #### 2012
 
