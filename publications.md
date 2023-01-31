@@ -11,6 +11,16 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
+Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and and Ron Van Schyndel.  
+**Embodiment of Difference for Increasing Empathy Towards Blind and Visually Impaired People.**  
+IEEE Virtual Reality (IEEEVR), 2023.  
+[bib](../assets/bibtex/Guarese2023.bib) 
+
+Emma Jane Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
+**Replicability and Transparency for the Creation of Public Human User Video Game Datasets.**  
+2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
+[bib](../assets/bibtex/Pretty2023.bib) 
+
 Kathiravan Thangavel, Dario Spiller, Roberto Sabatini, Stefania Amici, Sarathchandrakumar Thottuchirayil Sasidharan, Haytham Fayek, and Pier Marzocca.  
 **Autonomous satellite wildfire detection using hyperspectral imagery and neural networks: A case study on australian wildfire.**  
 Remote Sensing, vol. 15, no. 3, 2023.  
@@ -33,13 +43,13 @@ In AIAA Scitech 2023 Forum, 2023.
 [link](https://arc.aiaa.org/doi/10.2514/6.2023-1707)
 [bib](../assets/bibtex/Aydogan2023.bib)  
 
-#### 2022
-
-Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek,and Xiaojun Chang.  
+Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
 **PRE-NAS: Evolutionary neural architecture search with predictor.**  
-IEEE Transactions on Evolutionary Computation, 2022.  
+IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 26-36, Feb 2023.  
 [link](https://ieeexplore.ieee.org/document/9975797) 
 [bib](../assets/bibtex/Peng2022a.bib) 
+
+#### 2022
 
 Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.  
 **A Case for personalised non-player character companion design.**  
