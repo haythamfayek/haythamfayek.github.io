@@ -42,8 +42,10 @@ I am looking for strong postdocs and students interested in machine learning, an
 ---
 <br/>
 
-| **Jan 2022**: | Paper: Embodiment of Difference for Increasing Empathy Towards Blind and Visually Impaired People, accepted at IEEE VR. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
-| **Jan 2022**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR DATA4XR Workshop. Congrats Emma! |
+| **Feb 2022**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI.
+| **Feb 2022**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace.
+| **Jan 2022**: | Paper: [Evoking empathy with visually impaired people through an augmented reality embodiment experience](https://arxiv.org/abs/2302.00211), accepted at IEEE VR'23. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
+| **Jan 2022**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR'23 DATA4XR Workshop. Congrats Emma! |
 | **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
 | **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
 | **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
@@ -55,9 +57,6 @@ I am looking for strong postdocs and students interested in machine learning, an
 | **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
 | **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
 | **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
-| **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |
-| **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
-| **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -71,6 +70,9 @@ I am looking for strong postdocs and students interested in machine learning, an
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |
+| **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
+| **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
 | **Nov 2021**: | At CIKM'21, virtual, chairing [Session 2C: Machine Learning](https://www.cikm2021.org/programme/session/2C). |
 | **Oct 2021**: | Paper: [Knowledge capture and replay for continual learning](https://arxiv.org/abs/2012.06789), accepted at WACV'22. |
 | **Sep 2021**: | Paper: [Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132), accepted at AIAA SciTech'22. |

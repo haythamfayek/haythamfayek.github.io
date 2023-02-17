@@ -11,14 +11,27 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
-Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and and Ron Van Schyndel.  
-**Embodiment of Difference for Increasing Empathy Towards Blind and Visually Impaired People.**  
+Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.  
+**A Case for personalised non-player character companion design.**  
+[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761)
+[bib](../assets/bibtex/Pretty2023a.bib) 
+
+Kathiravan Thangavel, Pablo Servidia, Roberto Sabatini, Pier Marzocca, Haytham M. Fayek, Santiago Husain Cerruti, Martin España, and Dario Spiller.  
+**A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control.**  
+Aerospace, vol. 10, no. 2, 2023.  
+[link](https://www.mdpi.com/2226-4310/10/2/176) 
+[bib](../assets/bibtex/Thangavel2023a.bib) 
+
+Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
+**Evoking empathy with visually impaired people through an augmented reality embodiment experience.**  
 IEEE Virtual Reality (IEEEVR), 2023.  
+[pdf](https://arxiv.org/abs/2302.00211.pdf)
+[arXiv](https://arxiv.org/abs/2302.00211)
 [bib](../assets/bibtex/Guarese2023.bib)  
 **In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
 
 Emma Jane Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
-**Replicability and Transparency for the Creation of Public Human User Video Game Datasets.**  
+**Replicability and transparency for the creation of public human user video game datasets.**  
 2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
 [bib](../assets/bibtex/Pretty2023.bib) 
 
@@ -50,12 +63,7 @@ IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 26-36, Feb 20
 [link](https://ieeexplore.ieee.org/document/9975797) 
 [bib](../assets/bibtex/Peng2023.bib) 
 
-#### 2022
-
-Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.  
-**A Case for personalised non-player character companion design.**  
-[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761)
-[bib](../assets/bibtex/Pretty2022.bib)  
+#### 2022 
 
 Nermine Hendy, Haytham M. Fayek, and Akram Al-Hourani.  
 **Deep learning approaches for air-writing using single UWB radar.**  
