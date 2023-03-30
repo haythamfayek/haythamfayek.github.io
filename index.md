@@ -42,10 +42,12 @@ I am looking for strong postdocs and students interested in machine learning, an
 ---
 <br/>
 
-| **Feb 2022**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI.
-| **Feb 2022**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace.
-| **Jan 2022**: | Paper: [Evoking empathy with visually impaired people through an augmented reality embodiment experience](https://arxiv.org/abs/2302.00211), accepted at IEEE VR'23. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
-| **Jan 2022**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR'23 DATA4XR Workshop. Congrats Emma! |
+| **Mar 2023**: | Paper: The structurally complex with additive parent causality (SCARY) dataset, accepted at CLeaR. Congrats Jarry!
+| **Mar 2023**: | Paper: [Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors](https://www.mdpi.com/1424-8220/23/6/3344), accepted in Sensors.
+| **Feb 2023**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI.
+| **Feb 2023**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace.
+| **Jan 2023**: | Paper: [Evoking empathy with visually impaired people through an augmented reality embodiment experience](https://arxiv.org/abs/2302.00211), accepted at IEEE VR'23. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
+| **Jan 2023**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR'23 DATA4XR Workshop. Congrats Emma! |
 | **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
 | **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
 | **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
@@ -139,7 +141,7 @@ Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Elect
 My research interests are broadly in artificial intelligence, machine learning, deep learning, and machine perception. 
 
 I am primarily interested in learning systems that systematically generalize from limited labelled data.
-This includes learning algorithms that can learn from a limited number of samples by drawing on prior experiences in other tasks and those that can learn despite limitations in labels in data.
+This includes learning algorithms that can learn from a limited number of samples by drawing on prior experiences in other tasks and those that can learn despite limitations in labels in uni-modal and multi-modal data.
 
 <!--
 I am interested in learning algorithms that can learn from a limited number of samples by drawing on prior experiences which includes transfer learning, multi-task learning, continual learning, and meta-learning.
@@ -149,17 +151,28 @@ I am also interested in learning algorithms that can learn despite limitations i
 
 <br/>
 
-## Selected Publications ([full list](publications))
+## Selected Publications ([Full List](publications))
 ---
 <br/>
 
+Jarry Chen and Haytham M. Fayek.  
+**The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
+In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
+[bib](../assets/bibtex/Chen2023.bib) 
+
+Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
+**Evoking empathy with visually impaired people through an augmented reality embodiment experience.**  
+IEEE Virtual Reality (IEEEVR), 2023.  
+[pdf](https://arxiv.org/abs/2302.00211.pdf)
+[arXiv](https://arxiv.org/abs/2302.00211)
+[bib](../assets/bibtex/Guarese2023.bib)  
+**In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
+
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
-**PRE-NAS: Predictor-assisted evolutionary neural architecture search.**  
-In Genetic and Evolutionary Computation Conference (GECCO), Boston, USA, pp. 1066--1074, Jul 2022.  
-[link](https://dl.acm.org/doi/10.1145/3512290.3528727)
-[pdf](https://arxiv.org/pdf/2204.12726.pdf)
-[arXiv](https://arxiv.org/abs/2204.12726)
-[bib](../assets/bibtex/Peng2022.bib)
+**PRE-NAS: Evolutionary neural architecture search with predictor.**  
+IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 26-36, Feb 2023.  
+[link](https://ieeexplore.ieee.org/document/9975797) 
+[bib](../assets/bibtex/Peng2023.bib) 
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
@@ -232,11 +245,11 @@ Yameng Peng, Ph.D. Student, RMIT, 2020--Present.
 [Emma Pretty](https://emmajanepretty.webflow.io), Ph.D. Student, RMIT, 2021--Present.  
 [Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D. Student, RMIT, 2021--Present.  
 [Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
-Shashika Rathnasinghe, M.Sc. Student, RMIT, 2021-Present.  
 [Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D. Student, RMIT, 2022-Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Jarry Chen, M.Sc. Student, RMIT, 2022--Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
+Rinaldo Gagiano, Ph.D. Student, 2023--Present. 
 
 ### Alumni
 
@@ -254,7 +267,7 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 ### Courses
 
 **COSC2959/COSC2960 Foundations of Artificial Intelligence.**  
-RMIT, Australia, July 2021, March 2022, July 2022.
+RMIT, Australia, July 2021, March 2022, July 2022, March 2023.
 
 **COSC2676/COSC2752 Programming Fundamentals for Scientists.**  
 RMIT, Australia, March 2020, July 2020,  March 2021.

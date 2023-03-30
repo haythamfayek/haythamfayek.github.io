@@ -11,9 +11,22 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
+Jarry Chen and Haytham M. Fayek.  
+**The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
+In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
+[bib](../assets/bibtex/Chen2023.bib) 
+
+Kathiravan Thangavel, Dario Spiller, Roberto Sabatini, Stefania Amici, Nicolas Longepe, Pablo Servidia, Pier Marzocca, Haytham M. Fayek, and Luigi Ansalone.  
+**Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors.**  
+Sensors, vol. 23, no. 6, 2023.  
+[link](https://www.mdpi.com/1424-8220/23/6/3344) 
+[bib](../assets/bibtex/Thangavel2023b.bib) 
+
 Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.  
 **A Case for personalised non-player character companion design.**  
+International Journal of Human-Computer Interaction, pp.1-20, 2023.  
 [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761)
+[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761)
 [bib](../assets/bibtex/Pretty2023a.bib) 
 
 Kathiravan Thangavel, Pablo Servidia, Roberto Sabatini, Pier Marzocca, Haytham M. Fayek, Santiago Husain Cerruti, Martin España, and Dario Spiller.  
@@ -21,6 +34,11 @@ Kathiravan Thangavel, Pablo Servidia, Roberto Sabatini, Pier Marzocca, Haytham M
 Aerospace, vol. 10, no. 2, 2023.  
 [link](https://www.mdpi.com/2226-4310/10/2/176) 
 [bib](../assets/bibtex/Thangavel2023a.bib) 
+
+Emma Jane Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
+**Replicability and transparency for the creation of public human user video game datasets.**  
+2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
+[bib](../assets/bibtex/Pretty2023.bib) 
 
 Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
 **Evoking empathy with visually impaired people through an augmented reality embodiment experience.**  
@@ -30,16 +48,17 @@ IEEE Virtual Reality (IEEEVR), 2023.
 [bib](../assets/bibtex/Guarese2023.bib)  
 **In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
 
-Emma Jane Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
-**Replicability and transparency for the creation of public human user video game datasets.**  
-2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
-[bib](../assets/bibtex/Pretty2023.bib) 
-
 Kathiravan Thangavel, Dario Spiller, Roberto Sabatini, Stefania Amici, Sarathchandrakumar Thottuchirayil Sasidharan, Haytham Fayek, and Pier Marzocca.  
 **Autonomous satellite wildfire detection using hyperspectral imagery and neural networks: A case study on australian wildfire.**  
 Remote Sensing, vol. 15, no. 3, 2023.  
 [link](https://www.mdpi.com/2072-4292/15/3/720) 
 [bib](../assets/bibtex/Thangavel2023.bib) 
+
+Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
+**PRE-NAS: Evolutionary neural architecture search with predictor.**  
+IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 26-36, Feb 2023.  
+[link](https://ieeexplore.ieee.org/document/9975797) 
+[bib](../assets/bibtex/Peng2023.bib) 
 
 Oleg Levinski, Wim J.C. Verhagen, Vincenzo Muscarello, Michael J. Scott, Haytham M. Fayek, and Pier Marzocca.  
 **An innovative high-fidelity approach to structural health monitoring.**  
@@ -56,12 +75,6 @@ Halide G. Aydogan, Haytham M. Fayek, Xiuzhen Zhang, Michael Scott, Pier Marzocca
 In AIAA Scitech 2023 Forum, 2023.  
 [link](https://arc.aiaa.org/doi/10.2514/6.2023-1707)
 [bib](../assets/bibtex/Aydogan2023.bib)  
-
-Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
-**PRE-NAS: Evolutionary neural architecture search with predictor.**  
-IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 26-36, Feb 2023.  
-[link](https://ieeexplore.ieee.org/document/9975797) 
-[bib](../assets/bibtex/Peng2023.bib) 
 
 #### 2022 
 
@@ -278,10 +291,9 @@ BEng Thesis, Petronas University, 2012.
 
 Haytham M. Fayek A. A. Abokela and Antonio John Miller.  
 **Systems and methods for hearing assessment and audio adjustment.**  
-US Patent App. 16/745,287, Jul 2021.  
-[**link**](https://patents.google.com/patent/US20210227338A1/en)
-[**pdf**](https://patentimages.storage.googleapis.com/65/0d/35/cedcebccd11bba/US20210227338A1.pdf)
-[**bib**](../assets/bibtex/Abokela2021.bib)
+Patent No.: US 11,575,999 B2, 7 Feb 2023.  
+[**pdf**](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11575999)
+[**bib**](../assets/bibtex/Abokela2023.bib)
 
 Irraivan Elamvazuthi and Haytham M. Fayek.  
 **Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC).**  
