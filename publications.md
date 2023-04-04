@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
+Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
+**Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions.**  
+In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Jul 2023.  
+[bib](../assets/bibtex/Peng2023a.bib)
+
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
 In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  

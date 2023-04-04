@@ -42,10 +42,12 @@ I am looking for strong postdocs and students interested in machine learning, an
 ---
 <br/>
 
-| **Mar 2023**: | Paper: The structurally complex with additive parent causality (SCARY) dataset, accepted at CLeaR. Congrats Jarry!
-| **Mar 2023**: | Paper: [Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors](https://www.mdpi.com/1424-8220/23/6/3344), accepted in Sensors.
-| **Feb 2023**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI.
-| **Feb 2023**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace.
+| **Apr 2023**: | Paper: Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions, accepted at GECCO'23. |
+| **Mar 2023**: | Paper: The structurally complex with additive parent causality (SCARY) dataset, accepted at CLeaR'23. Congrats Jarry! |
+| **Mar 2023**: | Paper: [Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors](https://www.mdpi.com/1424-8220/23/6/3344), accepted in Sensors. |
+| **Feb 2023**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI. |
+| **Feb 2023**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace. |
+| **Feb 2023**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Feb'23. |
 | **Jan 2023**: | Paper: [Evoking empathy with visually impaired people through an augmented reality embodiment experience](https://arxiv.org/abs/2302.00211), accepted at IEEE VR'23. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
 | **Jan 2023**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR'23 DATA4XR Workshop. Congrats Emma! |
 | **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
@@ -155,6 +157,11 @@ I am also interested in learning algorithms that can learn despite limitations i
 ---
 <br/>
 
+Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
+**Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions.**  
+In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Jul 2023.  
+[bib](../assets/bibtex/Peng2023a.bib)
+
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
 In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
@@ -202,6 +209,12 @@ In Continual Learning Workshop, 32nd Neural Information Processing Systems (Neur
 [pdf](https://marcpickett.com/cl2018/CL-2018_paper_19.pdf)
 [arXiv](https://arxiv.org/abs/1811.12273)
 [bib](../assets/bibtex/Fayek2018.bib)
+
+Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
+**Evaluating deep learning architectures for speech emotion recognition.**  
+Neural Networks, vol. 92, pp. 60--68, Aug 2017.  
+[link](http://doi.org/10.1016/j.neunet.2017.02.013)
+[bib](../assets/bibtex/Fayek2017.bib)
 
 #### [Full list of publications](publications)
 
