@@ -30,14 +30,6 @@ email("haytham.fayek", "ieee.org");
 
 <br/>
 
-## Current
----
-<br/>
-
-I am looking for strong postdocs and students interested in machine learning, and especially sequence models and graph neural networks, so please get in touch if you would like to work with me at RMIT --- guaranteed funding available.
-
-<br/>
-
 ## Recent
 ---
 <br/>
@@ -165,6 +157,7 @@ In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Ju
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
 In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
+[pdf](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf)
 [bib](../assets/bibtex/Chen2023.bib) 
 
 Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  

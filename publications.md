@@ -19,7 +19,8 @@ In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Ju
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
 In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
-[bib](../assets/bibtex/Chen2023.bib) 
+[pdf](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf)
+[bib](../assets/bibtex/Chen2023.bib)
 
 Kathiravan Thangavel, Dario Spiller, Roberto Sabatini, Stefania Amici, Nicolas Longepe, Pablo Servidia, Pier Marzocca, Haytham M. Fayek, and Luigi Ansalone.  
 **Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors.**  
@@ -42,7 +43,9 @@ Aerospace, vol. 10, no. 2, 2023.
 
 Emma Jane Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
 **Replicability and transparency for the creation of public human user video game datasets.**  
-2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
+2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023. 
+[pdf](https://arxiv.org/pdf/2304.02861.pdf)
+[arXiv](https://arxiv.org/abs/2304.02861) 
 [bib](../assets/bibtex/Pretty2023.bib) 
 
 Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
