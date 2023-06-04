@@ -34,6 +34,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **May 2023**: | Paper: Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity, accepted at WASSA'23. Congrats Amber! |
 | **Apr 2023**: | Paper: Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions, accepted at GECCO'23. |
 | **Mar 2023**: | Paper: The structurally complex with additive parent causality (SCARY) dataset, accepted at CLeaR'23. Congrats Jarry! |
 | **Mar 2023**: | Paper: [Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors](https://www.mdpi.com/1424-8220/23/6/3344), accepted in Sensors. |
