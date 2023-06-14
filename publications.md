@@ -13,7 +13,9 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 Nannan Huang, Lin Tian, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity.**  
-13th Workshop on Computational Approaches to Subjectivity, Sentiment {\&} Social Media Analysis (WASSA), 2023.  
+13th Workshop on Computational Approaches to Subjectivity, Sentiment {\&} Social Media Analysis (WASSA), 2023. 
+[pdf](https://arxiv.org/pdf/2306.04424.pdf)
+[arxiv](https://arxiv.org/abs/2306.04424) 
 [bib](../assets/bibtex/Huang2023.bib)
 
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
