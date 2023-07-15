@@ -11,9 +11,14 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
+Rinaldo Gagiano, Haytham M. Fayek, Maria Myung-Hee Kim, Jennifer Biggs, and Xiuzhen Zhang.  
+**IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21.**  
+Iberian Languages Evaluation Forum (IberLEF), 2023.  
+[bib](../assets/bibtex/Gagiano2023.bib)
+
 Nannan Huang, Lin Tian, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity.**  
-13th Workshop on Computational Approaches to Subjectivity, Sentiment {\&} Social Media Analysis (WASSA), 2023. 
+13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA), 2023. 
 [pdf](https://arxiv.org/pdf/2306.04424.pdf)
 [arxiv](https://arxiv.org/abs/2306.04424) 
 [bib](../assets/bibtex/Huang2023.bib)
@@ -21,6 +26,7 @@ Nannan Huang, Lin Tian, Haytham M. Fayek, and Xiuzhen Zhang.
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
 **Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions.**  
 In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Jul 2023.  
+[link](https://dl.acm.org/doi/10.1145/3583131.3590452)
 [bib](../assets/bibtex/Peng2023a.bib)
 
 Jarry Chen and Haytham M. Fayek.  
