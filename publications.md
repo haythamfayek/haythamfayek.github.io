@@ -11,6 +11,12 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
+Sio-Iong Ao and Haytham M. Fayek.  
+**Continual Deep Learning for Time Series Modeling.**  
+Sensors, vol. 23, no. 1, 2023.  
+[link](https://www.mdpi.com/1424-8220/23/16/7167)
+[bib](../assets/bibtex/Ao2023.bib)
+
 Rinaldo Gagiano, Haytham M. Fayek, Maria Myung-Hee Kim, Jennifer Biggs, and Xiuzhen Zhang.  
 **IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21.**  
 Iberian Languages Evaluation Forum (IberLEF), 2023.  

@@ -34,6 +34,9 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
+| **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
+| **Jul 2023**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'23. |
 | **Jun 2023**: | Paper: IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21, accepted at IberLEF'23. Congrats Rinaldo! |
 | **May 2023**: | Paper: [Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity](https://arxiv.org/abs/2306.04424), accepted at WASSA'23. Congrats Amber! |
 | **Apr 2023**: | Paper: [Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions](https://dl.acm.org/doi/10.1145/3583131.3590452), accepted at GECCO'23. |
@@ -47,14 +50,6 @@ email("haytham.fayek", "ieee.org");
 | **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
 | **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
 | **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
-| **Sep 2022**: | Paper: [Loads estimation from calibration test with machine learning](https://arc.aiaa.org/doi/10.2514/6.2023-1707), accepted at AIAA SciTech'23. |
-| **Sep 2022**: | Paper: An innovative high-fidelity approach to structural health monitoring, accepted at AIAC'23. |
-| **Sep 2022**: | Paper: Transfer learning for flight loads estimation by load calibration test data, accepted at AIAC'23. Congrats Halide! |
-| **Jul 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'22. |
-| **Jul 2022**: | Elected Senior Member of the [IEEE](https://ieee.org). |
-| **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
-| **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
-| **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -68,6 +63,14 @@ email("haytham.fayek", "ieee.org");
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Sep 2022**: | Paper: [Loads estimation from calibration test with machine learning](https://arc.aiaa.org/doi/10.2514/6.2023-1707), accepted at AIAA SciTech'23. |
+| **Sep 2022**: | Paper: An innovative high-fidelity approach to structural health monitoring, accepted at AIAC'23. |
+| **Sep 2022**: | Paper: Transfer learning for flight loads estimation by load calibration test data, accepted at AIAC'23. Congrats Halide! |
+| **Jul 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'22. |
+| **Jul 2022**: | Elected Senior Member of the [IEEE](https://ieee.org). |
+| **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
+| **Apr 2022**: | Paper: [Deep Learning Approaches for Air-writing Using Single UWB Radar](https://ieeexplore.ieee.org/document/9768813), accepted in IEEE Sensors. Congrats Nermine! |
+| **Apr 2022**: | Talk: [Beyond Supervised Deep Learning](https://www.rmit.edu.au/events/2022/april/ciairi-open-day), Centre for Industrial AI Research & Innovation (CIARI), RMIT. |
 | **Mar 2022**: | Paper: [PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search](https://arxiv.org/abs/2204.12726), accepted at GECCO'22. Congrats Yameng! |
 | **Mar 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Mar'22. |
 | **Jan 2022**: | Paper: [Advanced Multi-Input System Identification for Next Generation Aircraft Loads Monitoring using Linear Regression, Neural Networks and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0888327022000085?dgcid=coauthor), accepted in MSSP. |
@@ -170,12 +173,6 @@ IEEE Virtual Reality (IEEEVR), 2023.
 [bib](../assets/bibtex/Guarese2023.bib)  
 **In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
 
-Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
-**PRE-NAS: Evolutionary neural architecture search with predictor.**  
-IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 26-36, Feb 2023.  
-[link](https://ieeexplore.ieee.org/document/9975797) 
-[bib](../assets/bibtex/Peng2023.bib) 
-
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
 IEEE/ACM Transactions on Audio, Speech, and Language Processing, Jul 2020.  
@@ -253,14 +250,14 @@ Yameng Peng, Ph.D. Student, RMIT, 2020--Present.
 [Emma Pretty](https://emmajanepretty.webflow.io), Ph.D. Student, RMIT, 2021--Present.  
 [Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D. Student, RMIT, 2021--Present.  
 [Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
-[Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D. Student, RMIT, 2022-Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
-Jarry Chen, M.Sc. Student, RMIT, 2022--Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
 Rinaldo Gagiano, Ph.D. Student, 2023--Present. 
 
 ### Alumni
 
+[Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D., RMIT, 2023.  
+Jarry Chen, M.Sc., RMIT, 2023.  
 Fitrio Pakana, M.Sc., RMIT, 2021.  
 Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
 Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
@@ -275,7 +272,7 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 ### Courses
 
 **COSC2959/COSC2960 Foundations of Artificial Intelligence.**  
-RMIT, Australia, July 2021, March 2022, July 2022, March 2023.
+RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023.
 
 **COSC2676/COSC2752 Programming Fundamentals for Scientists.**  
 RMIT, Australia, March 2020, July 2020,  March 2021.

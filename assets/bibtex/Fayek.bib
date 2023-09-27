@@ -1,5 +1,19 @@
+@article{Ao2023,
+  author = {Sio-Iong Ao and Haytham M. Fayek},
+  title = {Continual Deep Learning for Time Series Modeling},
+  journal = {Sensors},
+  volume = {23},
+  year = {2023},
+  number = {16},
+  article-number = {7167},
+  url = {https://www.mdpi.com/1424-8220/23/16/7167},
+  issn = {1424--8220},
+  abstract = {The multi-layer structures of Deep Learning facilitate the processing of higher-level abstractions from data, thus leading to improved generalization and widespread applications in diverse domains with various types of data. Each domain and data type presents its own set of challenges. Real-world time series data may have a non-stationary data distribution that may lead to Deep Learning models facing the problem of catastrophic forgetting, with the abrupt loss of previously learned knowledge. Continual learning is a paradigm of machine learning to handle situations when the stationarity of the datasets may no longer be true or required. This paper presents a systematic review of the recent Deep Learning applications of sensor time series, the need for advanced preprocessing techniques for some sensor environments, as well as the summaries of how to deploy Deep Learning in time series modeling while alleviating catastrophic forgetting with continual learning methods. The selected case studies cover a wide collection of various sensor time series applications and can illustrate how to deploy tailor-made Deep Learning, advanced preprocessing techniques, and continual learning algorithms from practical, real-world application aspects.},
+  doi = {10.3390/s23167167},
+}
+
 @inproceedings{Gagiano2023,
-  title = {IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21},
+  title = {IberLEF 2023 AuTexTification: Automated Text Identification Shared Task --- Team OD-21},
   author = {Rinaldo Gagiano and Haytham M. Fayek and Maria Myung-Hee Kim and Jennifer Biggs and Xiuzhen Zhang.},
   booktitle = {Iberian Languages Evaluation Forum (IberLEF)},
   year = {2023},
@@ -8,8 +22,13 @@
 @inproceedings{Huang2023,
   title = {Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity},
   author = {Nannan Huang and Lin Tian and Haytham M. Fayek and Xiuzhen Zhang},
-  booktitle = {13th Workshop on Computational Approaches to Subjectivity, Sentiment {\&} Social Media Analysis (WASSA)},
+  booktitle = {13th Workshop on Computational Approaches to Subjectivity, Sentiment, {\&} Social Media Analysis (WASSA)},
+  month = jul,
   year = {2023},
+  address = {Toronto, Canada},
+  publisher = {Association for Computational Linguistics},
+  pages = {149--161},
+  abstract = {Opinion summarisation is a task that aims to condense the information presented in the source documents while retaining the core message and opinions. A summary that only represents the majority opinions will leave the minority opinions unrepresented in the summary. In this paper, we use the stance towards a certain target as an opinion. We study bias in opinion summarisation from the perspective of opinion diversity, which measures whether the model generated summary can cover a diverse set of opinions. In addition, we examine opinion similarity, a measure of how closely related two opinions are in terms of their stance on a given topic, and its relationship with opinion diversity. Through the lense of stances towards a topic, we examine opinion diversity and similarity using three debatable topics under COVID-19. Experimental results on these topics revealed that a higher degree of similarity of opinions did not indicate good diversity or fairly cover the various opinions originally presented in the source documents. We found that BART and ChatGPT can better capture diverse opinions presented in the source documents.},
 }
 
 @inproceedings{Peng2023a,
@@ -22,11 +41,11 @@
   url = {https://doi.org/10.1145/3583131.3590452},
   doi = {10.1145/3583131.3590452},
   booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
-  pages = {1257–-1266},
+  pages = {1257--1266},
   numpages = {10},
   keywords = {performance predictor, evolutionary algorithm, training-free metric, neural architecture search},
   location = {Lisbon, Portugal},
-  series = {GECCO '23}
+  series = {GECCO '23},
 }
 
 @inproceedings{Chen2023,
@@ -131,15 +150,21 @@
   publisher = {Engineers Australia},
   booktitle = {20th Australian International Aerospace Congress (AIAC)},
   address = {Melbourne, Australia},
+  url = {https://search.informit.org/doi/10.3316/informit.064980449994785},
+  abstract = {Structural health management for Defence aerospace platforms is traditionally driven by scheduled inspection intervals and pre-emptive maintenance based on the interpretation of structural certification test results or reactive based on unique or unexpected fleet in-service incidents. However, a major shift towards proactive condition-based maintenance is required to improve availability and reduce fleet management and sustainment costs. Significant improvements to aerospace vehicle performance and structural health monitoring can be achieved by implementing an integrated approach to vehicle operation and sustainment. Numerous uncertainty factors and safety margins used in structural integrity assessment can be minimised or even eliminated by integrating a high-fidelity numerical model of the vehicle with a “smart” health monitoring system and a comprehensive historical database for each individual vehicle covering its operation, maintenance, upgrades and repairs. Identifying and tracking the global airframe health as well as local structural anomalies caused by fatigue and wear is a crucial component towards the development of a smart structural diagnostics capability to support the operation and sustainment of the current and future aerospace platforms. This paper describes the progress of a collaborative effort between the Defence Science and Technology Group (DSTG) and RMIT University in developing a high-fidelity approach to structural health monitoring and individual aircraft tracking inspired by the Digital Twin paradigm. Operational Load Analysis and Asset Diagnostics (aka OPERAND) is a multi-physics analysis suite based on integrating current state-of-the-art software techniques, data-driven methods, and model-based approaches. This innovative structural diagnostic and prognostic framework has the potential to considerably improve fleet airworthiness management, provide substantial savings to fleet operators and optimise aerospace vehicle availability for enhanced operational effectiveness.},
+  numpages = {6},
 }
 
 @inproceedings{Aydogan2023a,
   author = {Halide G. Aydogan and Haytham M. Fayek and Xiuzhen Zhang and Kate E. Niessen and Daniel O. Franke and Pier Marzocca},
-  title = {Transfer Learning for Flight Loads Estimation by Load Calibration Test Data},
+  title = {Transfer Learning for Flight Loads Estimation},
   year = {2023},
   publisher = {Engineers Australia},
   booktitle = {20th Australian International Aerospace Congress (AIAC)},
   address = {Melbourne, Australia},
+  url = {https://search.informit.org/doi/10.3316/informit.063415280409096},
+  numpages = {6},
+  abstract = {Developments in flight test data systems have led to an abundance of data which can be harnessed via machine learning for flight load estimations. Main measurements used for the load estimations are strains. However, the transition from strains to loads requires load equations obtained from calibration load tests. Estimated loads obtained by strain data are used for several purposes, from predictive maintenance to development projects. The fidelity of the obtained loads highly affects these activities. Prior research showed that higher accuracy could be achieved with artificial neural network models instead of classical regression analysis. However, the models provided some inaccurate results for some load components during the transition to predicting flight data, and further development is required to improve the flight loads predictions. Using the idea that calibration test data consists of the knowledge of the loads, our aim is to pass on this knowledge to the flight domain to increase the fidelity of the estimated loads. This is possible with machine learning algorithms classified under transfer learning. Transfer learning deals with the transfer of knowledge obtained in one domain to another domain. A load model developed using the calibration test data as a source for training artificial neural networks can be fine-tuned using flight test data, which also includes additional information to increase the accuracy. The research in this paper focuses on applying transfer learning to convey the knowledge in the calibration domain to the flight domain and shows the potential to overcome the poor generalisation in transition to flight in order to achieve high fidelity loads outputs when using such a method.},
 }
 
 @inproceedings{Aydogan2023,
@@ -173,7 +198,7 @@
   address = {Boston, MA, USA},
   url = {https://doi.org/10.1145/3512290.3528727},
   doi = {10.1145/3512290.3528727},
-  abstract = {Neural architecture search (NAS) aims to automate architecture engineering in neural networks. This often requires a high computational overhead to evaluate a number of candidate networks from the set of all possible networks in the search space during the search. Prediction of the networks' performance can alleviate this high computational overhead by mitigating the need for evaluating every candidate network. Developing such a predictor typically requires a large number of evaluated architectures which may be difficult to obtain. We address this challenge by proposing a novel evolutionary-based NAS strategy, Predictor-assisted E-NAS (PRE-NAS), which can perform well even with an extremely small number of evaluated architectures. PRE-NAS leverages new evolutionary search strategies and integrates high-fidelity weight inheritance over generations. Unlike one-shot strategies, which may suffer from bias in the evaluation due to weight sharing, offspring candidates in PRE-NAS are topologically homogeneous, which circumvents bias and leads to more accurate predictions. Extensive experiments on NAS-Bench-201 and DARTS search spaces show that PRE-NAS can outperform state-of-the-art NAS methods. With only a single GPU searching for 0.6 days, competitive architecture can be found by PRE-NAS which achieves 2.40% and 24% test error rates on CIFAR-10 and ImageNet respectively.},
+  abstract = {Neural architecture search (NAS) aims to automate architecture engineering in neural networks. This often requires a high computational overhead to evaluate a number of candidate networks from the set of all possible networks in the search space during the search. Prediction of the networks' performance can alleviate this high computational overhead by mitigating the need for evaluating every candidate network. Developing such a predictor typically requires a large number of evaluated architectures which may be difficult to obtain. We address this challenge by proposing a novel evolutionary-based NAS strategy, Predictor-assisted E-NAS (PRE-NAS), which can perform well even with an extremely small number of evaluated architectures. PRE-NAS leverages new evolutionary search strategies and integrates high-fidelity weight inheritance over generations. Unlike one-shot strategies, which may suffer from bias in the evaluation due to weight sharing, offspring candidates in PRE-NAS are topologically homogeneous, which circumvents bias and leads to more accurate predictions. Extensive experiments on NAS-Bench-201 and DARTS search spaces show that PRE-NAS can outperform state-of-the-art NAS methods. With only a single GPU searching for 0.6 days, competitive architecture can be found by PRE-NAS which achieves 2.40\% and 24\% test error rates on CIFAR-10 and ImageNet respectively.},
   booktitle = {Genetic and Evolutionary Computation Conference (GECCO)},
   pages = {1066--1074},
   numpages = {9},
