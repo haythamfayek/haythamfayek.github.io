@@ -20,6 +20,7 @@ Sensors, vol. 23, no. 1, 2023.
 Rinaldo Gagiano, Haytham M. Fayek, Maria Myung-Hee Kim, Jennifer Biggs, and Xiuzhen Zhang.  
 **IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21.**  
 Iberian Languages Evaluation Forum (IberLEF), 2023.  
+[pdf](https://ceur-ws.org/Vol-3496/autextification-paper16.pdf)
 [bib](../assets/bibtex/Gagiano2023.bib)
 
 Nannan Huang, Lin Tian, Haytham M. Fayek, and Xiuzhen Zhang.  

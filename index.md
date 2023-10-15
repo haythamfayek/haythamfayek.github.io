@@ -37,7 +37,7 @@ email("haytham.fayek", "ieee.org");
 | **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
 | **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
 | **Jul 2023**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'23. |
-| **Jun 2023**: | Paper: IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21, accepted at IberLEF'23. Congrats Rinaldo! |
+| **Jun 2023**: | Paper: [IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21](https://ceur-ws.org/Vol-3496/autextification-paper16.pdf), accepted at IberLEF'23. Congrats Rinaldo! |
 | **May 2023**: | Paper: [Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity](https://arxiv.org/abs/2306.04424), accepted at WASSA'23. Congrats Amber! |
 | **Apr 2023**: | Paper: [Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions](https://dl.acm.org/doi/10.1145/3583131.3590452), accepted at GECCO'23. |
 | **Mar 2023**: | Paper: [The structurally complex with additive parent causality (SCARY) dataset](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf), accepted at CLeaR'23. Congrats Jarry! |
@@ -252,7 +252,7 @@ Yameng Peng, Ph.D. Student, RMIT, 2020--Present.
 [Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
-Rinaldo Gagiano, Ph.D. Student, 2023--Present. 
+[Rinaldo Gagiano](https://www.rinaldogagiano.com), Ph.D. Student, 2023--Present. 
 
 ### Alumni
 
