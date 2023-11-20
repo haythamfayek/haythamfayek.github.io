@@ -34,7 +34,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **Aug 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942), posted on TechRxiv. |
+| **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942), posted on TechRxiv. |
 | **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
 | **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
 | **Jul 2023**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'23. |
