@@ -34,6 +34,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Aug 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942), posted on TechRxiv. |
 | **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
 | **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
 | **Jul 2023**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'23. |
@@ -66,6 +67,7 @@ email("haytham.fayek", "ieee.org");
 | **Sep 2022**: | Paper: [Loads estimation from calibration test with machine learning](https://arc.aiaa.org/doi/10.2514/6.2023-1707), accepted at AIAA SciTech'23. |
 | **Sep 2022**: | Paper: An innovative high-fidelity approach to structural health monitoring, accepted at AIAC'23. |
 | **Sep 2022**: | Paper: Transfer learning for flight loads estimation by load calibration test data, accepted at AIAC'23. Congrats Halide! |
+| **Jul 2022**: | Patent: [Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC)](https://iponlineext.myipo.gov.my/SPHI/Extra/IP/Mutual/Browse.aspx?sid=638360702366677301) granted. |
 | **Jul 2022**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'22. |
 | **Jul 2022**: | Elected Senior Member of the [IEEE](https://ieee.org). |
 | **Jun 2022**: | Paper: [A Case for Personalised Non-Player Character Companion Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), is out. |
@@ -79,7 +81,7 @@ email("haytham.fayek", "ieee.org");
 | **Sep 2021**: | Paper: [Recent developments in the implementation of a bidirectional LSTM deep neural network for aircraft operational loads monitoring](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2132), accepted at AIAA SciTech'22. |
 | **Sep 2021**: | Paper: [Data-driven flight load prediction using modal decomposition techniques](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2130), accepted at AIAA SciTech'22. |
 | **Aug 2021**: | [Call for Papers](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) for [Neural Networks](https://www.journals.elsevier.com/neural-networks) [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) due 28 Feb 2022.|
-| **Jul 2021**: | Patent: [Systems and methods for hearing assessment and audio adjustment](https://patents.google.com/patent/US20210227338A1/en) published. |
+| **Jul 2021**: | Patent: [Systems and methods for hearing assessment and audio adjustment](https://patents.google.com/patent/US20210227338A1/en) granted. |
 | **Jul 2021**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Jul'21. |
 | **Jul 2021**: | Our [Special Issue on Lifelong Learning](https://www.journals.elsevier.com/neural-networks/call-for-papers/lifelong-learning) was accepted in [Neural Networks](https://www.journals.elsevier.com/neural-networks). |
 | **May 2021**: | Paper: [Deep learning airframe load prediction: A data-driven system for aircraft structural health management]((https://search.informit.org/doi/epdf/10.3316/informit.414000320822264)), accepted at AIAC'21. |

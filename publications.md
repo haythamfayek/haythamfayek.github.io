@@ -11,6 +11,12 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2023
 
+Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
+**SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
+TechRxiv, 2023.  
+[link](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942)
+[bib](../assets/bibtex/Hendy2023.bib)
+
 Sio-Iong Ao and Haytham M. Fayek.  
 **Continual Deep Learning for Time Series Modeling.**  
 Sensors, vol. 23, no. 1, 2023.  
@@ -297,6 +303,20 @@ Haytham M. Fayek and Irraivan Elamvazuthi.
 Journal of Applied Sciences Research, vol. 8(5), pp. 2564–-2574, 2012.  
 [bib](../assets/bibtex/Fayek2012a.bib)
 
+### Patents
+
+Haytham M. Fayek A. A. Abokela and Antonio John Miller.  
+**Systems and methods for hearing assessment and audio adjustment.**  
+Patent No.: US 11,575,999 B2, 7 Feb 2023.  
+[**pdf**](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11575999)
+[**bib**](../assets/bibtex/Abokela2023.bib)
+
+Irraivan Elamvazuthi and Haytham M. Fayek.  
+**Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC).**  
+Patent No.: MY-191698-A, 7 Jul 2022.  
+[**link**](https://iponlineext.myipo.gov.my/SPHI/Extra/IP/Mutual/Browse.aspx?sid=638360702366677301)
+[**bib**](../assets/bibtex/Fayek2022.bib)
+
 ### Theses
 
 Haytham M. Fayek.  
@@ -315,16 +335,3 @@ Haytham M. Fayek.
 **Fuzzy logic based motor control.**  
 BEng Thesis, Petronas University, 2012.  
 [**bib**](../assets/bibtex/Fayek2011.bib)
-
-### Patents
-
-Haytham M. Fayek A. A. Abokela and Antonio John Miller.  
-**Systems and methods for hearing assessment and audio adjustment.**  
-Patent No.: US 11,575,999 B2, 7 Feb 2023.  
-[**pdf**](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11575999)
-[**bib**](../assets/bibtex/Abokela2023.bib)
-
-Irraivan Elamvazuthi and Haytham M. Fayek.  
-**Method for controlling a high speed DC servomotor that controls a robotic arm for the PCB industry (FT2RC).**  
-Patent Filing No. PI2012700978, Nov 2012.  
-[**bib**](../assets/bibtex/Fayek2012.bib)
