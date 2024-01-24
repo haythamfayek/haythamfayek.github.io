@@ -34,6 +34,8 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Jan 2024**: | Paper: Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias, accepted at EACL'24. |
+| **Jan 2024**: | Paper: [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa), accepted at ICLR'24 (Spotlight). |
 | **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942), posted on TechRxiv. |
 | **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
 | **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |

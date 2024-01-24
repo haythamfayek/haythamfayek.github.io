@@ -9,6 +9,19 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 ### Papers
 
+#### 2024
+
+Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
+**Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias.**  
+In European Chapter of the Association for Computational Linguistics (EACL), Malta, Mar 2024.  
+[bib](../assets/bibtex/Huang2024.bib)
+
+Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
+**SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
+In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
+[link](https://openreview.net/forum?id=tveiUXU2aa)
+[bib](../assets/bibtex/Peng2024.bib)
+
 #### 2023
 
 Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
