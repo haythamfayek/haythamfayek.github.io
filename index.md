@@ -256,8 +256,8 @@ Yameng Peng, Ph.D. Student, RMIT, 2020--Present.
 [Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
-[Rinaldo Gagiano](https://www.rinaldogagiano.com), Ph.D. Student, 2023--Present. 
-Jing Ren, Ph.D. Student, 2024--Present. 
+[Rinaldo Gagiano](https://www.rinaldogagiano.com), Ph.D. Student, 2023--Present.  
+Jing Ren, Ph.D. Student, 2024--Present.  
 Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present. 
 
 ### Alumni
