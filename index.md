@@ -34,7 +34,8 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **Jan 2024**: | Paper: Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias, accepted at EACL'24. |
+| **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |
+| **Jan 2024**: | Paper: [Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias](https://arxiv.org/abs/2402.00322), accepted at EACL'24. |
 | **Jan 2024**: | Paper: [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa), accepted at ICLR'24 (Spotlight). |
 | **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942), posted on TechRxiv. |
 | **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
@@ -45,14 +46,6 @@ email("haytham.fayek", "ieee.org");
 | **Apr 2023**: | Paper: [Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions](https://dl.acm.org/doi/10.1145/3583131.3590452), accepted at GECCO'23. |
 | **Mar 2023**: | Paper: [The structurally complex with additive parent causality (SCARY) dataset](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf), accepted at CLeaR'23. Congrats Jarry! |
 | **Mar 2023**: | Paper: [Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors](https://www.mdpi.com/1424-8220/23/6/3344), accepted in Sensors. |
-| **Feb 2023**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI. |
-| **Feb 2023**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace. |
-| **Feb 2023**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Feb'23. |
-| **Jan 2023**: | Paper: [Evoking empathy with visually impaired people through an augmented reality embodiment experience](https://arxiv.org/abs/2302.00211), accepted at IEEE VR'23. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
-| **Jan 2023**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR'23 DATA4XR Workshop. Congrats Emma! |
-| **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
-| **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
-| **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -66,6 +59,14 @@ email("haytham.fayek", "ieee.org");
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Feb 2023**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI. |
+| **Feb 2023**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace. |
+| **Feb 2023**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Feb'23. |
+| **Jan 2023**: | Paper: [Evoking empathy with visually impaired people through an augmented reality embodiment experience](https://arxiv.org/abs/2302.00211), accepted at IEEE VR'23. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en). |
+| **Jan 2023**: | Paper: Replicability and Transparency for the Creation of Public Human User Video Game Datasets, accepted at IEEE VR'23 DATA4XR Workshop. Congrats Emma! |
+| **Jan 2023**: | Paper: [Autonomous Satellite Wildfire Detection Using Hyperspectral Imagery and Neural Networks: A Case Study on Australian Wildfire](https://www.mdpi.com/2072-4292/15/3/720), accepted in Remote Sensing. |
+| **Nov 2022**: | Paper: [PRE-NAS: Evolutionary Neural Architecture Search with Predictor](https://ieeexplore.ieee.org/document/9975797), accepted in IEEE TEVC. |
+| **Oct 2022**: | Promoted to Senior Lecturer (with Tenure)! |
 | **Sep 2022**: | Paper: [Loads estimation from calibration test with machine learning](https://arc.aiaa.org/doi/10.2514/6.2023-1707), accepted at AIAA SciTech'23. |
 | **Sep 2022**: | Paper: An innovative high-fidelity approach to structural health monitoring, accepted at AIAC'23. |
 | **Sep 2022**: | Paper: Transfer learning for flight loads estimation by load calibration test data, accepted at AIAC'23. Congrats Halide! |
@@ -127,7 +128,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-I am a Senior Lecturer in the Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
+I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
 
 I was a Postdoctoral Research Scientist at [Meta/Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
 Prior, I received a PhD from RMIT in 2019.
@@ -158,10 +159,18 @@ I am also interested in learning algorithms that can learn despite limitations i
 ---
 <br/>
 
+Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
+**Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias.**  
+In European Chapter of the Association for Computational Linguistics (EACL), Malta, Mar 2024.  
+[pdf](https://arxiv.org/pdf/2402.00322.pdf)
+[arXiv](https://arxiv.org/abs/2402.00322)
+[bib](../assets/bibtex/Huang2024.bib)
+
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
-**Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions.**  
-In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Jul 2023.  
-[bib](../assets/bibtex/Peng2023a.bib)
+**SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
+In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
+[link](https://openreview.net/forum?id=tveiUXU2aa)
+[bib](../assets/bibtex/Peng2024.bib)
 
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
@@ -199,19 +208,6 @@ Neural Networks, vol. 128, pp. 345--357, May 2020.
 [link](https://www.sciencedirect.com/science/article/pii/S0893608020301817)
 [bib](../assets/bibtex/Fayek2020a.bib)
 
-Haytham M. Fayek, Lawrence Cavedon, and Hong Ren Wu.  
-**On the transferability of representations in neural networks between datasets and tasks.**  
-In Continual Learning Workshop, 32nd Neural Information Processing Systems (NeurIPS), Montréal, Canada, Dec 2018.  
-[pdf](https://marcpickett.com/cl2018/CL-2018_paper_19.pdf)
-[arXiv](https://arxiv.org/abs/1811.12273)
-[bib](../assets/bibtex/Fayek2018.bib)
-
-Haytham M. Fayek, Margaret Lech, and Lawrence Cavedon.  
-**Evaluating deep learning architectures for speech emotion recognition.**  
-Neural Networks, vol. 92, pp. 60--68, Aug 2017.  
-[link](http://doi.org/10.1016/j.neunet.2017.02.013)
-[bib](../assets/bibtex/Fayek2017.bib)
-
 #### [Full list of publications](publications)
 
 <br/>
@@ -219,6 +215,10 @@ Neural Networks, vol. 92, pp. 60--68, Aug 2017.
 ## Selected Talks
 ---
 <br/>
+
+**From First Principles to ChatGPT.** 
+Centre for Higher Education Studies (CHES).
+Australia, Jul 2023.
 
 **Beyond Supervised Deep Learning.**  
 Centre for Industrial AI Research & Innovation (CIARI), RMIT.  
@@ -257,6 +257,8 @@ Yameng Peng, Ph.D. Student, RMIT, 2020--Present.
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
 [Rinaldo Gagiano](https://www.rinaldogagiano.com), Ph.D. Student, 2023--Present. 
+Jing Ren, Ph.D. Student, 2024--Present. 
+Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present. 
 
 ### Alumni
 
@@ -276,7 +278,7 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 ### Courses
 
 **COSC2959/COSC2960 Foundations of Artificial Intelligence.**  
-RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023.
+RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023, March 2024.
 
 **COSC2676/COSC2752 Programming Fundamentals for Scientists.**  
 RMIT, Australia, March 2020, July 2020,  March 2021.

@@ -14,6 +14,8 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias.**  
 In European Chapter of the Association for Computational Linguistics (EACL), Malta, Mar 2024.  
+[pdf](https://arxiv.org/pdf/2402.00322.pdf)
+[arXiv](https://arxiv.org/abs/2402.00322)
 [bib](../assets/bibtex/Huang2024.bib)
 
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
@@ -46,7 +48,7 @@ Nannan Huang, Lin Tian, Haytham M. Fayek, and Xiuzhen Zhang.
 **Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity.**  
 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA), 2023. 
 [pdf](https://arxiv.org/pdf/2306.04424.pdf)
-[arxiv](https://arxiv.org/abs/2306.04424) 
+[arXiv](https://arxiv.org/abs/2306.04424) 
 [bib](../assets/bibtex/Huang2023.bib)
 
 Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
@@ -59,7 +61,7 @@ Jarry Chen and Haytham M. Fayek.
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
 In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
 [pdf](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf)
-[arxiv](https://arxiv.org/abs/2304.14109)
+[arXiv](https://arxiv.org/abs/2304.14109)
 [bib](../assets/bibtex/Chen2023.bib)
 
 Kathiravan Thangavel, Dario Spiller, Roberto Sabatini, Stefania Amici, Nicolas Longepe, Pablo Servidia, Pier Marzocca, Haytham M. Fayek, and Luigi Ansalone.  
