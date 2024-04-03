@@ -18,7 +18,7 @@ In European Chapter of the Association for Computational Linguistics (EACL), Mal
 [arXiv](https://arxiv.org/abs/2402.00322)
 [bib](../assets/bibtex/Huang2024.bib)
 
-Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
+Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, and Xiaojun Chang.  
 **SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
 In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
 [link](https://openreview.net/forum?id=tveiUXU2aa)
