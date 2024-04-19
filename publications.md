@@ -11,6 +11,12 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2024
 
+Benjamin Dixon, Haytham M. Fayek, Chris Hodgen, Timothy Wiley, and Simon Barter.
+**Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading.**
+International Journal of Fatigue, Apr 2024.
+[link](https://www.sciencedirect.com/science/article/pii/S014211232400197X)
+[bib](../assets/bibtex/Dixon2024.bib)
+
 Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias.**  
 In European Chapter of the Association for Computational Linguistics (EACL), Malta, Mar 2024.  

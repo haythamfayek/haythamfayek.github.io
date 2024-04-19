@@ -34,6 +34,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Apr 2024**: | Paper: [Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading](https://www.sciencedirect.com/science/article/pii/S014211232400197X), accepted in International Journal of Fatigue. |
 | **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |
 | **Jan 2024**: | Paper: [Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias](https://arxiv.org/abs/2402.00322), accepted at EACL'24. |
 | **Jan 2024**: | Paper: [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa), accepted at ICLR'24 (Spotlight). |
@@ -177,14 +178,6 @@ Jarry Chen and Haytham M. Fayek.
 In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
 [pdf](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf)
 [bib](../assets/bibtex/Chen2023.bib) 
-
-Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
-**Evoking empathy with visually impaired people through an augmented reality embodiment experience.**  
-IEEE Virtual Reality (IEEEVR), 2023.  
-[pdf](https://arxiv.org/abs/2302.00211.pdf)
-[arXiv](https://arxiv.org/abs/2302.00211)
-[bib](../assets/bibtex/Guarese2023.bib)  
-**In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
