@@ -34,6 +34,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **May 2024**: | At ICLR'24, Vienna, to present [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa). | 
 | **Apr 2024**: | Paper: [Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading](https://www.sciencedirect.com/science/article/pii/S014211232400197X), accepted in International Journal of Fatigue. |
 | **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |
 | **Jan 2024**: | Paper: [Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias](https://arxiv.org/abs/2402.00322), accepted at EACL'24. |
