@@ -210,8 +210,8 @@ Neural Networks, vol. 128, pp. 345--357, May 2020.
 ---
 <br/>
 
-**From First Principles to ChatGPT.** 
-Centre for Higher Education Studies (CHES).
+**From First Principles to ChatGPT.**  
+Centre for Higher Education Studies (CHES).  
 Australia, Jul 2023.
 
 **Beyond Supervised Deep Learning.**  
