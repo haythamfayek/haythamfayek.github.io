@@ -13,7 +13,8 @@ SMIEEE, MACM, MIEAust.
 [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [Github](https://github.com/haythamfayek) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
-[Twitter](https://twitter.com/HaythamFayek)  
+[X](https://twitter.com/HaythamFayek) |
+[ORCID](https://orcid.org/0000-0002-1840-7605)  
 <!--[Resume](assets/Fayek_resume.pdf) |-->
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -34,6 +35,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **May 2024**: | Paper: [Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics](https://ieeexplore.ieee.org/document/10541061), accepted in IEEE Transactions on Games. |
 | **May 2024**: | At ICLR'24, Vienna, to present [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa). | 
 | **Apr 2024**: | Paper: [Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading](https://www.sciencedirect.com/science/article/pii/S014211232400197X), accepted in International Journal of Fatigue. |
 | **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |

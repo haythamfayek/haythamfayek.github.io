@@ -11,6 +11,12 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2024
 
+Emma J. Pretty, Renan Guarese, Chloe A. Dziego, Haytham M. Fayek and Fabio Zambetta.  
+**Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics.**
+IEEE Transactions on Games.
+[link](https://ieeexplore.ieee.org/document/10541061)
+[bib](../assets/bibtex/Pretty2024.bib)
+
 Benjamin Dixon, Haytham M. Fayek, Chris Hodgen, Timothy Wiley, and Simon Barter.  
 **Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading.**  
 International Journal of Fatigue, Apr 2024.  
@@ -28,7 +34,8 @@ Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, and Xiaojun Chang.
 **SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
 In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
 [link](https://openreview.net/forum?id=tveiUXU2aa)
-[bib](../assets/bibtex/Peng2024.bib)
+[bib](../assets/bibtex/Peng2024.bib)  
+**Spotlight.**
 
 #### 2023
 
@@ -61,7 +68,8 @@ Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.
 **Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions.**  
 In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Jul 2023.  
 [link](https://dl.acm.org/doi/10.1145/3583131.3590452)
-[bib](../assets/bibtex/Peng2023a.bib)
+[bib](../assets/bibtex/Peng2023a.bib)  
+**Best Paper Award Nominee**
 
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
@@ -102,7 +110,7 @@ IEEE Virtual Reality (IEEEVR), 2023.
 [pdf](https://arxiv.org/abs/2302.00211.pdf)
 [arXiv](https://arxiv.org/abs/2302.00211)
 [bib](../assets/bibtex/Guarese2023.bib)  
-**In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
+**Best Paper Award Nominee. In memory of [Ron van Schyndel](https://scholar.google.com.au/citations?user=Ahvs0CsAAAAJ&hl=en).**
 
 Kathiravan Thangavel, Dario Spiller, Roberto Sabatini, Stefania Amici, Sarathchandrakumar Thottuchirayil Sasidharan, Haytham Fayek, and Pier Marzocca.  
 **Autonomous satellite wildfire detection using hyperspectral imagery and neural networks: A case study on australian wildfire.**  
@@ -314,7 +322,7 @@ Haytham M. Fayek and Irraivan Elamvazuthi.
 **Real-time implementation of a type-2 fuzzy logic controller to control a DC servomotor with different defuzzification methods.**  
 In 18th International Conference on Methods and Models in Automation and Robotics (MMAR), Miedzyzdroje, Poland, pp. 86--91, Aug 2013.  
 [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6669886)
-[bib](../assets/bibtex/Fayek2013.bib)
+[bib](../assets/bibtex/Fayek2013.bib)  
 **Runner up Best Young Author.**
 
 #### 2012
