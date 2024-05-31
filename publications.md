@@ -12,8 +12,8 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 #### 2024
 
 Emma J. Pretty, Renan Guarese, Chloe A. Dziego, Haytham M. Fayek and Fabio Zambetta.  
-**Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics.**
-IEEE Transactions on Games.
+**Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics.**  
+IEEE Transactions on Games, May 2024.  
 [link](https://ieeexplore.ieee.org/document/10541061)
 [bib](../assets/bibtex/Pretty2024.bib)
 
