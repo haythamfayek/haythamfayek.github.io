@@ -35,21 +35,17 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
+| **May 2024**: | Book: [Towards Human Brain Inspired Lifelong Learning](https://worldscientific.com/worldscibooks/10.1142/13689#t=aboutBook), out now. |
 | **May 2024**: | Paper: [Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics](https://ieeexplore.ieee.org/document/10541061), accepted in IEEE Transactions on Games. |
+| **May 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), posted on TechRxiv. |
 | **May 2024**: | At ICLR'24, Vienna, to present [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa). | 
 | **Apr 2024**: | Paper: [Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading](https://www.sciencedirect.com/science/article/pii/S014211232400197X), accepted in International Journal of Fatigue. |
 | **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |
 | **Jan 2024**: | Paper: [Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias](https://arxiv.org/abs/2402.00322), accepted at EACL'24. |
 | **Jan 2024**: | Paper: [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa), accepted at ICLR'24 (Spotlight). |
-| **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942), posted on TechRxiv. |
+| **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1), posted on TechRxiv. |
 | **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
-| **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
-| **Jul 2023**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'23. |
-| **Jun 2023**: | Paper: [IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21](https://ceur-ws.org/Vol-3496/autextification-paper16.pdf), accepted at IberLEF'23. Congrats Rinaldo! |
-| **May 2023**: | Paper: [Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity](https://arxiv.org/abs/2306.04424), accepted at WASSA'23. Congrats Amber! |
-| **Apr 2023**: | Paper: [Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions](https://dl.acm.org/doi/10.1145/3583131.3590452), accepted at GECCO'23. |
-| **Mar 2023**: | Paper: [The structurally complex with additive parent causality (SCARY) dataset](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf), accepted at CLeaR'23. Congrats Jarry! |
-| **Mar 2023**: | Paper: [Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors](https://www.mdpi.com/1424-8220/23/6/3344), accepted in Sensors. |
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -63,6 +59,13 @@ email("haytham.fayek", "ieee.org");
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
+| **Jul 2023**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'23. |
+| **Jun 2023**: | Paper: [IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21](https://ceur-ws.org/Vol-3496/autextification-paper16.pdf), accepted at IberLEF'23. Congrats Rinaldo! |
+| **May 2023**: | Paper: [Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity](https://arxiv.org/abs/2306.04424), accepted at WASSA'23. Congrats Amber! |
+| **Apr 2023**: | Paper: [Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions](https://dl.acm.org/doi/10.1145/3583131.3590452), accepted at GECCO'23. |
+| **Mar 2023**: | Paper: [The structurally complex with additive parent causality (SCARY) dataset](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf), accepted at CLeaR'23. Congrats Jarry! |
+| **Mar 2023**: | Paper: [Trusted Autonomous Operations of Distributed Satellite Systems Using Optical Sensors](https://www.mdpi.com/1424-8220/23/6/3344), accepted in Sensors. |
 | **Feb 2023**: | Paper: [A Case for personalised non-player character companion design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761), accepted in IJHCI. |
 | **Feb 2023**: | Paper: [A distributed satellite system for multibaseline at-InSAR: Constellation of formations for maritime domain awareness using autonomous orbit control](https://www.mdpi.com/2226-4310/10/2/176), accepted in Aerospace. |
 | **Feb 2023**: | Teaching COSC2959/COSC2960 Foundations of Artificial Intelligence, Feb'23. |
@@ -246,7 +249,6 @@ San Francisco, USA, Sep 2016.
 
 ### Current
 
-Yameng Peng, Ph.D. Student, RMIT, 2020--Present.  
 [Emma Pretty](https://emmajanepretty.webflow.io), Ph.D. Student, RMIT, 2021--Present.  
 [Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D. Student, RMIT, 2021--Present.  
 [Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
@@ -259,9 +261,10 @@ Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present.
 
 ### Alumni
 
-[Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D., RMIT, 2023.  
-Jarry Chen, M.Sc., RMIT, 2023.  
-Fitrio Pakana, M.Sc., RMIT, 2021.  
+Yameng Peng, Ph.D., RMIT, 2024. (Research Fellow, RMIT)  
+[Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D., RMIT, 2023. (Postdoc, Khalifa University)  
+Jarry Chen, M.Sc., RMIT, 2023. (IBM)  
+Fitrio Pakana, M.Sc., RMIT, 2021. (Ph.D., RMIT)  
 Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
 Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
 [Sharath Adavanne](https://www.aane.in), Research Intern, Facebook Reality Labs, 2018. (Tampere University)  
@@ -275,7 +278,7 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 ### Courses
 
 **COSC2959/COSC2960 Foundations of Artificial Intelligence.**  
-RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023, March 2024.
+RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023, March 2024, July 2024.
 
 **COSC2676/COSC2752 Programming Fundamentals for Scientists.**  
 RMIT, Australia, March 2020, July 2020,  March 2021.

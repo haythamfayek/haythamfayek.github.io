@@ -17,6 +17,11 @@ IEEE Transactions on Games, May 2024.
 [link](https://ieeexplore.ieee.org/document/10541061)
 [bib](../assets/bibtex/Pretty2024.bib)
 
+Nermine Hendy, Akram Al-Hourani, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham M. Fayek.  
+**Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter.** TechRxiv, 2024.
+[link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1)
+[bib](../assets/bibtex/Hendy2024.bib)
+
 Benjamin Dixon, Haytham M. Fayek, Chris Hodgen, Timothy Wiley, and Simon Barter.  
 **Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading.**  
 International Journal of Fatigue, Apr 2024.  
@@ -42,7 +47,7 @@ In International Conference on Learning Representations (ICLR), Vienna, Austria,
 Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
 **SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
 TechRxiv, 2023.  
-[link](https://www.techrxiv.org/articles/preprint/SEMUS_-_An_Open-Source_RF-Level_SAR_Emulator_for_Interference_Modelling_in_Spaceborne_Applications/24439942)
+[link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1)
 [bib](../assets/bibtex/Hendy2023.bib)
 
 Sio-Iong Ao and Haytham M. Fayek.  
@@ -331,6 +336,29 @@ Haytham M. Fayek and Irraivan Elamvazuthi.
 **Type-2 fuzzy logic PI (T2FLPI) based DC servomotor control.**  
 Journal of Applied Sciences Research, vol. 8(5), pp. 2564–-2574, 2012.  
 [bib](../assets/bibtex/Fayek2012a.bib)
+
+### Books
+
+Xiaoli Li, Savitha Ramasamy, ArulMurugan Ambikapathi, Suresh Sundaram, and Haytham M. Fayek.  
+**Towards Human Brain Inspired Lifelong Learning.**  
+World Scientific, 2024.  
+[link](https://worldscientific.com/worldscibooks/10.1142/13689#t=aboutBook)
+[bib](../assets/bibtex/Li2024.bib)
+
+### Chapters
+
+Haytham M. Fayek and Hong Ren Wu.  
+**Architectural approaches to continual learning.**  
+In Towards Human Brain Inspired Lifelong Learning, chapter 2, pages 9–23.  
+[link](https://worldscientific.com/doi/10.1142/9789811286711_0002)
+[bib](../assets/bibtex/Fayek2024.bib)
+
+Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and ArulMurugan Am-
+bikapathi.  
+**Flashcards for knowledge capture and replay.**  
+In Towards Human Brain Inspired Lifelong Learning, chapter 8, pages 163–196.  
+[link](https://worldscientific.com/doi/10.1142/9789811286711_0008)
+[bib](../assets/bibtex/Gopalakrishnan2024.bib)
 
 ### Patents
 
