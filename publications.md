@@ -17,8 +17,16 @@ IEEE Transactions on Games, May 2024.
 [link](https://ieeexplore.ieee.org/document/10541061)
 [bib](../assets/bibtex/Pretty2024.bib)
 
+Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, and Xiaojun Chang.  
+**SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
+In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
+[link](https://openreview.net/forum?id=tveiUXU2aa)
+[bib](../assets/bibtex/Peng2024.bib)  
+**Spotlight.**
+
 Nermine Hendy, Akram Al-Hourani, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham M. Fayek.  
-**Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter.** TechRxiv, 2024.
+**Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter.**  
+TechRxiv, Apr 2024.  
 [link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1)
 [bib](../assets/bibtex/Hendy2024.bib)
 
@@ -35,18 +43,11 @@ In European Chapter of the Association for Computational Linguistics (EACL), Mal
 [arXiv](https://arxiv.org/abs/2402.00322)
 [bib](../assets/bibtex/Huang2024.bib)
 
-Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, and Xiaojun Chang.  
-**SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
-In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
-[link](https://openreview.net/forum?id=tveiUXU2aa)
-[bib](../assets/bibtex/Peng2024.bib)  
-**Spotlight.**
-
 #### 2023
 
 Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
 **SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
-TechRxiv, 2023.  
+TechRxiv, Nov 2023.  
 [link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1)
 [bib](../assets/bibtex/Hendy2023.bib)
 
@@ -353,8 +354,7 @@ In Towards Human Brain Inspired Lifelong Learning, chapter 2, pages 9–23.
 [link](https://worldscientific.com/doi/10.1142/9789811286711_0002)
 [bib](../assets/bibtex/Fayek2024.bib)
 
-Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and ArulMurugan Am-
-bikapathi.  
+Saisubramaniam Gopalakrishnan, Pranshu Ranjan Singh, Haytham M. Fayek, Savitha Ramasamy, and ArulMurugan Ambikapathi.  
 **Flashcards for knowledge capture and replay.**  
 In Towards Human Brain Inspired Lifelong Learning, chapter 8, pages 163–196.  
 [link](https://worldscientific.com/doi/10.1142/9789811286711_0008)

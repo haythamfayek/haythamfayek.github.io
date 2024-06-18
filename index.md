@@ -135,7 +135,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
+I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
 
 I was a Postdoctoral Research Scientist at [Meta/Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
 Prior, I received a PhD from RMIT in 2019.
@@ -166,18 +166,19 @@ I am also interested in learning algorithms that can learn despite limitations i
 ---
 <br/>
 
+Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, and Xiaojun Chang.  
+**SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
+In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
+[link](https://openreview.net/forum?id=tveiUXU2aa)
+[bib](../assets/bibtex/Peng2024.bib)  
+**Spotlight.**
+
 Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias.**  
 In European Chapter of the Association for Computational Linguistics (EACL), Malta, Mar 2024.  
 [pdf](https://arxiv.org/pdf/2402.00322.pdf)
 [arXiv](https://arxiv.org/abs/2402.00322)
 [bib](../assets/bibtex/Huang2024.bib)
-
-Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.  
-**SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
-In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
-[link](https://openreview.net/forum?id=tveiUXU2aa)
-[bib](../assets/bibtex/Peng2024.bib)
 
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
