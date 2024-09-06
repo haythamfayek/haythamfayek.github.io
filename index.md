@@ -35,6 +35,9 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1), accepted in IEEE TAES. |
+| **Aug 2024**: | Paper: Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX, accepted at ICMI'24. |
+| **Jul 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'24. |
 | **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
 | **May 2024**: | Book: [Towards Human Brain Inspired Lifelong Learning](https://worldscientific.com/worldscibooks/10.1142/13689#t=aboutBook), out now. |
 | **May 2024**: | Paper: [Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics](https://ieeexplore.ieee.org/document/10541061), accepted in IEEE Transactions on Games. |

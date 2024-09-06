@@ -11,6 +11,17 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2024
 
+Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
+**SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
+IEEE Transactions on Aerospace and Electronic Systems, 2024.  
+[preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1)
+[bib](../assets/bibtex/Hendy2024.bib)
+
+Emma J. Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
+**Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX.**  
+26th ACM International Conference on Multimodal Interaction (ICMI), 2024.  
+[bib](../assets/bibtex/Pretty2024a.bib) 
+
 Emma J. Pretty, Renan Guarese, Chloe A. Dziego, Haytham M. Fayek and Fabio Zambetta.  
 **Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics.**  
 IEEE Transactions on Games, May 2024.  
@@ -45,12 +56,6 @@ In European Chapter of the Association for Computational Linguistics (EACL), Mal
 
 #### 2023
 
-Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
-**SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
-TechRxiv, Nov 2023.  
-[link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1)
-[bib](../assets/bibtex/Hendy2023.bib)
-
 Sio-Iong Ao and Haytham M. Fayek.  
 **Continual Deep Learning for Time Series Modeling.**  
 Sensors, vol. 23, no. 1, 2023.  
@@ -65,7 +70,7 @@ Iberian Languages Evaluation Forum (IberLEF), 2023.
 
 Nannan Huang, Lin Tian, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity.**  
-13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA), 2023. 
+13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA), 2023.  
 [pdf](https://arxiv.org/pdf/2306.04424.pdf)
 [arXiv](https://arxiv.org/abs/2306.04424) 
 [bib](../assets/bibtex/Huang2023.bib)
@@ -90,7 +95,7 @@ Sensors, vol. 23, no. 6, 2023.
 [link](https://www.mdpi.com/1424-8220/23/6/3344) 
 [bib](../assets/bibtex/Thangavel2023b.bib) 
 
-Emma Jane Pretty, Haytham M. Fayek, and Fabio Zambetta.  
+Emma J. Pretty, Haytham M. Fayek, and Fabio Zambetta.  
 **A Case for personalised non-player character companion design.**  
 International Journal of Human-Computer Interaction, pp.1-20, 2023.  
 [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123761)
@@ -103,14 +108,14 @@ Aerospace, vol. 10, no. 2, 2023.
 [link](https://www.mdpi.com/2226-4310/10/2/176) 
 [bib](../assets/bibtex/Thangavel2023a.bib) 
 
-Emma Jane Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
+Emma J. Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
 **Replicability and transparency for the creation of public human user video game datasets.**  
-2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023. 
+2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
 [pdf](https://arxiv.org/pdf/2304.02861.pdf)
 [arXiv](https://arxiv.org/abs/2304.02861) 
 [bib](../assets/bibtex/Pretty2023.bib) 
 
-Renan Martins Guarese, Emma Jane Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
+Renan Martins Guarese, Emma J. Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
 **Evoking empathy with visually impaired people through an augmented reality embodiment experience.**  
 IEEE Virtual Reality (IEEEVR), 2023.  
 [pdf](https://arxiv.org/abs/2302.00211.pdf)
