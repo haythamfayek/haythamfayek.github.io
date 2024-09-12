@@ -19,8 +19,13 @@ IEEE Transactions on Aerospace and Electronic Systems, 2024.
 
 Emma J. Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
 **Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX.**  
-26th ACM International Conference on Multimodal Interaction (ICMI), 2024.  
+In 26th ACM International Conference on Multimodal Interaction (ICMI), 2024.  
 [bib](../assets/bibtex/Pretty2024a.bib) 
+
+Michael J. Scott, Oliver Kirkpatrick, Wim Verhagen, Vlado Kekoc, Bob Teunisse, Jenny Zhang, Haytham M. Fayek, and Pier Marzocca.  
+**Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations.**  
+In 34th Congress of the International Council of the Aeronautical Sciences, Florence, Italy, Sep 2024.  
+[bib](../assets/bibtex/Scott2024.bib) 
 
 Emma J. Pretty, Renan Guarese, Chloe A. Dziego, Haytham M. Fayek and Fabio Zambetta.  
 **Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics.**  
@@ -64,13 +69,13 @@ Sensors, vol. 23, no. 1, 2023.
 
 Rinaldo Gagiano, Haytham M. Fayek, Maria Myung-Hee Kim, Jennifer Biggs, and Xiuzhen Zhang.  
 **IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21.**  
-Iberian Languages Evaluation Forum (IberLEF), 2023.  
+In Iberian Languages Evaluation Forum (IberLEF), 2023.  
 [pdf](https://ceur-ws.org/Vol-3496/autextification-paper16.pdf)
 [bib](../assets/bibtex/Gagiano2023.bib)
 
 Nannan Huang, Lin Tian, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Examining Bias in Opinion Summarisation through the Perspective of Opinion Diversity.**  
-13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA), 2023.  
+In 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA), 2023.  
 [pdf](https://arxiv.org/pdf/2306.04424.pdf)
 [arXiv](https://arxiv.org/abs/2306.04424) 
 [bib](../assets/bibtex/Huang2023.bib)
@@ -110,14 +115,14 @@ Aerospace, vol. 10, no. 2, 2023.
 
 Emma J. Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
 **Replicability and transparency for the creation of public human user video game datasets.**  
-2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
+In 2nd Workshop DATA4XR, IEEE Virtual Reality (IEEEVR), 2023.  
 [pdf](https://arxiv.org/pdf/2304.02861.pdf)
 [arXiv](https://arxiv.org/abs/2304.02861) 
 [bib](../assets/bibtex/Pretty2023.bib) 
 
 Renan Martins Guarese, Emma J. Pretty, Haytham M. Fayek, Fabio Zambetta, and Ron Van Schyndel.  
 **Evoking empathy with visually impaired people through an augmented reality embodiment experience.**  
-IEEE Virtual Reality (IEEEVR), 2023.  
+In IEEE Virtual Reality (IEEEVR), 2023.  
 [pdf](https://arxiv.org/abs/2302.00211.pdf)
 [arXiv](https://arxiv.org/abs/2302.00211)
 [bib](../assets/bibtex/Guarese2023.bib)  

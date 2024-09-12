@@ -39,6 +39,7 @@ email("haytham.fayek", "ieee.org");
 | **Aug 2024**: | Paper: Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX, accepted at ICMI'24. |
 | **Jul 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'24. |
 | **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
+| **Jun 2024**: | Paper: Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations, accepted at ICAS'24. |
 | **May 2024**: | Book: [Towards Human Brain Inspired Lifelong Learning](https://worldscientific.com/worldscibooks/10.1142/13689#t=aboutBook), out now. |
 | **May 2024**: | Paper: [Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics](https://ieeexplore.ieee.org/document/10541061), accepted in IEEE Transactions on Games. |
 | **May 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), posted on TechRxiv. |
