@@ -11,20 +11,30 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2024
 
-Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
-**SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
-IEEE Transactions on Aerospace and Electronic Systems, 2024.  
-[preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1)
-[bib](../assets/bibtex/Hendy2024.bib)
+Nermine Hendy, Akram Al-Hourani, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham M. Fayek.  
+**Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter.**  
+IEEE Geoscience and Remote Sensing Letters, 2024.  
+[preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1)
+[bib](../assets/bibtex/Hendy2024a.bib)
 
 Emma J. Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
 **Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX.**  
 In 26th ACM International Conference on Multimodal Interaction (ICMI), 2024.  
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3686215.3690151)
+[link](https://dl.acm.org/doi/10.1145/3686215.3690151)
 [bib](../assets/bibtex/Pretty2024a.bib) 
+
+Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
+**SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
+IEEE Transactions on Aerospace and Electronic Systems, 2024.  
+[link](https://ieeexplore.ieee.org/document/10684051)
+[preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1)
+[bib](../assets/bibtex/Hendy2024.bib)
 
 Michael J. Scott, Oliver Kirkpatrick, Wim Verhagen, Vlado Kekoc, Bob Teunisse, Jenny Zhang, Haytham M. Fayek, and Pier Marzocca.  
 **Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations.**  
 In 34th Congress of the International Council of the Aeronautical Sciences, Florence, Italy, Sep 2024.  
+[pdf](https://www.icas.org/ICAS_ARCHIVE/ICAS2024/data/papers/ICAS2024_0083_paper.pdf) 
 [bib](../assets/bibtex/Scott2024.bib) 
 
 Emma J. Pretty, Renan Guarese, Chloe A. Dziego, Haytham M. Fayek and Fabio Zambetta.  
@@ -37,14 +47,9 @@ Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, and Xiaojun Chang.
 **SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
 In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
 [link](https://openreview.net/forum?id=tveiUXU2aa)
+[pdf](https://openreview.net/pdf?id=tveiUXU2aa)
 [bib](../assets/bibtex/Peng2024.bib)  
 **Spotlight.**
-
-Nermine Hendy, Akram Al-Hourani, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham M. Fayek.  
-**Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter.**  
-TechRxiv, Apr 2024.  
-[link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1)
-[bib](../assets/bibtex/Hendy2024.bib)
 
 Benjamin Dixon, Haytham M. Fayek, Chris Hodgen, Timothy Wiley, and Simon Barter.  
 **Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading.**  
