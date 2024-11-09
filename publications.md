@@ -17,19 +17,19 @@ IEEE Geoscience and Remote Sensing Letters, 2024.
 [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1)
 [bib](../assets/bibtex/Hendy2024a.bib)
 
-Emma J. Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
-**Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX.**  
-In 26th ACM International Conference on Multimodal Interaction (ICMI), 2024.  
-[pdf](https://dl.acm.org/doi/pdf/10.1145/3686215.3690151)
-[link](https://dl.acm.org/doi/10.1145/3686215.3690151)
-[bib](../assets/bibtex/Pretty2024a.bib) 
-
 Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
 **SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
 IEEE Transactions on Aerospace and Electronic Systems, 2024.  
 [link](https://ieeexplore.ieee.org/document/10684051)
 [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1)
 [bib](../assets/bibtex/Hendy2024.bib)
+
+Emma J. Pretty, Renan Martins Guarese, Haytham M. Fayek, and Fabio Zambetta.  
+**Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX.**  
+In 26th ACM International Conference on Multimodal Interaction (ICMI), 2024.  
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3686215.3690151)
+[link](https://dl.acm.org/doi/10.1145/3686215.3690151)
+[bib](../assets/bibtex/Pretty2024a.bib) 
 
 Michael J. Scott, Oliver Kirkpatrick, Wim Verhagen, Vlado Kekoc, Bob Teunisse, Jenny Zhang, Haytham M. Fayek, and Pier Marzocca.  
 **Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations.**  
