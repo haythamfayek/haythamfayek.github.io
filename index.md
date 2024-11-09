@@ -36,8 +36,8 @@ email("haytham.fayek", "ieee.org");
 <br/>
 
 | **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1), accepted in IEEE GRSL. |
-| **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1), accepted in IEEE TAES. |
-| **Aug 2024**: | Paper: Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX, accepted at ICMI'24. |
+| **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
+| **Aug 2024**: | Paper: [Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX](https://dl.acm.org/doi/10.1145/3686215.3690151), accepted at ICMI'24. |
 | **Jul 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'24. |
 | **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
 | **Jun 2024**: | Paper: Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations, accepted at ICAS'24. |
