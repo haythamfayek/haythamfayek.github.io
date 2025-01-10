@@ -35,8 +35,10 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Jan 2024**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 | **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), accepted in IEEE GRSL. |
 | **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
+| **Sep 2024**: | [Local Arrangement Chair on the Committee](https://ajcai2024.org/committee.html) of [AJCAI'24](https://ajcai2024.org/index.html), Melbourne.
 | **Aug 2024**: | Paper: [Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX](https://dl.acm.org/doi/10.1145/3686215.3690151), accepted at ICMI'24. |
 | **Jul 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'24. |
 | **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
@@ -49,8 +51,7 @@ email("haytham.fayek", "ieee.org");
 | **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |
 | **Jan 2024**: | Paper: [Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias](https://arxiv.org/abs/2402.00322), accepted at EACL'24. |
 | **Jan 2024**: | Paper: [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa), accepted at ICLR'24 (Spotlight). |
-| **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1), posted on TechRxiv. |
-| **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
+
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -64,6 +65,8 @@ email("haytham.fayek", "ieee.org");
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1), posted on TechRxiv. |
+| **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
 | **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
 | **Jul 2023**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'23. |
 | **Jun 2023**: | Paper: [IberLEF 2023 AuTexTification: Automated Text Identification Shared Task – Team OD-21](https://ceur-ws.org/Vol-3496/autextification-paper16.pdf), accepted at IberLEF'23. Congrats Rinaldo! |

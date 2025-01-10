@@ -9,7 +9,7 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 ### Papers
 
-#### 2025
+#### 2024
 
 Nermine Hendy, Akram Al-Hourani, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham M. Fayek.  
 **Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter.**  
@@ -17,8 +17,6 @@ IEEE Geoscience and Remote Sensing Letters, 2024.
 [link](https://ieeexplore.ieee.org/document/10750832)
 [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1)
 [bib](../assets/bibtex/Hendy2025.bib)
-
-#### 2024
 
 Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
 **SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  
