@@ -9,6 +9,18 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 ### Papers
 
+#### 2025 
+
+Nermine Hendy, Mikolaj Czerkawski, Nicolas Longepe, Haytham M. Fayek, and Akram Al-Hourani.  
+**Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation.**  
+In IEEE International Radar 2025 Conference, Atlanta, Georgia, 2025.  
+[bib](../assets/bibtex/Hendy2025.bib)
+
+Sitthichart Tohmuang, Mohammad Fard, Haytham M. Fayek, and Pier Marzocca.  
+**Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design.**  
+In 21st Australian International Aerospace Congress (AIAC), Melbourne, Australia, 2025.  
+[bib](../assets/bibtex/Tohmuang2025.bib)
+
 #### 2024
 
 Nermine Hendy, Akram Al-Hourani, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham M. Fayek.  
@@ -16,7 +28,7 @@ Nermine Hendy, Akram Al-Hourani, Thomas Kraus, Maximilian Schandri, Markus Bachm
 IEEE Geoscience and Remote Sensing Letters, 2024.  
 [link](https://ieeexplore.ieee.org/document/10750832)
 [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1)
-[bib](../assets/bibtex/Hendy2025.bib)
+[bib](../assets/bibtex/Hendy2024a.bib)
 
 Nermine Hendy, Ferdi Kurnia, Thomas Kraus, Markus Bachmann, Marco Martorella, Robin Evans, Manfred Zink, Haytham M. Fayek, and Akram Al-Hourani.  
 **SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications.**  

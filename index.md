@@ -35,6 +35,8 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Feb 2024**: | Paper: Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation, accepted at IEEE Radar'25. |
+| **Feb 2024**: | Paper: Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design, accepted at AIAC '25. |
 | **Jan 2024**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 | **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), accepted in IEEE GRSL. |
 | **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
@@ -187,12 +189,6 @@ In European Chapter of the Association for Computational Linguistics (EACL), Mal
 [pdf](https://arxiv.org/pdf/2402.00322.pdf)
 [arXiv](https://arxiv.org/abs/2402.00322)
 [bib](../assets/bibtex/Huang2024.bib)
-
-Jarry Chen and Haytham M. Fayek.  
-**The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  
-In 2nd Conference on Causal Learning and Reasoning (CLeaR), 2023.  
-[pdf](https://www.cclear.cc/2023/AcceptedDatasets/chen23a.pdf)
-[bib](../assets/bibtex/Chen2023.bib) 
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
