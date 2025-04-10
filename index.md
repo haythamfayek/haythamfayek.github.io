@@ -35,9 +35,12 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **Feb 2024**: | Paper: Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation, accepted at IEEE Radar'25. |
-| **Feb 2024**: | Paper: Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design, accepted at AIAC '25. |
-| **Jan 2024**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
+| **Apr 2025**: | Paper: Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application, accepted in Computers and Structures. |
+| **Mar 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/), accepted at SAE Noise & Vibration Conference & Exhibition 2025. |
+| **Mar 2025**: | Paper: [RFI Mitigation on Raw SAR Data Using U-Net for Enhanced Signal Reconstruction](https://www.techrxiv.org/users/706268/articles/1263556-rfi-mitigation-on-raw-sar-data-using-u-net-for-enhanced-signal-reconstruction), accepted at IEEE IGARSS'25. |
+| **Feb 2025**: | Paper: [Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation](https://www.techrxiv.org/users/706268/articles/1245246-detection-of-radio-frequency-interference-in-raw-sar-data-using-u-net-segmentation), accepted at IEEE Radar'25. |
+| **Feb 2025**: | Paper: Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design, accepted at AIAC '25. |
+| **Jan 2025**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 | **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), accepted in IEEE GRSL. |
 | **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
 | **Sep 2024**: | [Local Arrangement Chair on the Committee](https://ajcai2024.org/committee.html) of [AJCAI'24](https://ajcai2024.org/index.html), Melbourne.

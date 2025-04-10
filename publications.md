@@ -11,9 +11,27 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2025 
 
+Sitthichart Tohmuang, Mohammad Fard, Pier Marzocca, and Haytham M. Fayek.  
+**Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application.**  
+Computers and Structures, 2025.  
+[bib](../assets/bibtex/Tohmuang2025b.bib)
+
+Nermine Hendy, Akram Al-Hourani, Mikolaj Czerkawski, Nicolas Longepe, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham Fayek.  
+**RFI Mitigation on Raw SAR Data Using U-Net for Enhanced Signal Reconstruction.**  
+In IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, 2025.  
+[preprint](https://www.techrxiv.org/users/706268/articles/1263556-rfi-mitigation-on-raw-sar-data-using-u-net-for-enhanced-signal-reconstruction)
+[bib](../assets/bibtex/Hendy2025a.bib)
+
+Sitthichart Tohmuang, James L. Swayze, Mohammad Fard, Haytham M. Fayek, Piergiovanni Marzocca, Sanjay Bhide, and John Huber.  
+**Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design.**  
+In SAE Noise and Vibration Conference and Exhibition, Grand Rapids, Michigan, 2025.  
+[link](https://www.sae.org/publications/technical-papers/content/2025-01-0131/)
+[bib](../assets/bibtex/Tohmuang2025a.bib)
+
 Nermine Hendy, Mikolaj Czerkawski, Nicolas Longepe, Haytham M. Fayek, and Akram Al-Hourani.  
 **Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation.**  
 In IEEE International Radar 2025 Conference, Atlanta, Georgia, 2025.  
+[preprint](https://www.techrxiv.org/users/706268/articles/1245246-detection-of-radio-frequency-interference-in-raw-sar-data-using-u-net-segmentation)
 [bib](../assets/bibtex/Hendy2025.bib)
 
 Sitthichart Tohmuang, Mohammad Fard, Haytham M. Fayek, and Pier Marzocca.  
