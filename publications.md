@@ -19,6 +19,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hang
 Sitthichart Tohmuang, Mohammad Fard, Pier Marzocca, and Haytham M. Fayek.  
 **Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application.**  
 Computers and Structures, 2025.  
+[link](https://www.sciencedirect.com/science/article/pii/S0045794925001257)
 [bib](../assets/bibtex/Tohmuang2025b.bib)
 
 Nermine Hendy, Akram Al-Hourani, Mikolaj Czerkawski, Nicolas Longepe, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham Fayek.  

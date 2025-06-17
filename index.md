@@ -38,6 +38,7 @@ email("haytham.fayek", "ieee.org");
 | **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
 | **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
 | **May 2025**: | Congratulations to Dr Nermine Hendy for completing her Ph.D. |
+| **May 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/) won Best Written Paper Award at SAE Noise & Vibration Conference & Exhibition 2025, Michigan. |
 | **May 2025**: | At SAE Noise & Vibration Conference & Exhibition 2025, Michigan, for [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/). |
 | **Apr 2025**: | Paper: [Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application](https://www.sciencedirect.com/science/article/pii/S0045794925001257), accepted in Computers and Structures. |
 | **Mar 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/), accepted at SAE Noise & Vibration Conference & Exhibition 2025. |
@@ -272,11 +273,11 @@ Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.
 
 ### Alumni
 
-Parin Sanpetchnarong, M.Sc., 2025. (Ph.D. Student, RMIT) 
+Parin Sanpetchnarong, M.Sc., 2025. (Ph.D. Student, RMIT)  
 [Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D., RMIT, 2025.  
 Yameng Peng, Ph.D., RMIT, 2024. (Research Fellow, RMIT)  
 [Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D., RMIT, 2023. (Postdoc, Khalifa University)  
-Jarry Chen, M.Sc., RMIT, 2023. (IBM)  
+Jarry Chen, M.Sc., RMIT, 2023. (Data Scientist, IBM)  
 Fitrio Pakana, M.Sc., RMIT, 2021. (Ph.D. Student, RMIT)  
 Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
 Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
@@ -291,7 +292,7 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 ### Courses
 
 **COSC2959/COSC2960 Foundations of Artificial Intelligence.**  
-RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023, March 2024, July 2024.
+RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023, March 2024, July 2024, March 2025, July 2025.
 
 **COSC2676/COSC2752 Programming Fundamentals for Scientists.**  
 RMIT, Australia, March 2020, July 2020,  March 2021.
