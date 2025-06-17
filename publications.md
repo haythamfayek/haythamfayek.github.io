@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2025 
 
+ Jing Ren, Suyu Ma, Hong Jia, Xiwei Xu, Ivan Lee, Haytham M. Fayek, Xiaodong Li, and Feng Xia.  
+**LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection.**  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025.  
+[bib](../assets/bibtex/Ren2025.bib)
+
 Sitthichart Tohmuang, Mohammad Fard, Pier Marzocca, and Haytham M. Fayek.  
 **Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application.**  
 Computers and Structures, 2025.  

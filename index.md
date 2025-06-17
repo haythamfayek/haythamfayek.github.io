@@ -35,28 +35,20 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **Apr 2025**: | Paper: Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application, accepted in Computers and Structures. |
+| **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
+| **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
+| **May 2025**: | Congratulations to Dr Nermine Hendy for completing her Ph.D. |
+| **May 2025**: | At SAE Noise & Vibration Conference & Exhibition 2025, Michigan, for [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/). |
+| **Apr 2025**: | Paper: [Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application](https://www.sciencedirect.com/science/article/pii/S0045794925001257), accepted in Computers and Structures. |
 | **Mar 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/), accepted at SAE Noise & Vibration Conference & Exhibition 2025. |
 | **Mar 2025**: | Paper: [RFI Mitigation on Raw SAR Data Using U-Net for Enhanced Signal Reconstruction](https://www.techrxiv.org/users/706268/articles/1263556-rfi-mitigation-on-raw-sar-data-using-u-net-for-enhanced-signal-reconstruction), accepted at IEEE IGARSS'25. |
+| **Mar 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'25. |
 | **Feb 2025**: | Paper: [Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation](https://www.techrxiv.org/users/706268/articles/1245246-detection-of-radio-frequency-interference-in-raw-sar-data-using-u-net-segmentation), accepted at IEEE Radar'25. |
 | **Feb 2025**: | Paper: Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design, accepted at AIAC '25. |
 | **Jan 2025**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 | **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), accepted in IEEE GRSL. |
 | **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
 | **Sep 2024**: | [Local Arrangement Chair on the Committee](https://ajcai2024.org/committee.html) of [AJCAI'24](https://ajcai2024.org/index.html), Melbourne.
-| **Aug 2024**: | Paper: [Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX](https://dl.acm.org/doi/10.1145/3686215.3690151), accepted at ICMI'24. |
-| **Jul 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'24. |
-| **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
-| **Jun 2024**: | Paper: Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations, accepted at ICAS'24. |
-| **May 2024**: | Book: [Towards Human Brain Inspired Lifelong Learning](https://worldscientific.com/worldscibooks/10.1142/13689#t=aboutBook), out now. |
-| **May 2024**: | Paper: [Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics](https://ieeexplore.ieee.org/document/10541061), accepted in IEEE Transactions on Games. |
-| **May 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), posted on TechRxiv. |
-| **May 2024**: | At ICLR'24, Vienna, to present [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa). | 
-| **Apr 2024**: | Paper: [Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading](https://www.sciencedirect.com/science/article/pii/S014211232400197X), accepted in International Journal of Fatigue. |
-| **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |
-| **Jan 2024**: | Paper: [Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias](https://arxiv.org/abs/2402.00322), accepted at EACL'24. |
-| **Jan 2024**: | Paper: [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa), accepted at ICLR'24 (Spotlight). |
-
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -70,6 +62,18 @@ email("haytham.fayek", "ieee.org");
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Aug 2024**: | Paper: [Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX](https://dl.acm.org/doi/10.1145/3686215.3690151), accepted at ICMI'24. |
+| **Jul 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'24. |
+| **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
+| **Jun 2024**: | Paper: Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations, accepted at ICAS'24. |
+| **May 2024**: | Book: [Towards Human Brain Inspired Lifelong Learning](https://worldscientific.com/worldscibooks/10.1142/13689#t=aboutBook), out now. |
+| **May 2024**: | Paper: [Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics](https://ieeexplore.ieee.org/document/10541061), accepted in IEEE Transactions on Games. |
+| **May 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), posted on TechRxiv. |
+| **May 2024**: | At ICLR'24, Vienna, to present [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa). | 
+| **Apr 2024**: | Paper: [Optimising Fatigue Crack Growth Predictions for Small Cracks Under Variable Amplitude Loading](https://www.sciencedirect.com/science/article/pii/S014211232400197X), accepted in International Journal of Fatigue. |
+| **Mar 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'24. |
+| **Jan 2024**: | Paper: [Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias](https://arxiv.org/abs/2402.00322), accepted at EACL'24. |
+| **Jan 2024**: | Paper: [SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS](https://openreview.net/forum?id=tveiUXU2aa), accepted at ICLR'24 (Spotlight). |
 | **Nov 2023**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24439942.v1), posted on TechRxiv. |
 | **Sep 2023**: | Awarded STEM Early-Career Research Excellence Award at RMIT. |
 | **Aug 2023**: | Paper: [Continual Deep Learning for Time Series Modeling](https://www.mdpi.com/1424-8220/23/16/7167), accepted in Sensors. |
@@ -151,10 +155,10 @@ email("haytham.fayek", "ieee.org");
 I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
 
 I was a Postdoctoral Research Scientist at [Meta/Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
-Prior, I received a PhD from RMIT in 2019.
-My PhD thesis is titled, [Continual Deep Learning via Progressive Learning](https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341).
-During my PhD, I was a Research Intern at Facebook with [Facebook Reality Labs (Oculus VR Research)](https://tech.fb.com/ar-vr/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/).
-Formerly, I received an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering, and worked as an Electrical/Electronics Engineer in the engineering consulting industry for three years.
+Prior, I received a PhD from RMIT in 2019, and
+<!--My PhD thesis is titled, [Continual Deep Learning via Progressive Learning](https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341).
+During my PhD, I was a Research Intern at Facebook with [Facebook Reality Labs (Oculus VR Research)](https://tech.fb.com/ar-vr/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/). Formerly, I received-->
+an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering, and worked as an Electrical/Electronics Engineer in the engineering consulting industry for three years.
 
 <br/>
 
@@ -258,21 +262,22 @@ San Francisco, USA, Sep 2016.
 ### Current
 
 [Emma Pretty](https://emmajanepretty.webflow.io), Ph.D. Student, RMIT, 2021--Present.  
-[Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D. Student, RMIT, 2021--Present.  
 [Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
-Parin Sanpetchnarong, M.Sc. Student, 2023--Present.  
-[Rinaldo Gagiano](https://www.rinaldogagiano.com), Ph.D. Student, 2023--Present.  
 Jing Ren, Ph.D. Student, 2024--Present.  
 Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present. 
+Parin Sanpetchnarong, Ph.D. Student, 2025--Present.  
+Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
 
 ### Alumni
 
+Parin Sanpetchnarong, M.Sc., 2025. (Ph.D. Student, RMIT) 
+[Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D., RMIT, 2025.  
 Yameng Peng, Ph.D., RMIT, 2024. (Research Fellow, RMIT)  
 [Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D., RMIT, 2023. (Postdoc, Khalifa University)  
 Jarry Chen, M.Sc., RMIT, 2023. (IBM)  
-Fitrio Pakana, M.Sc., RMIT, 2021. (Ph.D., RMIT)  
+Fitrio Pakana, M.Sc., RMIT, 2021. (Ph.D. Student, RMIT)  
 Lior Madmoni, Research Intern, Facebook Reality Labs, 2019. (Ben-Gurion University)  
 Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)  
 [Sharath Adavanne](https://www.aane.in), Research Intern, Facebook Reality Labs, 2018. (Tampere University)  
