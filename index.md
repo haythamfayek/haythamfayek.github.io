@@ -267,7 +267,7 @@ San Francisco, USA, Sep 2016.
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
 Jing Ren, Ph.D. Student, 2024--Present.  
-Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present. 
+Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present.  
 Parin Sanpetchnarong, Ph.D. Student, 2025--Present.  
 Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
 
