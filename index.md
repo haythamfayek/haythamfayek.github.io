@@ -31,6 +31,10 @@ email("haytham.fayek", "ieee.org");
 
 <br/>
 
+**I am looking for a PhD student to work on an exciting NLP/LLM project. Must be an Australian citizen and be able to start in 2025. Full scholarship and stipend available. Reach out if you're interested or for more details.**
+
+<br/>
+
 ## Recent
 ---
 <br/>
