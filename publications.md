@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2025 
 
+Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
+**Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions.**  
+In Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, Nov 2025.  
+[bib](../assets/bibtex/Huang2025.bib)
+
  Jing Ren, Suyu Ma, Hong Jia, Xiwei Xu, Ivan Lee, Haytham M. Fayek, Xiaodong Li, and Feng Xia.  
 **LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection.**  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025.  
@@ -32,7 +37,8 @@ Sitthichart Tohmuang, James L. Swayze, Mohammad Fard, Haytham M. Fayek, Piergiov
 **Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design.**  
 In SAE Noise and Vibration Conference and Exhibition, Grand Rapids, Michigan, 2025.  
 [link](https://www.sae.org/publications/technical-papers/content/2025-01-0131/)
-[bib](../assets/bibtex/Tohmuang2025a.bib)
+[bib](../assets/bibtex/Tohmuang2025a.bib)  
+**Best Written Paper Award.**
 
 Nermine Hendy, Mikolaj Czerkawski, Nicolas Longepe, Haytham M. Fayek, and Akram Al-Hourani.  
 **Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation.**  
@@ -127,7 +133,7 @@ Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, and Xiaojun Chang.
 In Genetic and Evolutionary Computation Conference (GECCO), Lisbon, Portugal, Jul 2023.  
 [link](https://dl.acm.org/doi/10.1145/3583131.3590452)
 [bib](../assets/bibtex/Peng2023a.bib)  
-**Best Paper Award Nominee**
+**Best Paper Award Nominee.**
 
 Jarry Chen and Haytham M. Fayek.  
 **The Structurally Complex with Additive Parent Causality (SCARY) Dataset.**  

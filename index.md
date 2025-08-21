@@ -39,9 +39,10 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Aug 2025**: | Paper: Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions, accepted at EMNLP 2025. |
 | **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
 | **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
-| **May 2025**: | Congratulations to Dr Nermine Hendy for completing her Ph.D. |
+| **May 2025**: | Congratulations to Dr Nermine Hendy for completing her PhD! |
 | **May 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/) won Best Written Paper Award at SAE Noise & Vibration Conference & Exhibition 2025, Michigan. |
 | **May 2025**: | At SAE Noise & Vibration Conference & Exhibition 2025, Michigan, for [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/). |
 | **Apr 2025**: | Paper: [Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application](https://www.sciencedirect.com/science/article/pii/S0045794925001257), accepted in Computers and Structures. |
@@ -51,9 +52,6 @@ email("haytham.fayek", "ieee.org");
 | **Feb 2025**: | Paper: [Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation](https://www.techrxiv.org/users/706268/articles/1245246-detection-of-radio-frequency-interference-in-raw-sar-data-using-u-net-segmentation), accepted at IEEE Radar'25. |
 | **Feb 2025**: | Paper: Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design, accepted at AIAC '25. |
 | **Jan 2025**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
-| **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), accepted in IEEE GRSL. |
-| **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
-| **Sep 2024**: | [Local Arrangement Chair on the Committee](https://ajcai2024.org/committee.html) of [AJCAI'24](https://ajcai2024.org/index.html), Melbourne.
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -67,9 +65,12 @@ email("haytham.fayek", "ieee.org");
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), accepted in IEEE GRSL. |
+| **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
+| **Sep 2024**: | [Local Arrangement Chair on the Committee](https://ajcai2024.org/committee.html) of [AJCAI'24](https://ajcai2024.org/index.html), Melbourne.
 | **Aug 2024**: | Paper: [Comparing Subjective Measures of Workload in Video Game Play: Evaluating the Test-Retest Reliability of the VGDS and NASA-TLX](https://dl.acm.org/doi/10.1145/3686215.3690151), accepted at ICMI'24. |
 | **Jul 2024**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'24. |
-| **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his Ph.D. |
+| **Jun 2024**: | Congratulations to Dr Yameng Peng for completing his PhD! |
 | **Jun 2024**: | Paper: Application of Natural Language Processing for Aircraft Defect Tracking in Maintenance Operations, accepted at ICAS'24. |
 | **May 2024**: | Book: [Towards Human Brain Inspired Lifelong Learning](https://worldscientific.com/worldscibooks/10.1142/13689#t=aboutBook), out now. |
 | **May 2024**: | Paper: [Multimodal Measurement of Cognitive Load in a Video Game Context: A Comparative Study Between Subjective and Objective Metrics](https://ieeexplore.ieee.org/document/10541061), accepted in IEEE Transactions on Games. |
