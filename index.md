@@ -39,6 +39,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **August 2025**: | Congratulations to Dr Emma Pretty for completing her PhD! |
 | **Aug 2025**: | Paper: Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions, accepted at EMNLP 2025. |
 | **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
 | **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
@@ -267,17 +268,18 @@ San Francisco, USA, Sep 2016.
 
 ### Current
 
-[Emma Pretty](https://emmajanepretty.webflow.io), Ph.D. Student, RMIT, 2021--Present.  
 [Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
 Jing Ren, Ph.D. Student, 2024--Present.  
 Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present.  
-Parin Sanpetchnarong, Ph.D. Student, 2025--Present.  
+Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025--Present.  
 Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
+Vu Vo, Ph.D. Student, 2025--Present.
 
 ### Alumni
 
+[Emma Pretty](https://emmajanepretty.webflow.io), Ph.D. Student, RMIT, 2025. (Postdoctoral Researcher, Tampere University)  
 Parin Sanpetchnarong, M.Sc., 2025. (Ph.D. Student, RMIT)  
 [Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D., RMIT, 2025.  
 Yameng Peng, Ph.D., RMIT, 2024. (Research Fellow, RMIT)  
