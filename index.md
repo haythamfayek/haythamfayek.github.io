@@ -39,7 +39,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **August 2025**: | Congratulations to Dr Emma Pretty for completing her PhD! |
+| **Aug 2025**: | Congratulations to Dr Emma Pretty for completing her PhD! |
 | **Aug 2025**: | Paper: Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions, accepted at EMNLP 2025. |
 | **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
 | **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
