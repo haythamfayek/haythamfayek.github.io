@@ -12,6 +12,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 #### 2025 
 
 Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
+**REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting.**  
+In New Frontiers in Summarization Workshop (NewSumm), EMNLP 2025, Suzhou, China, Nov 2025.  
+[bib](../assets/bibtex/Huang2025a.bib)
+
+Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions.**  
 In Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, Nov 2025.  
 [bib](../assets/bibtex/Huang2025.bib)
