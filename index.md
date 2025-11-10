@@ -8,8 +8,10 @@ title: Haytham Fayek
 Artificial Intelligence / Machine Learning Research / Science.  
 Senior Lecturer, School of Computing Technologies,  
 [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au).  
-Alumnus, [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
+Editorial Board Member (Action Editor), [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).  
 SMIEEE, MACM, MIEAust.  
+Alumnus, [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
+
 [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
 [Github](https://github.com/haythamfayek) |
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
@@ -31,7 +33,7 @@ email("haytham.fayek", "ieee.org");
 
 <br/>
 
-**I am looking for a PhD student to work on an exciting NLP/LLM project. Must be an Australian citizen and be able to start in 2025. Full scholarship and stipend available. Reach out if you're interested or for more details.**
+**I am looking for a PhD student (fully-funded) and a Postdoc to work on multi-modal learning starting March 2026. Please send your cover letter, CV, UG/PG transcripts, best/latest papers, and other relevant documents, to my email titled 'Multi-Modal Learning Student/Postdoc'.**
 
 <br/>
 
@@ -237,11 +239,11 @@ Neural Networks, vol. 128, pp. 345--357, May 2020.
 
 **From First Principles to ChatGPT.**  
 Centre for Higher Education Studies (CHES).  
-Australia, Jul 2023.
+Melbourne, Australia, Jul 2023.
 
 **Beyond Supervised Deep Learning.**  
 Centre for Industrial AI Research & Innovation (CIARI), RMIT.  
-Australia, Apr 2022.  
+Melbourne, Australia, Apr 2022.  
 [link](https://www.rmit.edu.au/events/2022/april/ciairi-open-day)
 [recording](https://youtu.be/bx4HA3iMURQ?t=1724)
 
@@ -269,14 +271,14 @@ San Francisco, USA, Sep 2016.
 
 ### Current
 
-[Halide Göknur Aydoğan](https://www.linkedin.com/in/halide-g%C3%B6knur-aydo%C4%9Fan-a1631a16a), Ph.D. Student, RMIT, 2021--Present.  
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
-Jing Ren, Ph.D. Student, 2024--Present.  
 Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present.  
+Jing Ren, Ph.D. Student, 2024--Present.  
+Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present. 
 Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025--Present.  
-Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
-Vu Vo, Ph.D. Student, 2025--Present.
+Vu Vo, Ph.D. Student, 2025--Present.  
+Swaroop Pannem, Ph.D. Student, RMIT, 2025–-Present.
 
 ### Alumni
 
@@ -304,20 +306,6 @@ RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023, March 
 
 **COSC2676/COSC2752 Programming Fundamentals for Scientists.**  
 RMIT, Australia, March 2020, July 2020,  March 2021.
-
-### Guest Lectures
-
-**Digital Image Watermarking.**  
-EEET2169/EEE1255 Image Processing / Image Systems Engineering.  
-RMIT, Australia, April 2018.
-
-**Sampling and Reconstruction.**  
-EEET2113 Signals and Systems II.  
-RMIT, Australia, March 2016.
-
-**Signals in Noise.**  
-EEET2113 Digital Signal Processing.  
-RMIT, Australia, April 2015.
 
 <br/>
 
