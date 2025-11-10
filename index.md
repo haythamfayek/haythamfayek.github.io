@@ -275,7 +275,7 @@ Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.
 Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
 Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present.  
 Jing Ren, Ph.D. Student, 2024--Present.  
-Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present. 
+Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
 Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025--Present.  
 Vu Vo, Ph.D. Student, 2025--Present.  
 Swaroop Pannem, Ph.D. Student, RMIT, 2025–-Present.
