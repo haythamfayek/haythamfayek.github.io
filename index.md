@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Oct 2025**: | Discovery Project (DP26): Automated Assessment of 'Everyday Nature' in Urban Streetscapes, is successful! |
 | **Sep 2025**: | Paper: REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting, accepted at NewSumm Workshop, EMNLP 2025. |
 | **Aug 2025**: | Congratulations to Dr Emma Pretty for completing her PhD! |
 | **Aug 2025**: | Paper: Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions, accepted at EMNLP 2025. |
