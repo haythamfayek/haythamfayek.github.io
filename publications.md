@@ -11,19 +11,32 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2025 
 
+Jing Ren, Tao Tang, Hong Jia, Ziqi Xu, Haytham M. Fayek, Xiaodong Li, Suyu Ma, Xiwei Xu and Feng Xia.  
+**Foundation Models for Anomaly Detection: Vision and Challenges.**  
+AI magazine, 2025.  
+[arXiv](https://arxiv.org/abs/2502.06911)
+[bib](../assets/bibtex/Ren2025a.bib)
+
 Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
 **REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting.**  
 In New Frontiers in Summarization Workshop (NewSumm), EMNLP 2025, Suzhou, China, Nov 2025.  
+[link](https://aclanthology.org/2025.newsum-main.6/) 
+[pdf](https://aclanthology.org/2025.newsum-main.6.pdf)
+[arXiv](https://arxiv.org/abs/2509.15723)
 [bib](../assets/bibtex/Huang2025a.bib)
 
 Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
 **Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions.**  
 In Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, Nov 2025.  
+[link](https://aclanthology.org/2025.emnlp-main.909/) 
+[pdf](https://aclanthology.org/2025.emnlp-main.909.pdf)
+[arXiv](https://arxiv.org/abs/2508.17610)
 [bib](../assets/bibtex/Huang2025.bib)
 
  Jing Ren, Suyu Ma, Hong Jia, Xiwei Xu, Ivan Lee, Haytham M. Fayek, Xiaodong Li, and Feng Xia.  
 **LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection.**  
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025.  
+In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025.  
+[arXiv](https://arxiv.org/abs/2507.21756)
 [bib](../assets/bibtex/Ren2025.bib)
 
 Sitthichart Tohmuang, Mohammad Fard, Pier Marzocca, and Haytham M. Fayek.  

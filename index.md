@@ -41,10 +41,11 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Nov 2025**: | Paper: [Foundation Models for Anomaly Detection: Vision and Challenges](https://arxiv.org/abs/2502.06911), accepted in AI Magazine. |
 | **Oct 2025**: | Discovery Project (DP26): Automated Assessment of 'Everyday Nature' in Urban Streetscapes, is successful! |
-| **Sep 2025**: | Paper: REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting, accepted at NewSumm Workshop, EMNLP 2025. |
+| **Sep 2025**: | Paper: [REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting](https://aclanthology.org/2025.newsum-main.6/), accepted at NewSumm Workshop, EMNLP 2025. |
 | **Aug 2025**: | Congratulations to Dr Emma Pretty for completing her PhD! |
-| **Aug 2025**: | Paper: Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions, accepted at EMNLP 2025. |
+| **Aug 2025**: | Paper: [Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions](https://aclanthology.org/2025.emnlp-main.909/), accepted at EMNLP 2025. |
 | **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
 | **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
 | **May 2025**: | Congratulations to Dr Nermine Hendy for completing her PhD! |

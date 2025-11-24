@@ -1,11 +1,23 @@
+@article{Ren2025a,
+  author = {Jing Ren and Tao Tang and Hong Jia and Ziqi Xu and Haytham M. Fayek and Xiaodong Li and Suyu Ma and Xiwei Xu and Feng Xia},
+  title = {Foundation Models for Anomaly Detection: Vision and Challenges},
+  year = {2025},
+  booktitle = {AI magazine},
+}
+
 @inproceedings{Huang2025a,
-  title = {REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting},
+  title = {{REFER}: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting},
   author = {Nannan Huang and Haytham M. Fayek and Xiuzhen Zhang},
-  booktitle = {New Frontiers in Summarization Workshop (NewSumm), EMNLP 2025},
+  booktitle = {5th New Frontiers in Summarization Workshop (NewSumm), EMNLP 2025},
   month = nov,
   year = {2025},
   address = {Suzhou, China},
   publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2025.newsum-main.6/},
+  doi = {10.18653/v1/2025.newsum-main.6},
+  pages = {74--93},
+  ISBN = {979-8-89176-337-1},
+  abstract = {Individuals express diverse opinions, a fair summary should represent these viewpoints comprehensively.Previous research on fairness in opinion summarisation using large language models (LLMs) relied on hyperparameter tuning or providing ground truth distributional information in prompts. However, these methods face practical limitations: end-users rarely modify default model parameters, and accurate distributional information is often unavailable. Building upon cognitive science research demonstrating that frequency-based representations reduce systematic biases in human statistical reasoning by making reference classes explicit and reducing cognitive load, this study investigates whether frequency framed prompting (REFER) can similarly enhance fairness in LLM opinion summarisation. Through systematic experimentation with different prompting frameworks, we adapted techniques known to improve human reasoning to elicit more effective information processing in language models compared to abstract probabilistic representations. Our results demonstrate that REFER enhances fairness in language models when summarising opinions. This effect is particularly pronounced in larger language models and using stronger reasoning instructions.},
 }
 
 @inproceedings{Huang2025,
@@ -16,6 +28,11 @@
   year = {2025},
   address = {Suzhou, China},
   publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2025.emnlp-main.909/},
+  doi = {10.18653/v1/2025.emnlp-main.909},
+  pages = {18005--18029},
+  ISBN = {979-8-89176-332-6},
+  abstract = {Model compression through post-training pruning offers a way to reduce model size and computational requirements without significantly impacting model performance. However, the effect of pruning on the fairness of LLM-generated summaries remains unexplored, particularly for opinion summarisation where biased outputs could influence public views. In this paper, we present a comprehensive empirical analysis of opinion summarisation, examining three state-of-the-art pruning methods and various calibration sets across three open-source LLMs using four fairness metrics. Our systematic analysis reveals that pruning methods have larger impact on fairness than calibration sets. Building on these insights, we propose High Gradient Low Activation (HGLA) pruning, which identifies and removes parameters that are redundant for input processing but influential in output generation. Our experiments demonstrate that HGLA can better maintain or even improve fairness compared to existing methods, showing promise across models and tasks where traditional methods have limitations. Our human evaluation shows HGLA-generated outputs are fairer than existing state-of-the-art pruning methods.},
 }
 
 @inproceedings{Ren2025,
