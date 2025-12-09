@@ -164,7 +164,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline in the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the machine learning and intelligence group and affiliate with the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the [AI Innovation Lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), and the [Centre for Industrial AI Research & Innovation (CIARI)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-industrial-ai-research-and-innovation).
+I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline within the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the Machine Learning and Intelligence (MLI) Group and affiliate with the Machine Intelligence and Data Science Group, the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), and the RMIT Artificial Intelligence Advanced Innovation Experience (RAIsE) Hub.
 
 I was a Postdoctoral Research Scientist at [Meta/Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
 Prior, I received a PhD from RMIT in 2019, and
@@ -280,7 +280,8 @@ Jing Ren, Ph.D. Student, 2024--Present.
 Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
 Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025--Present.  
 Vu Vo, Ph.D. Student, 2025--Present.  
-Swaroop Pannem, Ph.D. Student, RMIT, 2025–-Present.
+Swaroop Pannem, Ph.D. Student, RMIT, 2025–-Present.  
+Shuai Hang (Matthew) Sun, Ph.D. Student, RMIT, 2025–-Present.  
 
 ### Alumni
 
