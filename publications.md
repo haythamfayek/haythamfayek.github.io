@@ -9,11 +9,28 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 ### Papers
 
+#### 2026
+
+Liping Chen, Mujie Liu, and Haytham Fayek.  
+**Fine-Grained Traceability for Transparent ML Pipelines.**  
+[bib](../assets/bibtex/Chen2026.bib)
+
+Jing Ren, Bowen Li, Ziqi Xu, Renqiang Luo, Shuo Yu, Xin Ye, Haytham Fayek, Xiaodong Li, and Feng Xia.  
+**When to Invoke: Refining LLM Fairness with Toxicity Assessment.**  
+[arXiv](https://arxiv.org/abs/2601.09250)
+[bib](../assets/bibtex/Ren2026a.bib)
+
+Jing Ren, Bowen Li, Ziqi Xu, Xinkun Zhang, Haytham Fayek, and Xiaodong Li.  
+**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation.**  
+[arXiv](https://arxiv.org/abs/2601.09241)
+[bib](../assets/bibtex/Ren2026.bib)
+
 #### 2025 
 
-Jing Ren, Tao Tang, Hong Jia, Ziqi Xu, Haytham M. Fayek, Xiaodong Li, Suyu Ma, Xiwei Xu and Feng Xia.  
+Jing Ren, Tao Tang, Hong Jia, Ziqi Xu, Haytham Fayek, Xiaodong Li, Suyu Ma, Xiwei Xu, and Feng Xia.  
 **Foundation Models for Anomaly Detection: Vision and Challenges.**  
 AI magazine, 2025.  
+[link](https://dl.acm.org/doi/10.1002/aaai.70045)
 [arXiv](https://arxiv.org/abs/2502.06911)
 [bib](../assets/bibtex/Ren2025a.bib)
 
@@ -33,7 +50,7 @@ In Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzho
 [arXiv](https://arxiv.org/abs/2508.17610)
 [bib](../assets/bibtex/Huang2025.bib)
 
- Jing Ren, Suyu Ma, Hong Jia, Xiwei Xu, Ivan Lee, Haytham M. Fayek, Xiaodong Li, and Feng Xia.  
+ Jing Ren, Suyu Ma, Hong Jia, Xiwei Xu, Ivan Lee, Haytham Fayek, Xiaodong Li, and Feng Xia.  
 **LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection.**  
 In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025.  
 [arXiv](https://arxiv.org/abs/2507.21756)
@@ -45,7 +62,7 @@ Computers and Structures, 2025.
 [link](https://www.sciencedirect.com/science/article/pii/S0045794925001257)
 [bib](../assets/bibtex/Tohmuang2025b.bib)
 
-Nermine Hendy, Akram Al-Hourani, Mikolaj Czerkawski, Nicolas Longepe, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham Fayek.  
+Nermine Hendy, Akram Al-Hourani, Mikolaj Czerkawski, Nicolas Longepe, Thomas Kraus, Maximilian Schandri, Markus Bachmann, and Haytham M. Fayek.  
 **RFI Mitigation on Raw SAR Data Using U-Net for Enhanced Signal Reconstruction.**  
 In IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, 2025.  
 [preprint](https://www.techrxiv.org/users/706268/articles/1263556-rfi-mitigation-on-raw-sar-data-using-u-net-for-enhanced-signal-reconstruction)
