@@ -41,10 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **Jan 2026**: | Three papers accepted at the ACM Web Conference (WWW) 2026.
-                  <br>[When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.09241).
-                  <br>[When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250).
-                  <br>Fine-Grained Traceability for Transparent ML Pipelines.|
+| **Jan 2026**: | Three papers accepted at the ACM Web Conference (WWW) 2026. <br>[When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.09241). <br>[When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250). <br>Fine-Grained Traceability for Transparent ML Pipelines.|
 | **Jan 2026**: | Congratulations to Dr Amber Huang for completing her PhD! |
 | **Nov 2025**: | Paper: [Foundation Models for Anomaly Detection: Vision and Challenges](https://arxiv.org/abs/2502.06911), accepted in AI Magazine. |
 | **Oct 2025**: | Discovery Project (DP26): Automated Assessment of 'Everyday Nature' in Urban Streetscapes, is successful! |
