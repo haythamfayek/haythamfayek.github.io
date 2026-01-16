@@ -13,18 +13,18 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 Liping Chen, Mujie Liu, and Haytham Fayek.  
 **Fine-Grained Traceability for Transparent ML Pipelines.**  
-In The Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
 [bib](../assets/bibtex/Chen2026.bib)
 
 Jing Ren, Bowen Li, Ziqi Xu, Renqiang Luo, Shuo Yu, Xin Ye, Haytham Fayek, Xiaodong Li, and Feng Xia.  
 **When to Invoke: Refining LLM Fairness with Toxicity Assessment.**  
-In The Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
 [arXiv](https://arxiv.org/abs/2601.09250)
 [bib](../assets/bibtex/Ren2026a.bib)
 
 Jing Ren, Bowen Li, Ziqi Xu, Xinkun Zhang, Haytham Fayek, and Xiaodong Li.  
 **When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation.**  
-In The Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
 [arXiv](https://arxiv.org/abs/2601.09241)
 [bib](../assets/bibtex/Ren2026.bib)
 
