@@ -14,6 +14,7 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 Liping Chen, Mujie Liu, and Haytham Fayek.  
 **Fine-Grained Traceability for Transparent ML Pipelines.**  
 In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+[arXiv](https://arxiv.org/abs/2601.14971)
 [bib](../assets/bibtex/Chen2026.bib)
 
 Jing Ren, Bowen Li, Ziqi Xu, Renqiang Luo, Shuo Yu, Xin Ye, Haytham Fayek, Xiaodong Li, and Feng Xia.  

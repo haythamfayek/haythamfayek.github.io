@@ -41,7 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **Jan 2026**: | Three papers accepted at the ACM Web Conference (WWW) 2026. <br>1. [When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.09241). <br>2. [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250). <br>3. Fine-Grained Traceability for Transparent ML Pipelines.|
+| **Jan 2026**: | Three papers accepted at the ACM Web Conference (WWW) 2026. <br>1. [When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.09241). <br>2. [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250). <br>3. [Fine-Grained Traceability for Transparent ML Pipelines](https://arxiv.org/abs/2601.14971).|
 | **Jan 2026**: | Congratulations to Dr Amber Huang for completing her PhD! |
 | **Nov 2025**: | Paper: [Foundation Models for Anomaly Detection: Vision and Challenges](https://arxiv.org/abs/2502.06911), accepted in AI Magazine. |
 | **Oct 2025**: | Discovery Project (DP26): Automated Assessment of 'Everyday Nature' in Urban Streetscapes, is successful! |
@@ -197,19 +197,32 @@ I am also interested in learning algorithms that can learn despite limitations i
 ---
 <br/>
 
+Liping Chen, Mujie Liu, and Haytham Fayek.  
+**Fine-Grained Traceability for Transparent ML Pipelines.**  
+In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+[arXiv](https://arxiv.org/abs/2601.14971)
+[bib](../assets/bibtex/Chen2026.bib)
+
+Jing Ren, Bowen Li, Ziqi Xu, Xinkun Zhang, Haytham Fayek, and Xiaodong Li.  
+**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation.**  
+In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+[arXiv](https://arxiv.org/abs/2601.09241)
+[bib](../assets/bibtex/Ren2026.bib)
+
+Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
+**Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions.**  
+In Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, Nov 2025.  
+[link](https://aclanthology.org/2025.emnlp-main.909/) 
+[pdf](https://aclanthology.org/2025.emnlp-main.909.pdf)
+[arXiv](https://arxiv.org/abs/2508.17610)
+[bib](../assets/bibtex/Huang2025.bib)
+
 Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, and Xiaojun Chang.  
 **SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS.**  
 In International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.  
 [link](https://openreview.net/forum?id=tveiUXU2aa)
 [bib](../assets/bibtex/Peng2024.bib)  
 **Spotlight.**
-
-Nannan Huang, Haytham M. Fayek, and Xiuzhen Zhang.  
-**Bias in Opinion Summarisation from Pre-training to Adaptation: A Case Study in Political Bias.**  
-In European Chapter of the Association for Computational Linguistics (EACL), Malta, Mar 2024.  
-[pdf](https://arxiv.org/pdf/2402.00322.pdf)
-[arXiv](https://arxiv.org/abs/2402.00322)
-[bib](../assets/bibtex/Huang2024.bib)
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
