@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Feb 2026**: | Paper: [Narrow-Band RFI Mitigation in Synthetic Aperture Radars Using Variable Space-Frequency Filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175339222.23305588), accepted in IEEE TAES. |
 | **Jan 2026**: | Three papers accepted at the ACM Web Conference (WWW) 2026. <br>1. [When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.09241). <br>2. [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250). <br>3. [Fine-Grained Traceability for Transparent ML Pipelines](https://arxiv.org/abs/2601.14971).|
 | **Jan 2026**: | Congratulations to Dr Amber Huang for completing her PhD! |
 | **Nov 2025**: | Paper: [Foundation Models for Anomaly Detection: Vision and Challenges](https://arxiv.org/abs/2502.06911), accepted in AI Magazine. |
@@ -48,18 +49,6 @@ email("haytham.fayek", "ieee.org");
 | **Sep 2025**: | Paper: [REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting](https://aclanthology.org/2025.newsum-main.6/), accepted at NewSumm Workshop, EMNLP 2025. |
 | **Aug 2025**: | Congratulations to Dr Emma Pretty for completing her PhD! |
 | **Aug 2025**: | Paper: [Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions](https://aclanthology.org/2025.emnlp-main.909/), accepted at EMNLP 2025. |
-| **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
-| **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
-| **May 2025**: | Congratulations to Dr Nermine Hendy for completing her PhD! |
-| **May 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/) won Best Written Paper Award at SAE Noise & Vibration Conference & Exhibition 2025, Michigan. |
-| **May 2025**: | At SAE Noise & Vibration Conference & Exhibition 2025, Michigan, for [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/). |
-| **Apr 2025**: | Paper: [Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application](https://www.sciencedirect.com/science/article/pii/S0045794925001257), accepted in Computers and Structures. |
-| **Mar 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/), accepted at SAE Noise & Vibration Conference & Exhibition 2025. |
-| **Mar 2025**: | Paper: [RFI Mitigation on Raw SAR Data Using U-Net for Enhanced Signal Reconstruction](https://www.techrxiv.org/users/706268/articles/1263556-rfi-mitigation-on-raw-sar-data-using-u-net-for-enhanced-signal-reconstruction), accepted at IEEE IGARSS'25. |
-| **Mar 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'25. |
-| **Feb 2025**: | Paper: [Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation](https://www.techrxiv.org/users/706268/articles/1245246-detection-of-radio-frequency-interference-in-raw-sar-data-using-u-net-segmentation), accepted at IEEE Radar'25. |
-| **Feb 2025**: | Paper: Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design, accepted at AIAC '25. |
-| **Jan 2025**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 
 <script type="text/javascript">
    function toggle_vis(id) {
@@ -73,6 +62,18 @@ email("haytham.fayek", "ieee.org");
 <a href="javascript:toggle_vis('news')">**Show/Hide Previous News**</a>
 <div id="news" style="display:none" markdown="1"> 
 
+| **Jul 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Jul'25. |
+| **Jun 2025**: | Paper: LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection, accepted at IEEE/RSJ IROS 2025. |
+| **May 2025**: | Congratulations to Dr Nermine Hendy for completing her PhD! |
+| **May 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/) won Best Written Paper Award at SAE Noise & Vibration Conference & Exhibition 2025, Michigan. |
+| **May 2025**: | At SAE Noise & Vibration Conference & Exhibition 2025, Michigan, for [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/). |
+| **Apr 2025**: | Paper: [Structure Mode Shapes Classification using Graph Convolutional Networks in Automotive Application](https://www.sciencedirect.com/science/article/pii/S0045794925001257), accepted in Computers and Structures. |
+| **Mar 2025**: | Paper: [Mode Shape Identification Using Graph Neural Networks for Vehicle Structure Design](https://www.sae.org/publications/technical-papers/content/2025-01-0131/), accepted at SAE Noise & Vibration Conference & Exhibition 2025. |
+| **Mar 2025**: | Paper: [RFI Mitigation on Raw SAR Data Using U-Net for Enhanced Signal Reconstruction](https://www.techrxiv.org/users/706268/articles/1263556-rfi-mitigation-on-raw-sar-data-using-u-net-for-enhanced-signal-reconstruction), accepted at IEEE IGARSS'25. |
+| **Mar 2025**: | Teaching COSC2960 Foundations of Artificial Intelligence, Mar'25. |
+| **Feb 2025**: | Paper: [Detection of Radio Frequency Interference in Raw SAR Data Using U-Net Segmentation](https://www.techrxiv.org/users/706268/articles/1245246-detection-of-radio-frequency-interference-in-raw-sar-data-using-u-net-segmentation), accepted at IEEE Radar'25. |
+| **Feb 2025**: | Paper: Mode Shape Identification Using Graph Neural Networks for Aircraft Structure Design, accepted at AIAC '25. |
+| **Jan 2025**: | Elected [Action Editor on the Editorial Board](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board) of [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 | **Nov 2024**: | Paper: [Interference localization and mitigation in synthetic aperture radars using variable space-frequency filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171439775.55630281/v1), accepted in IEEE GRSL. |
 | **Sep 2024**: | Paper: [SEMUS - An Open-Source RF-Level SAR Emulator for Interference Modelling in Spaceborne Applications](https://ieeexplore.ieee.org/document/10684051), accepted in IEEE TAES. |
 | **Sep 2024**: | [Local Arrangement Chair on the Committee](https://ajcai2024.org/committee.html) of [AJCAI'24](https://ajcai2024.org/index.html), Melbourne.
