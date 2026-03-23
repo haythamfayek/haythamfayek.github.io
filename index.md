@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Mar 2026**: | Teaching COSC2673/COSC2793 Machine Learning, Mar'26. |
 | **Feb 2026**: | Paper: [Narrow-Band RFI Mitigation in Synthetic Aperture Radars Using Variable Space-Frequency Filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175339222.23305588), accepted in IEEE TAES. |
 | **Jan 2026**: | Three papers accepted at the ACM Web Conference (WWW) 2026. <br>1. [When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.09241). <br>2. [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250). <br>3. [Fine-Grained Traceability for Transparent ML Pipelines](https://arxiv.org/abs/2601.14971).|
 | **Jan 2026**: | Congratulations to Dr Amber Huang for completing her PhD! |
