@@ -11,9 +11,14 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
+Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, Xiaojun Chang
+**Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns**
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+[bib](../assets/bibtex/Peng2026.bib)
+
 Nermine Hendy, Thomas Kraus, Haytham M. Fayek, Markus Bachmann, Maximilian Schandri, and Akram Al-Hourani.  
 **Narrow-Band RFI Mitigation in Synthetic Aperture Radars Using Variable Space-Frequency Filter.**  
-IEEE Transactions on Aerospace and Electronic Systems, 2026.  
+IEEE Transactions on Aerospace and Electronic Systems (TAES), 2026.  
 [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175339222.23305588)
 [bib](../assets/bibtex/Hendy2026.bib)
 
