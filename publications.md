@@ -11,9 +11,9 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
-Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, Xiaojun Chang
-**Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns**
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, Xiaojun Chang.  
+**Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns.**  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.  
 [bib](../assets/bibtex/Peng2026.bib)
 
 Nermine Hendy, Thomas Kraus, Haytham M. Fayek, Markus Bachmann, Maximilian Schandri, and Akram Al-Hourani.  
@@ -317,7 +317,7 @@ In 19th Australian International Aerospace Congress (AIAC), Melbourne, Australia
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, Jul 2020.  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Jul 2020.  
 [link](https://ieeexplore.ieee.org/abstract/document/9145807)
 [arXiv](https://arxiv.org/abs/1911.09655)
 [code](https://github.com/facebookresearch/daqa)

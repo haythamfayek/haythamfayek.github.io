@@ -229,7 +229,7 @@ In International Conference on Learning Representations (ICLR), Vienna, Austria,
 
 Haytham M. Fayek and [Justin Johnson](https://web.eecs.umich.edu/~justincj/).  
 **Temporal reasoning via audio question answering.**   
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, Jul 2020.  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Jul 2020.  
 [link](https://ieeexplore.ieee.org/abstract/document/9145807)
 [arXiv](https://arxiv.org/abs/1911.09655)
 [code](https://github.com/facebookresearch/daqa)
