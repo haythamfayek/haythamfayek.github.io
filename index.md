@@ -298,6 +298,7 @@ Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.
 Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025--Present.  
 Vu Vo, Ph.D. Student, 2025--Present.  
 Swaroop Pannem, Ph.D. Student, RMIT, 2025–-Present.  
+Shrey Singhal, Honours Student, 2025–-Present.  
 Shuai Hang (Matthew) Sun, Ph.D. Student, RMIT, 2025–-Present.  
 Touhid Hossain, Ph.D. Student, RMIT, 2026–-Present.  
 Suman Chowdhury, Ph.D. Student, RMIT-AcSIR, 2026–-Present.  
@@ -305,6 +306,10 @@ Suman Chowdhury, Ph.D. Student, RMIT-AcSIR, 2026–-Present.
 ### Alumni
 
 [Nannan (Amber) Huang](https://www.nannanhuang.com), Ph.D., RMIT, 2026.  
+Liping Chen, M.App.Sc., RMIT, 2025.  
+Hoang Minh Dau, B.Sc. (Honours), RMIT, 2025.  
+Bipul Poudel, M.App.Sc., RMIT, 2025.  
+Peter Nicholson, M.Sc., RMIT, 2025.  
 [Emma Pretty](https://emmajanepretty.webflow.io), Ph.D., RMIT, 2025. (Postdoctoral Researcher, Tampere University)  
 Parin Sanpetchnarong, M.Sc., RMIT, 2025. (Ph.D. Student, RMIT)  
 [Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D., RMIT, 2025. (Research Fellow, RMIT)  
