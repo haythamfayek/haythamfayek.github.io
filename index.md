@@ -291,8 +291,7 @@ San Francisco, USA, Sep 2016.
 
 ### Current
 
-Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.  
-Nannan (Amber) Huang, Ph.D. Student, 2022--Present.  
+Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.   
 Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present.  
 Jing Ren, Ph.D. Student, 2024--Present.  
 Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
@@ -300,12 +299,15 @@ Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025--Present.
 Vu Vo, Ph.D. Student, 2025--Present.  
 Swaroop Pannem, Ph.D. Student, RMIT, 2025–-Present.  
 Shuai Hang (Matthew) Sun, Ph.D. Student, RMIT, 2025–-Present.  
+Touhid Hossain, Ph.D. Student, RMIT, 2026–-Present.  
+Suman Chowdhury, Ph.D. Student, RMIT-AcSIR, 2026–-Present.  
 
 ### Alumni
 
-[Emma Pretty](https://emmajanepretty.webflow.io), Ph.D. Student, RMIT, 2025. (Postdoctoral Researcher, Tampere University)  
-Parin Sanpetchnarong, M.Sc., 2025. (Ph.D. Student, RMIT)  
-[Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D., RMIT, 2025.  
+[Nannan (Amber) Huang](https://www.nannanhuang.com), Ph.D., RMIT, 2026.  
+[Emma Pretty](https://emmajanepretty.webflow.io), Ph.D., RMIT, 2025. (Postdoctoral Researcher, Tampere University)  
+Parin Sanpetchnarong, M.Sc., RMIT, 2025. (Ph.D. Student, RMIT)  
+[Nermine Hendy](https://www.linkedin.com/in/nermine-hendy-18121069), Ph.D., RMIT, 2025. (Research Fellow, RMIT)  
 Yameng Peng, Ph.D., RMIT, 2024. (Research Fellow, RMIT)  
 [Kathiravan Thangavel](https://www.linkedin.com/in/kathiravan-thangavel-93871a102/), Ph.D., RMIT, 2023. (Postdoc, Khalifa University)  
 Jarry Chen, M.Sc., RMIT, 2023. (Data Scientist, IBM)  
@@ -322,6 +324,9 @@ Shengjie Bi, Research Intern, Facebook Reality Labs, 2019. (Dartmouth College)
 
 ### Courses
 
+**COSC2673/COSC2793 Machine Learning / Computational Machine Learning.**  
+RMIT, Australia, March 2026.
+
 **COSC2959/COSC2960 Foundations of Artificial Intelligence.**  
 RMIT, Australia, July 2021, March 2022, July 2022, March 2023, July 2023, March 2024, July 2024, March 2025, July 2025.
 
@@ -335,9 +340,9 @@ RMIT, Australia, March 2020, July 2020,  March 2021.
 <br/>
 
 **Dr Haytham Fayek**  
+Data Science and Artificial Intelligence Discipline
 School of Computing Technologies  
 Royal Melbourne Institute of Technology (RMIT University)  
-Building 14, Level 11, Room 03  
 124 La Trobe Street, Melbourne VIC 3000  
 Australia  
 
