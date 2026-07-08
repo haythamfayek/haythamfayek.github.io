@@ -292,16 +292,16 @@ San Francisco, USA, Sep 2016.
 ### Current
 
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.   
-Arturo Sandoval Rodríguez, Ph.D. Student, 2024--Present.  
-Jing Ren, Ph.D. Student, 2024--Present.  
-Ricardo Hernandez Lopez, Ph.D. Student, 2025--Present.  
-Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025--Present.  
-Vu Vo, Ph.D. Student, 2025--Present.  
-Swaroop Pannem, Ph.D. Student, RMIT, 2025–-Present.  
-Shrey Singhal, Honours Student, 2025–-Present.  
-Shuai Hang (Matthew) Sun, Ph.D. Student, RMIT, 2025–-Present.  
-Touhid Hossain, Ph.D. Student, RMIT, 2026–-Present.  
-Suman Chowdhury, Ph.D. Student, RMIT-AcSIR, 2026–-Present.  
+Arturo Sandoval Rodríguez, Ph.D. Student, 2024-Present.  
+Jing Ren, Ph.D. Student, 2024-Present.  
+Ricardo Hernandez Lopez, Ph.D. Student, 2025-Present.  
+Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025-Present.  
+Vu Vo, Ph.D. Student, 2025-Present.  
+Swaroop Pannem, Ph.D. Student, RMIT, 2025–Present.  
+Shrey Singhal, Honours Student, 2025–Present.  
+Shuai Hang (Matthew) Sun, Ph.D. Student, RMIT, 2025–Present.  
+Touhid Hossain, Ph.D. Student, RMIT, 2026–Present.  
+Suman Chowdhury, Ph.D. Student, RMIT-AcSIR, 2026–Present.  
 
 ### Alumni
 
@@ -345,7 +345,7 @@ RMIT, Australia, March 2020, July 2020,  March 2021.
 <br/>
 
 **Dr Haytham Fayek**  
-Data Science and Artificial Intelligence Discipline
+Data Science and Artificial Intelligence Discipline  
 School of Computing Technologies  
 Royal Melbourne Institute of Technology (RMIT University)  
 124 La Trobe Street, Melbourne VIC 3000  
