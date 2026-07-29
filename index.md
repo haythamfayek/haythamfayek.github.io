@@ -17,7 +17,7 @@ Alumnus, [Meta/Facebook Research](https://research.fb.com), [Oculus Research](ht
 [LinkedIn](https://www.linkedin.com/in/haythamfayek/) |
 [X](https://twitter.com/HaythamFayek) |
 [ORCID](https://orcid.org/0000-0002-1840-7605)  
-<!--[Resume](assets/Fayek_resume.pdf) |-->
+
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 function email(e, d) {
@@ -33,7 +33,7 @@ email("haytham.fayek", "ieee.org");
 
 <br/>
 
-**I am looking for a PhD student (fully-funded) and a Postdoc to work on multi-modal learning starting March 2026. Please send your cover letter, CV, UG/PG transcripts, best/latest papers, and other relevant documents, to my email titled 'Multi-Modal Learning Student/Postdoc'.**
+**I am looking for a PhD student (fully-funded) and a Postdoc to work on multimodal learning starting March 2027. Please send your cover letter, CV, UG/PG transcripts, best/latest papers, and other relevant documents, to me titled 'Multi-Modal Learning Student/Postdoc'.**
 
 <br/>
 
@@ -41,7 +41,9 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-| **Apr 2026**: | Paper: Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns, accepted in IEEE TPAMI. 
+| **Jul 2026**: | Teaching COSC2673/COSC2793 Machine Learning, Jul'26. |
+| **Jul 2026**: | Paper: Towards Real-Time Adaptation of a Non-Player Character Companion Using Physiological Signals of the Player, accepted at CHI PLAY 2026. |
+| **Apr 2026**: | Paper: Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns, accepted in IEEE TPAMI. |
 | **Mar 2026**: | Teaching COSC2673/COSC2793 Machine Learning, Mar'26. |
 | **Feb 2026**: | Paper: [Narrow-Band RFI Mitigation in Synthetic Aperture Radars Using Variable Space-Frequency Filter](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175339222.23305588), accepted in IEEE TAES. |
 | **Jan 2026**: | Three papers accepted at the ACM Web Conference (WWW) 2026. <br>1. [When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.09241). <br>2. [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250). <br>3. [Fine-Grained Traceability for Transparent ML Pipelines](https://arxiv.org/abs/2601.14971).|
@@ -169,13 +171,13 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
-I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline within the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the Machine Learning and Intelligence (MLI) Group and affiliate with the Machine Intelligence and Data Science Group, the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), and the RMIT Artificial Intelligence Advanced Innovation Experience (RAIsE) Hub.
+I am a Senior Lecturer in the Data Science and Artificial Intelligence Discipline within the School of Computing Technologies at the [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au) in Melbourne, VIC, where I lead the Machine Learning and Intelligence (MLI) Group and affiliate with the Machine Intelligence and Data Science Group, the [Evolutionary Computing and Machine Learning (ECML) Group](https://titan.csit.rmit.edu.au/~e46507/ecml/index.php), the RMIT Artificial Intelligence Advanced Innovation Experience (RAIsE) Hub, and the [Centre for Human-AI Information Environments (CHAI)](https://www.rmit.edu.au/about/schools-colleges/stem-college/research/leading-research-centres/chai).
 
 I was a Postdoctoral Research Scientist at [Meta/Facebook Research](https://research.fb.com) in Seattle, WA, from August 2018 to January 2020.
 Prior, I received a PhD from RMIT in 2019, and
 <!--My PhD thesis is titled, [Continual Deep Learning via Progressive Learning](https://researchrepository.rmit.edu.au/esploro/outputs/9921864066401341).
 During my PhD, I was a Research Intern at Facebook with [Facebook Reality Labs (Oculus VR Research)](https://tech.fb.com/ar-vr/) and [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/). Formerly, I received-->
-an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering, and worked as an Electrical/Electronics Engineer in the engineering consulting industry for three years.
+an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering, and worked as an Electrical/Electronics Engineer in the engineering consulting industry for several years.
 
 <br/>
 
@@ -183,15 +185,12 @@ an MSc (Research) and a BEng (Hons) in Electrical and Electronics Engineering, a
 ---
 <br/>
 
-My research interests are broadly in artificial intelligence, machine learning, deep learning, and machine perception. 
+My research lies broadly in artificial intelligence, machine learning, and deep learning, with a focus on data-efficient learning, multimodal learning, and trustworthy AI.
 
-I am primarily interested in learning systems that systematically generalize from limited labelled data.
-This includes learning algorithms that can learn from a limited number of samples by drawing on prior experiences in other tasks and those that can learn despite limitations in labels in uni-modal and multi-modal data.
+I am interested in enabling AI systems to learn effectively from limited supervision, multiple modalities, and continuously evolving data. My work spans multimodal learning, foundation models and large language models, continual and self-supervised learning, neural architecture search, trustworthy AI, and AI for scientific and industrial applications.
 
 <!--
-I am interested in learning algorithms that can learn from a limited number of samples by drawing on prior experiences which includes transfer learning, multi-task learning, continual learning, and meta-learning.
-
-I am also interested in learning algorithms that can learn despite limitations in labels in data which includes weakly supervised learning, few-shot learning, and self-supervised learning. 
+I am primarily interested in learning systems that systematically generalize from limited labelled data. This includes learning algorithms that can learn from a limited number of samples by drawing on prior experiences in other tasks and those that can learn despite limitations in labels in uni-modal and multi-modal data.
 -->
 
 <br/>

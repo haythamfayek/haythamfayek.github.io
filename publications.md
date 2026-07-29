@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
+Emma J. Pretty, Renan Martins Guarese, Juho Hamari, Haytham M. Fayek, and Fabio Zambetta.  
+**Towards Real-Time Adaptation of a Non-Player Character Companion Using Physiological Signals of the Player.**  
+In Annual Symposium on Computer-Human Interaction in Play (CHI PLAY), York, UK, Nov 2026.  
+[bib](../assets/bibtex/Pretty2026.bib) 
+
 Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, Xiaojun Chang.  
 **Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns.**  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.  
