@@ -290,22 +290,22 @@ San Francisco, USA, Sep 2016.
 
 ### Current
 
-Sitthichart (Mark) Tohmuang, Ph.D. Student, 2022-Present.   
 Arturo Sandoval Rodríguez, Ph.D. Student, 2024-Present.  
 Jing Ren, Ph.D. Student, 2024-Present.  
 Ricardo Hernandez Lopez, Ph.D. Student, 2025-Present.  
 Parin (Ling) Sanpetchnarong, Ph.D. Student, 2025-Present.  
 Vu Vo, Ph.D. Student, 2025-Present.  
 Swaroop Pannem, Ph.D. Student, RMIT, 2025–Present.  
-Shrey Singhal, Honours Student, 2025–Present.  
 Shuai Hang (Matthew) Sun, Ph.D. Student, RMIT, 2025–Present.  
 Touhid Hossain, Ph.D. Student, RMIT, 2026–Present.  
 Suman Chowdhury, Ph.D. Student, RMIT-AcSIR, 2026–Present.  
 
 ### Alumni
 
+Sitthichart (Mark) Tohmuang, Ph.D. Student, 2026. (LEAP Australia)  
+Shrey Singhal, Honours, 2026.  
 [Nannan (Amber) Huang](https://www.nannanhuang.com), Ph.D., RMIT, 2026.  
-Liping Chen, M.App.Sc., RMIT, 2025.  
+Liping Chen, M.App.Sc., RMIT, 2025. (Ph.D. Student, ECU)  
 Hoang Minh Dau, B.Sc. (Honours), RMIT, 2025.  
 Bipul Poudel, M.App.Sc., RMIT, 2025.  
 Peter Nicholson, M.Sc., RMIT, 2025.  
