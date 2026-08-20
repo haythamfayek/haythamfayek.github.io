@@ -42,7 +42,7 @@ email("haytham.fayek", "ieee.org");
 <br/>
 
 | **Aug 2024**: | Congratulations to Dr Sitthichart (Mark) Tohmuang for completing his PhD! |
-| **Aug 2026**: | Paper: Effects of task difficulty and musical training in Virtual Reality: Observations of cognitive load and task accuracy in a {VR} rhythm exergame, accepted in JBCS 2026. |
+| **Aug 2026**: | Paper: Effects of task difficulty and musical training in Virtual Reality: Observations of cognitive load and task accuracy in a VR rhythm exergame, accepted in JBCS 2026. |
 | **Jul 2026**: | Teaching COSC2673/COSC2793 Machine Learning, Jul'26. |
 | **Jul 2026**: | Paper: Towards Real-Time Adaptation of a Non-Player Character Companion Using Physiological Signals of the Player, accepted at CHI PLAY 2026. |
 | **Apr 2026**: | Paper: Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns, accepted in IEEE TPAMI. |
