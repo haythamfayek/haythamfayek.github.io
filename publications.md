@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
+Kyla Ellahiyoun, Emma J. Pretty, Renan Martins Guarese, Marcel Takac, Haytham M. Fayek, and Fabio Zambetta.  
+**Effects of task difficulty and musical training in Virtual Reality: Observations of cognitive load and task accuracy in a VR rhythm exergame.**  
+Journal of the Brazilian Computer Society, 2026.  
+[bib](../assets/bibtex/Ellahiyoun2026.bib) 
+
 Emma J. Pretty, Renan Martins Guarese, Juho Hamari, Haytham M. Fayek, and Fabio Zambetta.  
 **Towards Real-Time Adaptation of a Non-Player Character Companion Using Physiological Signals of the Player.**  
 In Annual Symposium on Computer-Human Interaction in Play (CHI PLAY), York, UK, Nov 2026.  
