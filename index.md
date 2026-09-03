@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Aug 2026**: | Paper: FOCIL: Federated Online Class Incremental Learning, accepted at ICONIP 2026. |
 | **Aug 2024**: | Congratulations to Dr Sitthichart (Mark) Tohmuang for completing his PhD! |
 | **Aug 2026**: | Paper: Effects of task difficulty and musical training in Virtual Reality: Observations of cognitive load and task accuracy in a VR rhythm exergame, accepted in JBCS 2026. |
 | **Jul 2026**: | Teaching COSC2673/COSC2793 Machine Learning, Jul'26. |

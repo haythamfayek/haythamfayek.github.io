@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
+Ricardo Hern\'andez L\'opez, Lawrence Cavedon, and Haytham Fayek.  
+**FOCIL: Federated Online Class Incremental Learning.**  
+In 33rd International Conference on Neural Information Processing (ICONIP), Melbourne, Australia, Nov 2026.  
+[bib](../assets/bibtex/HernandezLopez2026.bib) 
+
 Kyla Ellahiyoun, Emma J. Pretty, Renan Martins Guarese, Marcel Takac, Haytham M. Fayek, and Fabio Zambetta.  
 **Effects of task difficulty and musical training in Virtual Reality: Observations of cognitive load and task accuracy in a VR rhythm exergame.**  
 Journal of the Brazilian Computer Society, 2026.  
