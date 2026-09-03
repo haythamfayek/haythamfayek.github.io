@@ -11,7 +11,7 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
-Ricardo Hern\'andez L\'opez, Lawrence Cavedon, and Haytham Fayek.  
+Ricardo Hernandez Lopez, Lawrence Cavedon, and Haytham Fayek.  
 **FOCIL: Federated Online Class Incremental Learning.**  
 In 33rd International Conference on Neural Information Processing (ICONIP), Melbourne, Australia, Nov 2026.  
 [bib](../assets/bibtex/HernandezLopez2026.bib) 
