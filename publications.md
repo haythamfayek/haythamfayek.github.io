@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
+Junliang Jiang, Andy Song, and Haytham M. Fayek.  
+**Render or Retain: Failure-Aware Optical Compression for Black-Box VLMs.**  
+In FOCIL: Federated Online Class Incremental Learning, Auckland, New Zealand, Dec 2026.  
+[bib](../assets/bibtex/Jiang2026.bib) 
+
 Ricardo Hernandez Lopez, Lawrence Cavedon, and Haytham Fayek.  
 **FOCIL: Federated Online Class Incremental Learning.**  
 In 33rd International Conference on Neural Information Processing (ICONIP), Melbourne, Australia, Nov 2026.  
@@ -29,29 +34,34 @@ In Annual Symposium on Computer-Human Interaction in Play (CHI PLAY), York, UK, 
 Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, Xiaojun Chang.  
 **Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns.**  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.  
+[link](https://ieeexplore.ieee.org/document/11511835)
 [bib](../assets/bibtex/Peng2026.bib)
 
 Nermine Hendy, Thomas Kraus, Haytham M. Fayek, Markus Bachmann, Maximilian Schandri, and Akram Al-Hourani.  
 **Narrow-Band RFI Mitigation in Synthetic Aperture Radars Using Variable Space-Frequency Filter.**  
 IEEE Transactions on Aerospace and Electronic Systems (TAES), 2026.  
+[link](https://ieeexplore.ieee.org/document/10750832/)
 [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175339222.23305588)
 [bib](../assets/bibtex/Hendy2026.bib)
 
 Liping Chen, Mujie Liu, and Haytham Fayek.  
 **Fine-Grained Traceability for Transparent ML Pipelines.**  
 In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+[link](https://dl.acm.org/doi/10.1145/3774904.3793005)
 [arXiv](https://arxiv.org/abs/2601.14971)
 [bib](../assets/bibtex/Chen2026.bib)
 
 Jing Ren, Bowen Li, Ziqi Xu, Renqiang Luo, Shuo Yu, Xin Ye, Haytham Fayek, Xiaodong Li, and Feng Xia.  
 **When to Invoke: Refining LLM Fairness with Toxicity Assessment.**  
 In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+[link](https://dl.acm.org/doi/10.1145/3774904.3793061)
 [arXiv](https://arxiv.org/abs/2601.09250)
 [bib](../assets/bibtex/Ren2026a.bib)
 
 Jing Ren, Bowen Li, Ziqi Xu, Xinkun Zhang, Haytham Fayek, and Xiaodong Li.  
 **When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation.**  
 In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
+[link](https://dl.acm.org/doi/10.1145/3774904.3792358)
 [arXiv](https://arxiv.org/abs/2601.09241)
 [bib](../assets/bibtex/Ren2026.bib)
 
