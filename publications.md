@@ -13,7 +13,7 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 Junliang Jiang, Andy Song, and Haytham M. Fayek.  
 **Render or Retain: Failure-Aware Optical Compression for Black-Box VLMs.**  
-In FOCIL: Federated Online Class Incremental Learning, Auckland, New Zealand, Dec 2026.  
+In Australasian Joint Conference on Artificial Intelligence (AJCAI), Auckland, New Zealand, Dec 2026.  
 [bib](../assets/bibtex/Jiang2026.bib) 
 
 Ricardo Hernandez Lopez, Lawrence Cavedon, and Haytham Fayek.  
