@@ -12,6 +12,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 #### 2026
 
 Junliang Jiang, Andy Song, and Haytham M. Fayek.  
+**Risk-Controlled Adaptive Visual Token Compression for Long-Video Multimodal Language Models.**  
+In 18th Asian Conference on Computer Vision (ACCV), Osaka, Japan, Dec 2026.  
+[bib](../assets/bibtex/Jiang2026a.bib) 
+
+Junliang Jiang, Andy Song, and Haytham M. Fayek.  
 **Render or Retain: Failure-Aware Optical Compression for Black-Box VLMs.**  
 In Australasian Joint Conference on Artificial Intelligence (AJCAI), Auckland, New Zealand, Dec 2026.  
 [bib](../assets/bibtex/Jiang2026.bib) 

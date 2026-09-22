@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Sep 2026**: | Paper: Risk-Controlled Adaptive Visual Token Compression for Long-Video Multimodal Language Models, accepted at ACCV 2026. |
 | **Sep 2026**: | Paper: Render or Retain: Failure-Aware Optical Compression for Black-Box VLMs, accepted at AJCAI 2026. |
 | **Aug 2026**: | Paper: FOCIL: Federated Online Class Incremental Learning, accepted at ICONIP 2026. |
 | **Aug 2024**: | Congratulations to Dr Sitthichart (Mark) Tohmuang for completing his PhD! |
