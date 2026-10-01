@@ -205,6 +205,16 @@ I am primarily interested in learning systems that systematically generalize fro
 ---
 <br/>
 
+Shrey Singhal, Nannan Huang, and Haytham M. Fayek.  
+**AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF.**  
+In 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Sydney, Australia, Dec 2026.  
+[bib](../assets/bibtex/Singhal2026.bib)
+
+Vu Vo Quoc, Haytham M. Fayek, and Thuy T. Nguyen.  
+**Probe-Guided Gradient Balancing for Multimodal Learning.**  
+In 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Sydney, Australia, Dec 2026.  
+[bib](../assets/bibtex/Quoc2026.bib)
+
 Liping Chen, Mujie Liu, and Haytham Fayek.  
 **Fine-Grained Traceability for Transparent ML Pipelines.**  
 In ACM Web Conference (WWW), Dubai, United Arab Emirates, Apr 2026.  
