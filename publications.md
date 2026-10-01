@@ -11,6 +11,16 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
+Shrey Singhal, Nannan Huang, and Haytham M. Fayek.  
+**AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF.**  
+In 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Sydney, Australia, Dec 2026.  
+[bib](../assets/bibtex/Singhal2026.bib)
+
+Vu Vo Quoc, Haytham M. Fayek, and Thuy T. Nguyen.  
+**Probe-Guided Gradient Balancing for Multimodal Learning.**  
+In 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Sydney, Australia, Dec 2026.  
+[bib](../assets/bibtex/Quoc2026.bib)
+
 Junliang Jiang, Andy Song, and Haytham M. Fayek.  
 **Risk-Controlled Adaptive Visual Token Compression for Long-Video Multimodal Language Models.**  
 In 18th Asian Conference on Computer Vision (ACCV), Osaka, Japan, Dec 2026.  

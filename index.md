@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Oct 2026**: | Two papers accepted at NeurIPS 2026. <br>1. AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF. <br>2. Probe-Guided Gradient Balancing for Multimodal Learning. |
 | **Sep 2026**: | Paper: Risk-Controlled Adaptive Visual Token Compression for Long-Video Multimodal Language Models, accepted at ACCV 2026. |
 | **Sep 2026**: | Paper: Render or Retain: Failure-Aware Optical Compression for Black-Box VLMs, accepted at AJCAI 2026. |
 | **Aug 2026**: | Paper: FOCIL: Federated Online Class Incremental Learning, accepted at ICONIP 2026. |
