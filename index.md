@@ -41,12 +41,13 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Oct 2026**: | Paper: Neuromorphic Dual-Pathway Prompt Learning for Unsupervised Continual Anomaly Detection, accepted in IEEE TCDS. |
 | **Sep 2026**: | Two papers accepted at NeurIPS 2026. <br>1. AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF. <br>2. Probe-Guided Gradient Balancing for Multimodal Learning. |
 | **Sep 2026**: | Paper: Risk-Controlled Adaptive Visual Token Compression for Long-Video Multimodal Language Models, accepted at ACCV 2026. |
 | **Sep 2026**: | Paper: Render or Retain: Failure-Aware Optical Compression for Black-Box VLMs, accepted at AJCAI 2026. |
 | **Aug 2026**: | Paper: FOCIL: Federated Online Class Incremental Learning, accepted at ICONIP 2026. |
 | **Aug 2024**: | Congratulations to Dr Sitthichart (Mark) Tohmuang for completing his PhD! |
-| **Aug 2026**: | Paper: Effects of task difficulty and musical training in Virtual Reality: Observations of cognitive load and task accuracy in a VR rhythm exergame, accepted in JBCS 2026. |
+| **Aug 2026**: | Paper: Effects of task difficulty and musical training in Virtual Reality: Observations of cognitive load and task accuracy in a VR rhythm exergame, accepted in JBCS. |
 | **Jul 2026**: | Teaching COSC2673/COSC2793 Machine Learning, Jul'26. |
 | **Jul 2026**: | Paper: Towards Real-Time Adaptation of a Non-Player Character Companion Using Physiological Signals of the Player, accepted at CHI PLAY 2026. |
 | **Apr 2026**: | Paper: Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns, accepted in IEEE TPAMI. |

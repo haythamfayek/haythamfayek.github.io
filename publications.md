@@ -11,6 +11,11 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 #### 2026
 
+Jing Ren, Nguyen Linh Dan Le, Ziqi Xu, Xikun Zhang, Suyu Ma, Xiwei Xu, Haytham Fayek, and Xiaodong Li.  
+**Neuromorphic Dual-Pathway Prompt Learning for Unsupervised Continual Anomaly Detection.**  
+IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2026.  
+[bib](../assets/bibtex/Ren2026b.bib)
+
 Shrey Singhal, Nannan Huang, and Haytham M. Fayek.  
 **AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF.**  
 In 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Sydney, Australia, Dec 2026.  
