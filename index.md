@@ -9,7 +9,7 @@ Artificial Intelligence / Machine Learning Research / Science.
 Senior Lecturer, School of Computing Technologies,  
 [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au).  
 Editorial Board Member (Action Editor), [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).  
-SMIEEE, MACM, MIEAust.  
+SMIEEE, SMACM, MIEAust.  
 Alumnus, [Meta/Facebook Research](https://research.fb.com), [Oculus Research](https://www.oculus.com/research/), & [WorleyParsons](https://www.worley.com).  
 
 [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) |
@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Oct 2026**: | Elected Senior Member of the [ACM](https://acm.org). |
 | **Oct 2026**: | Paper: Neuromorphic Dual-Pathway Prompt Learning for Unsupervised Continual Anomaly Detection, accepted in IEEE TCDS. |
 | **Sep 2026**: | Two papers accepted at NeurIPS 2026. <br>1. AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF. <br>2. Probe-Guided Gradient Balancing for Multimodal Learning. |
 | **Sep 2026**: | Paper: Risk-Controlled Adaptive Visual Token Compression for Long-Video Multimodal Language Models, accepted at ACCV 2026. |
