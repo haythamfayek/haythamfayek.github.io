@@ -317,11 +317,13 @@ Swaroop Pannem, Ph.D. Student, RMIT, 2025–Present.
 Shuai Hang (Matthew) Sun, Ph.D. Student, RMIT, 2025–Present.  
 Touhid Hossain, Ph.D. Student, RMIT, 2026–Present.  
 Suman Chowdhury, Ph.D. Student, RMIT-AcSIR, 2026–Present.  
+Shrey Singhal, Ph.D. Student, RMIT, 2026–Present.  
+Peter Millitz, Ph.D. Student, RMIT, 2026–Present.  
 
 ### Alumni
 
 Sitthichart (Mark) Tohmuang, Ph.D. Student, 2026. (LEAP Australia)  
-Shrey Singhal, Honours, 2026.  
+Shrey Singhal, Honours, 2026. (Ph.D. Student, RMIT)   
 [Nannan (Amber) Huang](https://www.nannanhuang.com), Ph.D., RMIT, 2026.  
 Liping Chen, M.App.Sc., RMIT, 2025. (Ph.D. Student, ECU)  
 Hoang Minh Dau, B.Sc. (Honours), RMIT, 2025.  
