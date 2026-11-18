@@ -9,6 +9,13 @@ Check out [Scholar](https://scholar.google.com/citations?user=l5T9RtcAAAAJ) or t
 
 ### Papers
 
+#### 2027
+
+Jing Ren, Kefan Yang, Xuanchu Hu, Jingjing Zhou, Suyu Ma, Xikun Zhang, Xin Zheng, Haytham Fayek, and Xiaodong Li, and Feng Xia.  
+**GUESS-Bench: Benchmarking Uncertainty Estimation in GNNs Under Distribution Shifts.**  
+In 20th ACM International Conference on Web Search and Data Mining (WSDM), 2027.  
+[bib](../assets/bibtex/Ren2027.bib)
+
 #### 2026
 
 Jing Ren, Nguyen Linh Dan Le, Ziqi Xu, Xikun Zhang, Suyu Ma, Xiwei Xu, Haytham Fayek, and Xiaodong Li.  
