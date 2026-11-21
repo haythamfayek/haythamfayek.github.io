@@ -41,6 +41,7 @@ email("haytham.fayek", "ieee.org");
 ---
 <br/>
 
+| **Nov 2026**: | Paper: GUESS-Bench: Benchmarking Uncertainty Estimation in GNNs Under Distribution Shifts, accepted at WSDM 2027. |
 | **Oct 2026**: | Elected Senior Member of the [ACM](https://acm.org). |
 | **Oct 2026**: | Paper: Neuromorphic Dual-Pathway Prompt Learning for Unsupervised Continual Anomaly Detection, accepted in IEEE TCDS. |
 | **Sep 2026**: | Two papers accepted at NeurIPS 2026. <br>1. AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF. <br>2. Probe-Guided Gradient Balancing for Multimodal Learning. |
